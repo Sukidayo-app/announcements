@@ -1,0 +1,34 @@
+---
+layout: default
+title: Avisos
+lang: es
+---
+<style>
+  .page-title { font-size: 24px; font-weight: 700; margin-bottom: 20px; }
+  .notice-list { list-style: none; }
+  .notice-item { background: #fff; border: 1px solid #eee; border-radius: 10px; margin-bottom: 12px; transition: box-shadow 0.15s; }
+  .notice-item:hover { box-shadow: 0 2px 12px rgba(0,0,0,0.08); }
+  .notice-item a { display: flex; align-items: center; gap: 16px; padding: 18px 20px; text-decoration: none; color: #1a1a1a; }
+  .notice-date { font-size: 13px; color: #999; white-space: nowrap; }
+  .notice-title { font-size: 16px; font-weight: 500; flex: 1; }
+  .notice-arrow { color: #ccc; font-size: 18px; }
+  .empty { color: #999; font-size: 15px; padding: 40px 0; text-align: center; }
+</style>
+
+<div class="page-title">Avisos</div>
+{% include lang-tabs.html section="notice" lang="es" %}
+
+<ul class="notice-list">
+  {% for post in site.notices_es %}
+  <li class="notice-item">
+    <a href="{{ post.url | relative_url }}">
+      <span class="notice-date">{{ post.date | date: "%Y.%m.%d" }}</span>
+      <span class="notice-title">{{ post.title }}</span>
+      <span class="notice-arrow">›</span>
+    </a>
+  </li>
+  {% endfor %}
+  {% if site.notices_es.size == 0 %}
+  <li class="empty">No hay avisos todavía.</li>
+  {% endif %}
+</ul>

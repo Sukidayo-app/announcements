@@ -1,9 +1,9 @@
 <!DOCTYPE html>
-<html lang="ja">
+<html lang="{{ page.lang | default: 'ja' }}">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>{% if page.title %}{{ page.title }} | {% endif %}{{ site.title }}</title>
+  <title>{% if page.title %}{{ page.title }} | {% endif %}Riamo</title>
   <style>
     * { box-sizing: border-box; margin: 0; padding: 0; }
     body {
@@ -16,16 +16,24 @@
       background: #fff;
       border-bottom: 1px solid #eee;
       padding: 16px 24px;
+      display: flex;
+      align-items: center;
+      gap: 24px;
     }
-    header a {
+    header .logo {
       text-decoration: none;
       color: #1a1a1a;
       font-size: 18px;
       font-weight: 700;
     }
-    header a span {
-      color: #e85d9a;
+    header .logo span { color: #e85d9a; }
+    header nav { display: flex; gap: 16px; }
+    header nav a {
+      text-decoration: none;
+      font-size: 14px;
+      color: #666;
     }
+    header nav a:hover { color: #e85d9a; }
     main {
       max-width: 760px;
       margin: 40px auto;
@@ -37,17 +45,38 @@
       color: #999;
       font-size: 13px;
     }
+    .lang-tabs {
+      display: flex;
+      gap: 8px;
+      margin-bottom: 28px;
+    }
+    .lang-tabs .tab {
+      text-decoration: none;
+      font-size: 13px;
+      padding: 5px 14px;
+      border-radius: 20px;
+      border: 1px solid #ddd;
+      color: #666;
+    }
+    .lang-tabs .tab:hover { border-color: #e85d9a; color: #e85d9a; }
+    .lang-tabs .tab.active {
+      background: #e85d9a;
+      border-color: #e85d9a;
+      color: #fff;
+    }
   </style>
 </head>
 <body>
   <header>
-    <a href="/announcements/"><span>Riamo</span> お知らせ</a>
+    <a href="{{ site.baseurl }}/" class="logo"><span>Riamo</span></a>
+    <nav>
+      <a href="{{ site.baseurl }}/notice/">お知らせ</a>
+      <a href="{{ site.baseurl }}/faq/">FAQ</a>
+    </nav>
   </header>
   <main>
     {{ content }}
   </main>
-  <footer>
-    © Sukidayo, Inc.
-  </footer>
+  <footer>© Sukidayo, Inc.</footer>
 </body>
 </html>

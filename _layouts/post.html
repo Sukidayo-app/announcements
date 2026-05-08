@@ -2,19 +2,8 @@
 layout: default
 ---
 <style>
-  .post-header { margin-bottom: 32px; }
   .post-back { font-size: 14px; color: #999; text-decoration: none; display: inline-block; margin-bottom: 20px; }
   .post-back:hover { color: #e85d9a; }
-  .post-tag {
-    display: inline-block;
-    font-size: 12px;
-    font-weight: 600;
-    padding: 3px 10px;
-    border-radius: 4px;
-    margin-bottom: 12px;
-    background: #fce8f3;
-    color: #e85d9a;
-  }
   .post-title { font-size: 26px; font-weight: 700; line-height: 1.4; margin-bottom: 10px; }
   .post-date { font-size: 14px; color: #999; }
   .post-divider { border: none; border-top: 1px solid #eee; margin: 24px 0; }
@@ -32,19 +21,11 @@ layout: default
     border-radius: 4px;
     margin-bottom: 16px;
   }
-  .post-body code {
-    background: #f0f0f0;
-    padding: 2px 6px;
-    border-radius: 3px;
-    font-size: 14px;
-  }
 </style>
 
-<div class="post-header">
-  <a href="/announcements/" class="post-back">← お知らせ一覧へ</a>
-  <div class="post-title">{{ page.title }}</div>
-  <div class="post-date">{{ page.date | date: "%Y年%-m月%-d日" }}</div>
-</div>
+<a href="{{ site.baseurl }}/notice/{{ page.lang }}/" class="post-back">← 一覧へ戻る</a>
+<div class="post-title">{{ page.title }}</div>
+<div class="post-date">{{ page.date | date: "%Y.%m.%d" }}</div>
 <hr class="post-divider">
 <div class="post-body">
   {{ content }}

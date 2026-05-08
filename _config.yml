@@ -1,14 +1,39 @@
-title: Riamo お知らせ
+title: Riamo
 description: Riamoからの最新情報をお届けします
-lang: ja
-theme: minima
 baseurl: /announcements
 
-permalink: /notice/:year-:month-:day-:title/
+collections:
+  notices_ja:
+    output: true
+    permalink: /notice/ja/:title/
+  notices_en:
+    output: true
+    permalink: /notice/en/:title/
+  notices_ko:
+    output: true
+    permalink: /notice/ko/:title/
+  notices_es:
+    output: true
+    permalink: /notice/es/:title/
 
 defaults:
   - scope:
-      path: ""
-      type: "posts"
+      type: notices_ja
     values:
-      layout: "post"
+      layout: post
+      lang: ja
+  - scope:
+      type: notices_en
+    values:
+      layout: post
+      lang: en
+  - scope:
+      type: notices_ko
+    values:
+      layout: post
+      lang: ko
+  - scope:
+      type: notices_es
+    values:
+      layout: post
+      lang: es

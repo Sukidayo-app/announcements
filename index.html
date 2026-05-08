@@ -1,58 +1,40 @@
 ---
 layout: default
-title: お知らせ一覧
+title: ホーム
 ---
 <style>
-  .page-title { font-size: 24px; font-weight: 700; margin-bottom: 8px; }
-  .page-subtitle { font-size: 14px; color: #999; margin-bottom: 32px; }
-  .notice-list { list-style: none; }
-  .notice-item {
+  .home-title { font-size: 24px; font-weight: 700; margin-bottom: 8px; }
+  .home-subtitle { font-size: 14px; color: #999; margin-bottom: 40px; }
+  .home-cards { display: flex; gap: 16px; flex-wrap: wrap; }
+  .home-card {
+    flex: 1;
+    min-width: 200px;
     background: #fff;
     border: 1px solid #eee;
-    border-radius: 10px;
-    margin-bottom: 12px;
-    transition: box-shadow 0.15s;
-  }
-  .notice-item:hover { box-shadow: 0 2px 12px rgba(0,0,0,0.08); }
-  .notice-item a {
-    display: flex;
-    align-items: center;
-    gap: 16px;
-    padding: 18px 20px;
+    border-radius: 12px;
+    padding: 28px 24px;
     text-decoration: none;
     color: #1a1a1a;
+    transition: box-shadow 0.15s;
   }
-  .notice-date { font-size: 13px; color: #999; white-space: nowrap; }
-  .notice-title { font-size: 16px; font-weight: 500; flex: 1; }
-  .notice-arrow { color: #ccc; font-size: 18px; }
-  .page-nav { margin-bottom: 24px; }
-  .nav-link {
-    display: inline-block;
-    font-size: 14px;
-    color: #e85d9a;
-    text-decoration: none;
-    border: 1px solid #e85d9a;
-    padding: 6px 14px;
-    border-radius: 20px;
-  }
-  .nav-link:hover { background: #fce8f3; }
+  .home-card:hover { box-shadow: 0 2px 12px rgba(0,0,0,0.08); }
+  .home-card-title { font-size: 18px; font-weight: 700; margin-bottom: 8px; }
+  .home-card-desc { font-size: 14px; color: #999; }
+  .home-card-arrow { font-size: 20px; color: #e85d9a; margin-top: 16px; display: block; }
 </style>
 
-<div class="page-nav">
-  <a href="{{ '/faq' | relative_url }}" class="nav-link">よくある質問（FAQ）</a>
+<div class="home-title">Riamo サポート</div>
+<div class="home-subtitle">お知らせ・よくある質問はこちらからご確認いただけます。</div>
+
+<div class="home-cards">
+  <a href="{{ site.baseurl }}/notice/" class="home-card">
+    <div class="home-card-title">お知らせ</div>
+    <div class="home-card-desc">最新のアップデート情報や機能追加のお知らせをご確認いただけます。</div>
+    <span class="home-card-arrow">›</span>
+  </a>
+  <a href="{{ site.baseurl }}/faq/" class="home-card">
+    <div class="home-card-title">よくある質問</div>
+    <div class="home-card-desc">使い方やトラブルに関するよくある質問をまとめています。</div>
+    <span class="home-card-arrow">›</span>
+  </a>
 </div>
-
-<div class="page-title">お知らせ</div>
-<div class="page-subtitle">Riamoからの最新情報をお届けします</div>
-
-<ul class="notice-list">
-  {% for post in site.posts %}
-  <li class="notice-item">
-    <a href="{{ post.url | relative_url }}">
-      <span class="notice-date">{{ post.date | date: "%Y.%m.%d" }}</span>
-      <span class="notice-title">{{ post.title }}</span>
-      <span class="notice-arrow">›</span>
-    </a>
-  </li>
-  {% endfor %}
-</ul>
