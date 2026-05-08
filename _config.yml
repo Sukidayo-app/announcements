@@ -1,0 +1,13 @@
+title: Riamo お知らせ
+description: Riamoからの最新情報をお届けします
+lang: ja
+theme: minima
+
+permalink: /notice/:year-:month-:day-:title/
+
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"

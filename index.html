@@ -1,0 +1,43 @@
+---
+layout: default
+title: お知らせ一覧
+---
+<style>
+  .page-title { font-size: 24px; font-weight: 700; margin-bottom: 8px; }
+  .page-subtitle { font-size: 14px; color: #999; margin-bottom: 32px; }
+  .notice-list { list-style: none; }
+  .notice-item {
+    background: #fff;
+    border: 1px solid #eee;
+    border-radius: 10px;
+    margin-bottom: 12px;
+    transition: box-shadow 0.15s;
+  }
+  .notice-item:hover { box-shadow: 0 2px 12px rgba(0,0,0,0.08); }
+  .notice-item a {
+    display: flex;
+    align-items: center;
+    gap: 16px;
+    padding: 18px 20px;
+    text-decoration: none;
+    color: #1a1a1a;
+  }
+  .notice-date { font-size: 13px; color: #999; white-space: nowrap; }
+  .notice-title { font-size: 16px; font-weight: 500; flex: 1; }
+  .notice-arrow { color: #ccc; font-size: 18px; }
+</style>
+
+<div class="page-title">お知らせ</div>
+<div class="page-subtitle">Riamoからの最新情報をお届けします</div>
+
+<ul class="notice-list">
+  {% for post in site.posts %}
+  <li class="notice-item">
+    <a href="{{ post.url | relative_url }}">
+      <span class="notice-date">{{ post.date | date: "%Y.%m.%d" }}</span>
+      <span class="notice-title">{{ post.title }}</span>
+      <span class="notice-arrow">›</span>
+    </a>
+  </li>
+  {% endfor %}
+</ul>

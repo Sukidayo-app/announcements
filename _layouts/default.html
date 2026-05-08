@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{% if page.title %}{{ page.title }} | {% endif %}{{ site.title }}</title>
+  <style>
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Hiragino Sans", "Noto Sans JP", sans-serif;
+      background: #f9f9f9;
+      color: #1a1a1a;
+      line-height: 1.8;
+    }
+    header {
+      background: #fff;
+      border-bottom: 1px solid #eee;
+      padding: 16px 24px;
+    }
+    header a {
+      text-decoration: none;
+      color: #1a1a1a;
+      font-size: 18px;
+      font-weight: 700;
+    }
+    header a span {
+      color: #e85d9a;
+    }
+    main {
+      max-width: 760px;
+      margin: 40px auto;
+      padding: 0 24px;
+    }
+    footer {
+      text-align: center;
+      padding: 40px;
+      color: #999;
+      font-size: 13px;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <a href="/announcements/"><span>Riamo</span> お知らせ</a>
+  </header>
+  <main>
+    {{ content }}
+  </main>
+  <footer>
+    © Sukidayo, Inc.
+  </footer>
+</body>
+</html>
