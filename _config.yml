@@ -2,6 +2,7 @@ title: Riamo お知らせ
 description: Riamoからの最新情報をお届けします
 lang: ja
 theme: minima
+baseurl: /announcements
 
 permalink: /notice/:year-:month-:day-:title/
 
