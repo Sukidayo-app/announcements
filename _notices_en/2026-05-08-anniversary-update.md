@@ -1,5 +1,5 @@
 ---
-title: "🎉 [New Features] Anniversary Update & New Feature Release"
+title: "[New Features] Anniversary Update & New Feature Release 🎉"
 date: 2026-05-08
 ---
 

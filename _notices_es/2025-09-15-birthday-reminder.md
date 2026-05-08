@@ -1,5 +1,5 @@
 ---
-title: "🎉 [Nuevas funciones] Recordatorio de cumpleaños y más"
+title: "[Nuevas funciones] Recordatorio de cumpleaños y más 🎉"
 date: 2025-09-15
 ---
 

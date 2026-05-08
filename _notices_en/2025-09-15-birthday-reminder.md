@@ -1,5 +1,5 @@
 ---
-title: "🎉 [New Features] Birthday Reminder & More"
+title: "[New Features] Birthday Reminder & More 🎉"
 date: 2025-09-15
 ---
 

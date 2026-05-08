@@ -1,5 +1,5 @@
 ---
-title: "🎉 [New Features] Poke Feature (Answer Reminder)"
+title: "[New Features] Poke Feature (Answer Reminder) 🎉"
 date: 2025-10-27
 ---
 

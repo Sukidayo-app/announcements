@@ -1,5 +1,5 @@
 ---
-title: "🎉 [Nuevas funciones] Función Toc-toc (recordatorio de respuesta)"
+title: "[Nuevas funciones] Función Toc-toc (recordatorio de respuesta) 🎉"
 date: 2025-10-27
 ---
 

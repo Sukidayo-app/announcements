@@ -1,5 +1,5 @@
 ---
-title: "🎉 [Nuevas funciones] Actualización de Aniversarios y lanzamiento de nuevas funciones"
+title: "[Nuevas funciones] Actualización de Aniversarios y lanzamiento de nuevas funciones 🎉"
 date: 2026-05-08
 ---
 
