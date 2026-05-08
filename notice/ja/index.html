@@ -19,7 +19,7 @@ lang: ja
 {% include lang-tabs.html section="notice" lang="ja" %}
 
 <ul class="notice-list">
-  {% for post in site.notices_ja %}
+  {% assign sorted = site.notices_ja | sort: "date" | reverse %}{% for post in sorted %}
   <li class="notice-item">
     <a href="{{ post.url | relative_url }}">
       <span class="notice-date">{{ post.date | date: "%Y.%m.%d" }}</span>
