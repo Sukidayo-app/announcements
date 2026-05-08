@@ -25,7 +25,22 @@ title: お知らせ一覧
   .notice-date { font-size: 13px; color: #999; white-space: nowrap; }
   .notice-title { font-size: 16px; font-weight: 500; flex: 1; }
   .notice-arrow { color: #ccc; font-size: 18px; }
+  .page-nav { margin-bottom: 24px; }
+  .nav-link {
+    display: inline-block;
+    font-size: 14px;
+    color: #e85d9a;
+    text-decoration: none;
+    border: 1px solid #e85d9a;
+    padding: 6px 14px;
+    border-radius: 20px;
+  }
+  .nav-link:hover { background: #fce8f3; }
 </style>
+
+<div class="page-nav">
+  <a href="{{ '/faq' | relative_url }}" class="nav-link">よくある質問（FAQ）</a>
+</div>
 
 <div class="page-title">お知らせ</div>
 <div class="page-subtitle">Riamoからの最新情報をお届けします</div>
