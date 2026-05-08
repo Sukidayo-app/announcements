@@ -21,6 +21,14 @@ lang: en
   .faq-body table { border-collapse: collapse; width: 100%; margin-bottom: 16px; font-size: 14px; }
   .faq-body th, .faq-body td { border: 1px solid #eee; padding: 8px 12px; }
   .faq-body th { background: #f9f9f9; }
+  @media (max-width: 600px) {
+    .page-title { font-size: 20px; }
+    .toc { padding: 16px 18px; }
+    .faq-body h2 { font-size: 16px; }
+    .faq-body h3 { font-size: 15px; }
+    .faq-body p, .faq-body ul, .faq-body ol { font-size: 14px; }
+    .faq-body table { display: block; overflow-x: auto; -webkit-overflow-scrolling: touch; }
+  }
 </style>
 
 <div class="page-title">FAQ</div>

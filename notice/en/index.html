@@ -13,6 +13,12 @@ lang: en
   .notice-title { font-size: 16px; font-weight: 500; flex: 1; }
   .notice-arrow { color: #ccc; font-size: 18px; }
   .empty { color: #999; font-size: 15px; padding: 40px 0; text-align: center; }
+  @media (max-width: 600px) {
+    .page-title { font-size: 20px; }
+    .notice-item a { flex-wrap: wrap; gap: 6px; padding: 14px 16px; }
+    .notice-title { font-size: 14px; }
+    .notice-arrow { display: none; }
+  }
 </style>
 
 <div class="page-title">Notices</div>
