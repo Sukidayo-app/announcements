@@ -7,12 +7,14 @@ lang: ko
   .page-title { font-size: 24px; font-weight: 700; margin-bottom: 20px; }
   .toc { background: #fafafa; border: 1px solid #e8e8e8; border-radius: 10px; padding: 20px 24px; margin-bottom: 32px; }
   .toc-title { font-size: 14px; font-weight: 700; margin-bottom: 10px; color: #666; }
-  .toc ul { padding-left: 16px; margin: 0; }
+  .toc ul { list-style: none; padding-left: 0; margin: 0; }
   .toc li { font-size: 14px; margin-bottom: 4px; }
   .toc a { color: #EE8514; text-decoration: none; }
   .toc a:hover { text-decoration: underline; }
   .faq-body h2 { font-size: 18px; font-weight: 700; margin: 32px 0 12px; padding-bottom: 8px; border-bottom: 2px solid #f0f0f0; }
   .faq-body h3 { font-size: 16px; font-weight: 700; margin: 20px 0 6px; color: #EE8514; }
+  .faq-body h3::before { content: "Q. "; }
+  .faq-body h3 + p::before { content: "A. "; font-weight: bold; }
   .faq-body p { font-size: 15px; margin-bottom: 12px; }
   .faq-body ul, .faq-body ol { padding-left: 24px; margin-bottom: 12px; font-size: 15px; }
   .faq-body li { margin-bottom: 4px; }
@@ -53,6 +55,8 @@ lang: ko
 ## 🐾 시작하기 {#getting-started}
 
 ### 어떻게 시작하나요?
+
+다음 순서로 이용하실 수 있습니다.
 
 **초대하는 쪽:**
 1. 로그인 후 「새로 시작하기」를 탭
@@ -167,6 +171,8 @@ lang: ko
 ## 💳 구독 {#subscription}
 
 ### 구독으로 어떤 기능을 사용할 수 있나요?
+
+다음과 같은 기능을 이용하실 수 있습니다.
 
 - 광고 없이 앱 이용 가능
 - 구독 전용 커플 진단 테마 이용 가능
