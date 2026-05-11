@@ -179,11 +179,6 @@ The following features are included:
 - Wish List customization (add, edit, delete categories)
 - Up to 10 photos per person for the monthly "Our Memories"
 
-| Plan | Price |
-|------|-------|
-| Annual Plan | ¥6,000/year (approx. ¥250/person/month) |
-| Monthly Plan | ¥1,280/month (approx. ¥640/person/month) |
-
 ### Do both partners need a subscription?
 
 No — if either one subscribes, both can enjoy premium features.

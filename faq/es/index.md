@@ -176,11 +176,6 @@ Las funciones incluidas son las siguientes:
 - Personalización de la Lista de deseos
 - Hasta 10 fotos por persona para «Nuestros recuerdos»
 
-| Plan | Precio |
-|------|--------|
-| Plan anual | ¥6,000/año (aprox. ¥250/persona/mes) |
-| Plan mensual | ¥1,280/mes (aprox. ¥640/persona/mes) |
-
 ### ¿Necesitamos los dos una suscripción?
 
 No — si cualquiera de los dos se suscribe, ambos disfrutáis de las funciones premium.
