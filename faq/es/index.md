@@ -43,6 +43,8 @@ lang: es
     <li><a href="#preguntas">📝 Preguntas diarias, Quiz de pareja y respuestas</a></li>
     <li><a href="#recuerdos">📷 Nuestros recuerdos</a></li>
     <li><a href="#ajustes">🛠 Ajustes y funciones</a></li>
+    <li><a href="#aniversarios">📅 Aniversarios</a></li>
+    <li><a href="#tarjeta-mensaje">💌 Tarjetas de mensaje</a></li>
     <li><a href="#cuenta">🚪 Eliminar cuenta y desvincular pareja</a></li>
     <li><a href="#suscripcion">💳 Suscripción</a></li>
     <li><a href="#sorpresas">🎁 Decoraciones y sorpresas</a></li>
@@ -73,7 +75,7 @@ Así es como puedes empezar:
 
 ### ¿Puedo cambiar mi nombre, género o el nombre del animal más adelante?
 
-Sí — desde Menú → Ajustes → Ajustes básicos. El tipo y color del animal no pueden cambiarse.
+Sí — desde Mi página (icono del menú arriba a la derecha) → Ajustes → Ajustes básicos. El tipo y color del animal no pueden cambiarse.
 
 ### No recibo notificaciones. ¿Qué hago?
 
@@ -125,19 +127,28 @@ Puedes editar las fotos y la «nota del recuerdo». Selecciona el recuerdo y pul
 
 ### ¿Puedo cambiar la hora de entrega de las preguntas?
 
-Solo la persona que envió la invitación puede cambiarlo. Se ajusta en incrementos de 1 hora. Menú → Ajustes → Ajustes básicos → Hora de entrega.
+Solo la persona que envió la invitación puede cambiarlo. Se ajusta en incrementos de 1 hora. Mi página (icono del menú arriba a la derecha) → Ajustes → Ajustes básicos → Hora de entrega.
 
 ### ¿Cómo cierro sesión?
 
-Menú → Otros → Cerrar sesión.
+Mi página (icono del menú arriba a la derecha) → Otros → Cerrar sesión. Una vez mostrada la pantalla de confirmación, volverás a la pantalla de inicio de la aplicación.
 
 ### ¿Cómo transfiero mis datos a un nuevo dispositivo?
 
-Inicia sesión con la misma cuenta (Google o Apple ID) y tus datos se transferirán automáticamente.
+Puedes transferir tus datos iniciando sesión con la misma cuenta que utilizaste en tu dispositivo anterior. Si inicias sesión con una cuenta diferente, se tratará como una cuenta nueva y tus datos anteriores no se trasladarán.
+
+- Si usaste Google para iniciar sesión, inicia sesión con la misma cuenta de Google en ambos dispositivos
+- Si usaste Apple para iniciar sesión, inicia sesión con el mismo Apple ID en ambos dispositivos
 
 ### Inicié sesión tras cambiar de dispositivo pero empieza desde cero.
 
-Es posible que hayas iniciado sesión con una cuenta diferente. Cierra sesión desde «…» en el tutorial e inicia sesión con tu cuenta original.
+Si inicias sesión con una cuenta diferente a la que usabas antes, el tutorial comenzará como si fueras un usuario nuevo.
+
+Si inicias sesión con la misma cuenta que usabas anteriormente, la pantalla de inicio de Riamo debería aparecer inmediatamente. Si no aparece, es posible que hayas iniciado sesión con una cuenta diferente. Prueba a iniciar sesión con otra cuenta.
+
+Si accidentalmente empezaste con una cuenta nueva, cierra sesión o elimina la cuenta desde el menú de tres puntos (…) en la esquina superior izquierda de la pantalla del tutorial, confirma qué cuenta debes usar y vuelve a iniciar sesión.
+
+Ten en cuenta que en algunas pantallas del tutorial, el menú de tres puntos puede no mostrarse. En ese caso, continúa con el tutorial hasta llegar a una pantalla donde esté disponible.
 
 ### ¿Puedo cambiar mi situación de convivencia?
 
@@ -149,19 +160,59 @@ Lo sentimos, las fechas futuras no están disponibles en este momento.
 
 ---
 
+## 📅 Aniversarios {#aniversarios}
+
+### Hay aniversarios que no puedo eliminar ni cambiar de nombre. ¿Por qué?
+
+Los siguientes cuatro aniversarios se crean automáticamente como predeterminados y no pueden eliminarse ni renombrarse: Aniversario de pareja, Tu cumpleaños, Cumpleaños de tu pareja y el Día que empezaste a usar Riamo.
+
+### Quiero cambiar el orden de mis aniversarios.
+
+Los aniversarios se ordenan automáticamente por la fecha más próxima y no pueden reordenarse manualmente.
+
+---
+
+## 💌 Tarjetas de mensaje {#tarjeta-mensaje}
+
+### ¿Puedo editar o eliminar una tarjeta de mensaje que ya se envió?
+
+Las tarjetas de mensaje enviadas no pueden editarse ni eliminarse. Las tarjetas programadas pueden editarse o eliminarse antes de su entrega.
+
+### Mi pareja y yo vivimos lejos. ¿Qué zona horaria se usa para la hora de entrega de las tarjetas?
+
+La hora de entrega programada se basa en la zona horaria del destinatario. Por ejemplo, si configuras la entrega a las 8:00, la tarjeta llegará a las 8:00 en la hora local de tu pareja.
+
+---
+
 ## 🚪 Eliminar cuenta y desvincular pareja {#cuenta}
 
 ### ¿Cómo elimino mi cuenta?
 
-Ajustes → Gestión de cuenta → Eliminar cuenta. Esta acción es permanente. Si tienes una suscripción activa, cancélala por separado.
+En Riamo no utilizamos un sistema de "darse de baja". En su lugar, puedes eliminar tu cuenta directamente desde la aplicación:
+
+Mi página (icono del menú arriba a la derecha) → Ajustes → Gestión de cuenta → Eliminar cuenta
+
+Ten en cuenta que, al eliminar tu cuenta, todos tus datos de respuestas serán borrados y no será posible recuperarlos posteriormente. Además, las suscripciones no se cancelan automáticamente. Debes completar el proceso de cancelación por separado.
+
+[Relacionado: ¿Cómo puedo cancelar mi suscripción?](#suscripcion)
 
 ### ¿Cómo me desvinculo de mi pareja?
 
-En lugar de una opción de desvinculación, recomendamos eliminar la cuenta.
+Riamo está diseñado para usarse en pareja, por lo que no ofrecemos una opción para "desvincular" cuentas. En su lugar, guiamos a los usuarios al proceso de baja, incluida la eliminación de la cuenta.
+
+Artículos relacionados:
+- [¿Qué ocurre si mi pareja elimina su cuenta?](#cuenta)
+- [¿Cómo puedo darme de baja o eliminar mi cuenta?](#cuenta)
 
 ### ¿Qué pasa si mi pareja elimina su cuenta?
 
-Recibirás una notificación pidiendo confirmación. Después no podrás usar Riamo de forma individual.
+Riamo está diseñado para utilizarse por parejas. Una vez disuelta la pareja (tras la eliminación de la cuenta de tu pareja), no podrás utilizar el servicio de forma independiente.
+
+Cuando tu pareja elimina su cuenta, aparecerá una notificación en tu pantalla informándote de la eliminación y solicitándote la aprobación para la eliminación de tu cuenta.
+
+Por ejemplo, en el caso de una pareja A y B:
+- La persona A elimina su cuenta
+- Aparecerá una notificación en la pantalla de Riamo de B informándole de la eliminación de la cuenta de A y solicitando el consentimiento de B para eliminar su propia cuenta, ya que no será posible seguir utilizándola en el futuro
 
 ---
 
@@ -174,7 +225,7 @@ Las funciones incluidas son las siguientes:
 - Experiencia sin anuncios
 - Temas exclusivos de Quiz de pareja
 - Personalización de la Lista de deseos
-- Hasta 10 fotos por persona para «Nuestros recuerdos»
+- Hasta 30 fotos por persona para «Nuestros recuerdos»
 
 ### ¿Necesitamos los dos una suscripción?
 
@@ -182,18 +233,31 @@ No — si cualquiera de los dos se suscribe, ambos disfrutáis de las funciones 
 
 ### ¿Cómo cancelo mi suscripción?
 
-En Google Play o App Store (no dentro de la app).
+Esto debe hacerse a través de Google Play o la App Store, no dentro de la aplicación Riamo. Para obtener más información, consulta las páginas siguientes.
 
-- [Cancelar en Google Play](https://support.google.com/googleplay/answer/7018481)
-- [Cancelar en App Store](https://support.apple.com/es-es/118428)
+- [Cancelar, pausar o cambiar una suscripción de Google Play (Centro de ayuda de Google Play)](https://support.google.com/googleplay/answer/7018481)
+- [Cómo cancelar una suscripción en Apple (Soporte técnico de Apple)](https://support.apple.com/es-es/118428)
 
 ### ¿Las funciones premium se desactivan inmediatamente al cancelar?
 
-No — podéis seguir usándolas hasta la próxima fecha de renovación.
+Aunque canceles a mitad de periodo, podrás seguir utilizando las funciones de pago hasta la siguiente fecha de renovación. Ejemplo: para una suscripción válida hasta el 31 de julio, si cancelas el 29 de julio, podrás seguir utilizándola hasta el día 31.
+
+### ¿Perderé el acceso a las funciones de pago que estaba utilizando (como las respuestas a preguntas de pago o las categorías añadidas a «Cosas que quiero hacer») después de cancelar?
+
+Los resultados de diagnósticos de pareja de pago que ya hayas recibido seguirán estando accesibles después de la cancelación. Sin embargo, las categorías añadidas a tu lista «Cosas que quiero hacer» durante el periodo de suscripción ya no se podrán ver tras la cancelación. Tras la cancelación, los elementos de la lista de deseos contenidos en las categorías añadidas quedarán ocultos.
+
+### Si cambio de dispositivo durante el periodo de suscripción, ¿se transferirá la suscripción?
+
+La información del contrato de suscripción está vinculada a la cuenta de App Store/Google Play utilizada en el momento de la compra, no a tu cuenta de inicio de sesión de Riamo. Después de cambiar de dispositivo, inicia sesión en App Store/Google Play con la misma cuenta utilizada para la compra y, a continuación, selecciona [Restaurar compra] en la pantalla de compra de la suscripción.
+
+※ Las suscripciones no se pueden transferir entre diferentes sistemas operativos (Android → iOS / iOS → Android). En tales casos, cancela la suscripción en la tienda donde se compró originalmente y vuelve a comprarla en la tienda de tu nuevo sistema operativo.
+
+- [Cancelar, pausar o cambiar una suscripción de Google Play (Centro de ayuda de Google Play)](https://support.google.com/googleplay/answer/7018481)
+- [Cómo cancelar una suscripción en Apple (Soporte técnico de Apple)](https://support.apple.com/es-es/118428)
 
 ### Tengo suscripción pero las funciones premium no funcionan.
 
-Tu suscripción está vinculada a tu cuenta de App Store / Google Play. Comprueba que es la correcta. Si persiste, contacta con nosotros.
+La información del contrato de suscripción está vinculada a la cuenta de App Store/Google Play utilizada en el momento de la compra, no a tu cuenta de inicio de sesión de Riamo. Comprueba que la cuenta de la tienda es la que está suscrita al servicio. Si estás utilizando la cuenta correcta y sigues sin poder acceder a las funciones de pago, ponte en contacto con el servicio de asistencia a través de Mi página (icono del menú arriba a la derecha) → [Contactar con nosotros].
 
 ---
 

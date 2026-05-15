@@ -43,6 +43,8 @@ lang: en
     <li><a href="#questions">📝 Daily Questions, Couple Quizzes & Answers</a></li>
     <li><a href="#memories">📷 Our Memories</a></li>
     <li><a href="#settings">🛠 Settings & Features</a></li>
+    <li><a href="#anniversary">📅 Anniversaries</a></li>
+    <li><a href="#message-card">💌 Message Cards</a></li>
     <li><a href="#account">🚪 Account Deletion & Unpairing</a></li>
     <li><a href="#subscription">💳 Subscription</a></li>
     <li><a href="#fun">🎁 Decorations & Surprises</a></li>
@@ -73,7 +75,7 @@ Here's how to get started:
 
 ### Can I change my name, gender, or animal's name later?
 
-Yes — all can be changed from Menu → Settings → Basic Settings. Note: the animal type and color cannot be changed.
+Yes — all can be changed from My Page (top-right menu icon) → Settings → Basic Settings. Note: the animal type and color cannot be changed.
 
 ### I'm not receiving notifications. How do I fix this?
 
@@ -125,22 +127,30 @@ You can edit the photos and the "memory note." Go to Our Records → Memories, s
 
 ### Can I change the question delivery time?
 
-Only the person who sent the invite can change this. It can be set in 1-hour increments and applies to both partners. Go to Menu → Settings → Basic Settings → Question Delivery Time.
+Only the person who sent the invite can change this. It can be set in 1-hour increments and applies to both partners. Go to My Page (top-right menu icon) → Settings → Basic Settings → Question Delivery Time.
 
 ### How do I log out?
 
-Go to Menu → Other → Log Out.
+Go to My Page (top-right menu icon) → Other → Log Out. After the confirmation screen, the app will return to the startup screen.
 
 ### How do I transfer my data to a new device?
 
-Sign in with the same account you used before and your data will carry over automatically.
+You can transfer your data by logging in with the same account you used on your previous device. If you log in with a different account, it will be treated as a new account, and your previous data will not be carried over.
 
-- Google Sign-In: use the same Google account
-- Apple Sign-In: use the same Apple ID
+- If you signed in using Google, please log in with the same Google account on both devices
+- If you signed in using Apple, please log in with the same Apple ID on both devices
+
+[Reference: If I change my device during the subscription period, will the subscription carry over?](#subscription)
 
 ### I signed in after a device change but it's starting from scratch. Why?
 
-You may have signed in with a different account. Log out from "…" in the top left of the tutorial and sign in again with your original account.
+If you sign in with a different account from the one you were using before, the tutorial will start as if you are a new user.
+
+If you sign in with the same account you used previously, the Riamo home screen should appear immediately after signing in. If the home screen does not appear, you may be signed in with a different account. Please try signing in with another account.
+
+If you accidentally started with a new account, please log out or delete the account from the three-dot menu (…) in the upper-left corner of the tutorial screen, confirm which account you should be using, and then sign in again.
+
+Please note that on some tutorial screens, the three-dot menu may not be displayed. In that case, please continue through the tutorial until you reach a screen where it is available.
 
 ### Can I change my cohabitation status?
 
@@ -152,19 +162,59 @@ Sorry, future dates are not supported at this time.
 
 ---
 
+## 📅 Anniversaries {#anniversary}
+
+### Some anniversaries can't be deleted or renamed. Why?
+
+The following four anniversaries are created automatically as default entries and cannot be deleted or renamed: Dating Anniversary, Your Birthday, Your Partner's Birthday, and the Day You Started Riamo.
+
+### I want to change the order of my anniversaries.
+
+Anniversaries are automatically sorted by the nearest upcoming date and cannot be reordered manually.
+
+---
+
+## 💌 Message Cards {#message-card}
+
+### Can I edit or delete a message card that has already been sent?
+
+Sent message cards cannot be edited or deleted. Scheduled cards can be edited or deleted before they are delivered.
+
+### My partner and I live far apart. What time zone is used for the message card delivery time?
+
+The scheduled delivery time is based on the recipient's time zone. For example, if you set it to 8:00, the card will arrive at 8:00 in your partner's local time.
+
+---
+
 ## 🚪 Account Deletion & Unpairing {#account}
 
 ### How do I delete my account?
 
-Go to Settings → Account Management → Delete Account. This will permanently remove your data and cannot be undone. If you have an active subscription, cancel it separately.
+In Riamo, you can delete your account directly from within the app:
+
+My Page (top-right menu icon) → Settings → Account Management → Delete Account
+
+Please note that once your account is deleted, all of your answer data will also be deleted and cannot be restored. Also, subscriptions are not automatically canceled. Please complete the cancellation process separately.
+
+[Related: How do I cancel my subscription?](#subscription)
 
 ### How do I unpair from my partner?
 
-Instead of an "unpair" option, we guide users to delete their account.
+Riamo is designed to be used as a paired service, so we do not provide an option to "unpair" accounts. Instead, we guide users to delete their account.
+
+Related:
+- [What happens if my partner deletes their account?](#account)
+- [How do I delete my account?](#account)
 
 ### What happens if my partner deletes their account?
 
-You'll receive a notification asking you to confirm the account deletion. After that, Riamo cannot be used solo.
+Riamo is designed for use in pairs. After your partner deletes their account, you cannot use the service alone.
+
+When your partner deletes their account, a notification will appear on your screen informing you and requesting your approval to delete your own account.
+
+For example, in the case of a couple A and B:
+- Person A deletes their account
+- A notification appears on B's Riamo screen informing them of A's account deletion and requesting B's consent to delete their own account, as the service can no longer be used
 
 ---
 
@@ -177,7 +227,9 @@ The following features are included:
 - Ad-free experience
 - Subscription-exclusive Couple Quiz themes (new themes added regularly)
 - Wish List customization (add, edit, delete categories)
-- Up to 10 photos per person for the monthly "Our Memories"
+- Up to 30 photos per person for the monthly "Our Memories"
+
+Riamo is currently available as a beta version, and we are continuing to review subscription features based on user feedback as we work toward the official release. If there are any features you would like to see, please feel free to share your feedback through the in-app feedback box.
 
 ### Do both partners need a subscription?
 
@@ -185,18 +237,31 @@ No — if either one subscribes, both can enjoy premium features.
 
 ### How do I cancel my subscription?
 
-Cancellation must be done through Google Play or the App Store.
+Cancellation must be done through Google Play or the App Store, not within the Riamo app. For details, please check below.
+
+- [Canceling, pausing, or changing a Google Play subscription (Google Play Help Center)](https://support.google.com/googleplay/answer/7018481)
+- [How to cancel a subscription on Apple (Apple Support)](https://support.apple.com/en-us/118428)
+
+### Will premium features stop immediately after cancelling?
+
+No — even if you cancel mid-term, you can continue using premium features until the next renewal date. Example: For a subscription valid until 7/31, canceling on 7/29 allows use until the 31st.
+
+### Will I lose access to paid features I used (like answers to paid questions or added "Things I Want to Do" categories) after canceling?
+
+Paid couple diagnosis results you've already received will remain accessible after cancellation. However, categories added to your "Things I Want to Do" list during your subscription will no longer be viewable after cancellation. After cancellation, the to-do list items within the added categories will be hidden.
+
+### If I change my device during the subscription period, will the subscription carry over?
+
+Subscription information is linked to the App Store/Google Play account used at purchase, not your Riamo login account. After changing devices, log in to the App Store / Google Play with the same account used for purchase, then try selecting [Restore Purchase] on the subscription purchase screen.
+
+※ Subscriptions cannot be transferred between different operating systems (Android → iOS / iOS → Android). In that case, please cancel the subscription in the store where you originally purchased it, then purchase it again from the store for your new OS.
 
 - [Cancel on Google Play](https://support.google.com/googleplay/answer/7018481)
 - [Cancel on App Store](https://support.apple.com/en-us/118428)
 
-### Will premium features stop immediately after cancelling?
-
-No — you can continue using premium features until your next renewal date.
-
 ### I'm subscribed but premium features aren't working. Why?
 
-Your subscription is linked to your App Store / Google Play account, not your Riamo login. Confirm the correct store account is in use. If the issue persists, contact us via Menu → Contact Us.
+Subscription information is linked to the App Store/Google Play account used at purchase, not your Riamo login account. Please verify that the store account is the one subscribed to the service. If you are using the account that subscribed but still cannot access paid features, please contact support via My Page (top-right menu icon) → [Contact Us].
 
 ---
 
