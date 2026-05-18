@@ -1,6 +1,6 @@
 ---
 title: "AIレポート機能の提供終了について"
-date: 2026-05-31
+date: 2026-05-13
 published: true
 ---
 

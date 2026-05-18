@@ -1,6 +1,6 @@
 ---
 title: "AI 리포트 기능 제공 종료 안내"
-date: 2026-05-31
+date: 2026-05-13
 published: true
 ---
 

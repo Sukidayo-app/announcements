@@ -1,6 +1,6 @@
 ---
 title: "Notice: AI Report Feature Discontinued"
-date: 2026-05-31
+date: 2026-05-13
 published: true
 ---
 
