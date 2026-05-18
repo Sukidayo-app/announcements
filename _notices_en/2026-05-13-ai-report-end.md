@@ -1,7 +1,7 @@
 ---
 title: "Notice: AI Report Feature Discontinued"
 date: 2026-05-31
-published: false
+published: true
 ---
 
 Hi, this is the Riamo team.

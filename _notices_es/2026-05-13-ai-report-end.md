@@ -1,7 +1,7 @@
 ---
 title: "Aviso: Fin de la función AI Report"
 date: 2026-05-31
-published: false
+published: true
 ---
 
 Hola, somos el equipo de Riamo.
