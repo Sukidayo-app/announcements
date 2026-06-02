@@ -113,9 +113,9 @@ Puede ocurrir temporalmente por congestión de red. Vuelve a abrir la app. Si pe
 
 ## 📷 Nuestros recuerdos {#recuerdos}
 
-### No puedo añadir el recuerdo de este mes. ¿Por qué?
+### ¿Cuándo puedo empezar a añadir el recuerdo de este mes?
 
-Los recuerdos se pueden añadir desde el día 25 de cada mes a las 12:00. También desde Nuestros registros → pestaña Recuerdos.
+Puedes subir los recuerdos del mes actual desde el día 1 de cada mes. Usa el botón + en Nuestros registros → pestaña Recuerdos para añadirlos. Además, del 25 a las 12:00 hasta el 3 del mes siguiente a las 23:59, también aparece un banner en la pantalla de inicio.
 
 ### ¿Puedo editar un recuerdo que ya añadí?
 
@@ -146,9 +146,7 @@ Si inicias sesión con una cuenta diferente a la que usabas antes, el tutorial c
 
 Si inicias sesión con la misma cuenta que usabas anteriormente, la pantalla de inicio de Riamo debería aparecer inmediatamente. Si no aparece, es posible que hayas iniciado sesión con una cuenta diferente. Prueba a iniciar sesión con otra cuenta.
 
-Si accidentalmente empezaste con una cuenta nueva, cierra sesión o elimina la cuenta desde el menú de tres puntos (…) en la esquina superior izquierda de la pantalla del tutorial, confirma qué cuenta debes usar y vuelve a iniciar sesión.
-
-Ten en cuenta que en algunas pantallas del tutorial, el menú de tres puntos puede no mostrarse. En ese caso, continúa con el tutorial hasta llegar a una pantalla donde esté disponible.
+Si accidentalmente empezaste con una cuenta nueva, cierra sesión o elimina la cuenta desde el menú de tres puntos (…) en la esquina superior derecha de la pantalla del tutorial, confirma qué cuenta debes usar y vuelve a iniciar sesión.
 
 ### ¿Puedo cambiar mi situación de convivencia?
 

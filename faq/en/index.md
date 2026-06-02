@@ -113,9 +113,9 @@ This can happen temporarily due to network congestion. Try reopening the app aft
 
 ## 📷 Our Memories {#memories}
 
-### I can't add this month's memory. Why?
+### When can I start adding this month's memory?
 
-Memories can be added from the 25th of each month at 12:00. A banner appears on the home screen from the 25th until the 3rd of the following month. You can also access it via Our Records → Memories tab.
+You can upload memories for the current month starting from the 1st of each month. Use the + button in Our Records → Memories tab to add them. A banner also appears on the home screen from the 25th at 12:00 until the 3rd of the following month at 23:59.
 
 ### Can I edit a memory I already added?
 
@@ -148,9 +148,7 @@ If you sign in with a different account from the one you were using before, the 
 
 If you sign in with the same account you used previously, the Riamo home screen should appear immediately after signing in. If the home screen does not appear, you may be signed in with a different account. Please try signing in with another account.
 
-If you accidentally started with a new account, please log out or delete the account from the three-dot menu (…) in the upper-left corner of the tutorial screen, confirm which account you should be using, and then sign in again.
-
-Please note that on some tutorial screens, the three-dot menu may not be displayed. In that case, please continue through the tutorial until you reach a screen where it is available.
+If you accidentally started with a new account, please log out or delete the account from the three-dot menu (…) in the upper-right corner of the tutorial screen, confirm which account you should be using, and then sign in again.
 
 ### Can I change my cohabitation status?
 
