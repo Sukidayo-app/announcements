@@ -29,6 +29,8 @@ Ahora puedes marcar los elementos de tu Lista de Deseos con una ⭐. Marca los q
 2. Toca la ☆ a la derecha del elemento para marcarlo como favorito
 3. Toca la pestaña ☆ en las categorías para ver todos tus favoritos
 
+> Los favoritos también se reflejan en la pantalla de tu pareja.
+
 ---
 
 ## 📂 ¡Reordena tus categorías!

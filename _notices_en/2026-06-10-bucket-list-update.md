@@ -29,6 +29,8 @@ You can now bookmark wish list items with a ⭐! Mark the ones you're most excit
 2. Tap the ☆ on the right side of an item to bookmark it
 3. Tap the ☆ tab in the categories to view all your bookmarks
 
+> Bookmarks are shared with your partner.
+
 ---
 
 ## 📂 Reorder Your Categories!
