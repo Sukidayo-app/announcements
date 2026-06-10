@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Wish List Update 🎉"
+title: "Wish List Improvements 🎉"
 date: 2026-06-10
 published: false
 ---
@@ -33,7 +33,7 @@ You can now bookmark wish list items with a ⭐! Mark the ones you're most excit
 
 ---
 
-## 📂 Reorder Your Categories!
+## 📂 [Plus Members Only] Reorder Your Categories!
 
 You can now drag and drop to reorder your custom categories. Move your most-used categories to the top and organize them just the way you like.
 
@@ -48,7 +48,6 @@ You can now drag and drop to reorder your custom categories. Move your most-used
 2. Long-press the handle (⠿) on the left side of each category
 3. Drag to your preferred order → Save
 
-> Category editing and reordering is a Riamo Plus feature.
 > Category order changes are shared with your partner.
 
 ---

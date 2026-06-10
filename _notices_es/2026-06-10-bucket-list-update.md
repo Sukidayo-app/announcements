@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "¡Actualización de la Lista de Deseos! 🎉"
+title: "¡Mejoras en la Lista de Deseos! 🎉"
 date: 2026-06-10
 published: false
 ---
@@ -33,7 +33,7 @@ Ahora puedes marcar los elementos de tu Lista de Deseos con una ⭐. Marca los q
 
 ---
 
-## 📂 ¡Reordena tus categorías!
+## 📂 [Solo miembros Plus] ¡Reordena tus categorías!
 
 Ahora puedes arrastrar y soltar para reordenar tus categorías personalizadas. Mueve las categorías que más usas al principio y organízalas como prefieras.
 
@@ -48,7 +48,6 @@ Ahora puedes arrastrar y soltar para reordenar tus categorías personalizadas. M
 2. Mantén presionado el ícono (⠿) a la izquierda de cada categoría
 3. Arrastra hasta el orden deseado → Guardar
 
-> La edición y reordenación de categorías es una función de Riamo Plus.
 > Los cambios en el orden de las categorías también se reflejan en la pantalla de tu pareja.
 
 ---
