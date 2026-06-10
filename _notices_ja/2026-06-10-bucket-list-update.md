@@ -2,7 +2,7 @@
 layout: post
 title: "【機能改善】やりたいことリストをアップデートしました🎉"
 date: 2026-06-10
-published: false
+published: true
 ---
 
 こんにちは！Riamo運営チームです。

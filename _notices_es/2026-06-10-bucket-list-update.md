@@ -2,7 +2,7 @@
 layout: post
 title: "¡Mejoras en la Lista de Deseos! 🎉"
 date: 2026-06-10
-published: false
+published: true
 ---
 
 ¡Hola! Somos el equipo de Riamo.

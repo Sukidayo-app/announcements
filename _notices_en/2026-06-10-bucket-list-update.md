@@ -2,7 +2,7 @@
 layout: post
 title: "Wish List Improvements 🎉"
 date: 2026-06-10
-published: false
+published: true
 ---
 
 Hi there! This is the Riamo team.

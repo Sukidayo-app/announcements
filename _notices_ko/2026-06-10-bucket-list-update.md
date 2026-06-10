@@ -2,7 +2,7 @@
 layout: post
 title: "위시리스트가 개선되었습니다 🎉"
 date: 2026-06-10
-published: false
+published: true
 ---
 
 안녕하세요! Riamo 운영팀입니다.
