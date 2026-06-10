@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "【機能追加】やりたいことリストをアップデートしました🎉"
+title: "【機能改善】やりたいことリストをアップデートしました🎉"
 date: 2026-06-10
 published: false
 ---
@@ -17,11 +17,15 @@ published: false
 
 > ソートの設定はご自身の画面にのみ反映されます。パートナーの画面には影響しません。
 
+<img width="236" height="421" alt="image" src="https://github.com/user-attachments/assets/b3624130-95f7-43b2-b95e-97aebe4e02f7" />
+
 ---
 
 ## ⭐ ブックマーク（お気に入り）機能を追加しました！
 
 やりたいことに⭐をつけてお気に入り登録ができるようになりました。特に楽しみなものや優先したいものをブックマークして、すぐに確認できます。
+
+<img width="270" height="357" alt="image" src="https://github.com/user-attachments/assets/3da92925-396f-42bb-b083-946229bf1596" />
 
 **＜ブックマークの使い方＞**
 
@@ -36,6 +40,9 @@ published: false
 ## 📂 カテゴリの並べ替えができるようになりました！
 
 作成したカテゴリの表示順をドラッグ&ドロップで自由に並べ替えできるようになりました。よく使うカテゴリを先頭に持ってくるなど、お好みの順番に整理できます。
+
+<img width="282" height="352" alt="image" src="https://github.com/user-attachments/assets/ef6bc0b2-a175-4b76-8436-384eab5b73dd" />
+
 
 **＜カテゴリ編集画面への行き方＞**
 
