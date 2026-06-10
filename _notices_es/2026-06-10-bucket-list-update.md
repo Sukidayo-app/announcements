@@ -35,12 +35,18 @@ Ahora puedes marcar los elementos de tu Lista de Deseos con una ⭐. Marca los q
 
 Ahora puedes arrastrar y soltar para reordenar tus categorías personalizadas. Mueve las categorías que más usas al principio y organízalas como prefieras.
 
+**Cómo acceder a la edición de categorías:**
+
+- Desde el menú "…" en la esquina superior derecha de la Lista de Deseos
+- Desde "Editar categorías" al final de la lista de categorías
+
 **Cómo reordenar categorías:**
 
-1. Toca el menú "…" en la esquina superior derecha de la Lista de Deseos
-2. En la pantalla de edición de categorías, mantén presionado el ícono (⠿) a la izquierda de cada categoría
+1. Abre la pantalla de edición de categorías
+2. Mantén presionado el ícono (⠿) a la izquierda de cada categoría
 3. Arrastra hasta el orden deseado → Guardar
 
+> La edición y reordenación de categorías es una función de Riamo Plus.
 > Los cambios en el orden de las categorías también se reflejan en la pantalla de tu pareja.
 
 ---

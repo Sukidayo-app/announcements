@@ -35,12 +35,18 @@ You can now bookmark wish list items with a ⭐! Mark the ones you're most excit
 
 You can now drag and drop to reorder your custom categories. Move your most-used categories to the top and organize them just the way you like.
 
+**How to access category editing:**
+
+- From the "…" menu at the top right of the Wish List
+- From "Edit Categories" at the right end of the category list
+
 **How to reorder categories:**
 
-1. Tap the "…" menu at the top right of the Wish List
-2. On the category edit screen, long-press the handle (⠿) on the left side of each category
+1. Open the category edit screen
+2. Long-press the handle (⠿) on the left side of each category
 3. Drag to your preferred order → Save
 
+> Category editing and reordering is a Riamo Plus feature.
 > Category order changes are shared with your partner.
 
 ---
