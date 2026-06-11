@@ -152,7 +152,11 @@ If you accidentally started with a new account, please log out or delete the acc
 
 ### Can I change my cohabitation status?
 
-Sorry, this cannot be changed at this time.
+Yes, you can change it by following the steps below.
+
+My Page (gear icon in the upper right) → Menu → Basic Settings → Partner Info → Cohabitation Status
+
+From the next scheduled delivery time after the change, you will receive questions matching your new cohabitation status.
 
 ### Can I set a future date for an anniversary?
 
@@ -276,6 +280,12 @@ New furniture is added as you and your partner answer more questions together. L
 ### What if a question feels too hard or I'm just not in the mood?
 
 No worries — you don't have to answer. A casual "let's try again tomorrow" is totally fine! Go at your own pace.
+
+### I saw an unpleasant ad. Can you do something about it?
+
+We sincerely apologize for any discomfort caused. We have blocking settings in place to prevent ads from inappropriate categories. However, when the advertised app itself is distributed as a security tool or AI tool, for example, we may not always be able to detect in advance if the ad content uses alarming or misleading language. If you encounter a malicious ad, please take a screenshot and contact us through the inquiry form.
+
+Please note that ads and in-app purchases help us maintain stable operations and continue developing new features. We appreciate your understanding.
 
 ---
 

@@ -150,7 +150,11 @@ Si accidentalmente empezaste con una cuenta nueva, cierra sesión o elimina la c
 
 ### ¿Puedo cambiar mi situación de convivencia?
 
-Lo sentimos, no es posible en este momento.
+Sí, puedes cambiarlo siguiendo los pasos a continuación.
+
+Mi página (icono de engranaje en la esquina superior derecha) → Menú → Configuración básica → Información de pareja → Situación de convivencia
+
+A partir del siguiente horario de entrega tras el cambio, recibirás preguntas adaptadas a tu nueva situación de convivencia.
 
 ### ¿Puedo establecer una fecha futura para un aniversario?
 
@@ -272,6 +276,12 @@ Se añaden nuevos muebles a medida que respondéis preguntas juntos. ¡Esperad c
 ### ¿Qué hago si una pregunta me parece difícil o no tengo ganas?
 
 No hay presión. Un simple «lo intentamos mañana» está bien. Id a vuestro propio ritmo.
+
+### He visto un anuncio desagradable. ¿Podéis hacer algo al respecto?
+
+Lamentamos mucho las molestias. Tenemos configuraciones de bloqueo para evitar anuncios de categorías inapropiadas. Sin embargo, cuando la propia aplicación anunciada se distribuye como herramienta de seguridad o de IA, por ejemplo, no siempre es posible detectar de antemano si el contenido del anuncio utiliza un lenguaje alarmista o engañoso. Si ves un anuncio malintencionado, haz una captura de pantalla y contacta con nosotros a través del formulario de consulta.
+
+Ten en cuenta que los anuncios y las funciones de pago nos ayudan a mantener un funcionamiento estable y a seguir desarrollando nuevas funciones. Agradecemos tu comprensión.
 
 ---
 
