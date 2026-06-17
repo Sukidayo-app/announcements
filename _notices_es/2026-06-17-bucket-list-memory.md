@@ -31,6 +31,29 @@ En la pestaña "Completados" de tu lista de deseos, puedes ver todos los deseos 
 
 ---
 
+## 🔕 Ahora puedes ocultar el banner mensual de recuerdos
+
+Hemos añadido opciones para ocultar o saltar el banner de "Recuerdos" que aparece en la pantalla de inicio cada mes.
+
+### ① Desactivarlo de forma permanente desde Ajustes
+
+Ve a **Ajustes → Ajustes de pareja** y desactiva **"Fotos de recuerdos mensuales"** para ocultar el banner para los dos.
+
+＜Cómo abrir Ajustes＞
+1. Toca el icono de ajustes (⚙️) en la esquina superior derecha de la pantalla de inicio
+2. En "Ajustes de pareja", desactiva "Fotos de recuerdos mensuales"
+
+> ※ Cualquiera de los dos puede cambiar esta opción, y se aplica a ambos.
+
+### ② Saltar solo este mes con el botón ×
+
+Toca el botón **×** en la esquina superior derecha del banner para ocultarlo solo durante el mes actual.
+
+> ※ Solo se aplica a ti — el banner de tu pareja no se ve afectado.
+> ※ El salto se restablece si cierras sesión.
+
+---
+
 ## Nota
 
 Si las nuevas funciones no aparecen, es posible que tu aplicación necesite actualizarse. Por favor, actualiza Riamo a la última versión.

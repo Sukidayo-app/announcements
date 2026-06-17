@@ -31,6 +31,29 @@ In the "Completed" tab of your wish list, you can view all your completed wishes
 
 ---
 
+## 🔕 You can now hide the monthly memory banner
+
+We've added options to hide or skip the "Memories" banner that appears on your home screen each month.
+
+### ① Turn it off completely from Settings
+
+Go to **Settings → Couple Settings** and toggle off **"Monthly Memory Photos"** to hide the banner for both of you.
+
+＜How to open Settings＞
+1. Tap the settings icon (⚙️) in the top right of the home screen
+2. Under "Couple Settings", turn off "Monthly Memory Photos"
+
+> ※ Either partner can change this setting, and it applies to both of you.
+
+### ② Skip just this month with the × button
+
+Tap the **×** button in the top right of the banner on the home screen to hide it for the current month only.
+
+> ※ This applies only to you — your partner's banner is not affected.
+> ※ The skip resets if you log out.
+
+---
+
 ## Note
 
 If the new features aren't showing up, your app may need to be updated. Please update Riamo to the latest version.
