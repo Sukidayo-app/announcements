@@ -18,7 +18,7 @@ Al marcar un deseo como completado, aparecerá una pantalla de celebración. Toc
 **Qué puedes añadir**
 
 - 📷 Fotos (usuarios gratuitos: 1 foto / Riamo Plus: hasta 3 fotos)
-- 💬 Un mensaje corto (hasta 500 caracteres)
+- 💬 Un mensaje corto (hasta 300 caracteres)
 - 📅 Fecha de logro
 
 ---
@@ -26,6 +26,8 @@ Al marcar un deseo como completado, aparecerá una pantalla de celebración. Toc
 ## 📋 Revisa todo lo que habéis conseguido
 
 En la pestaña "Completados" de tu lista de deseos, puedes ver todos los deseos cumplidos y los recuerdos guardados en cualquier momento.
+
+> ※ Los recuerdos registrados desde la lista de deseos solo se pueden registrar, consultar y editar desde los elementos que aparecen en la pestaña "Completados". No se mostrarán en los recuerdos mensuales.
 
 ---
 

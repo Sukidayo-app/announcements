@@ -18,7 +18,7 @@ When you check off a wish, a celebration screen will appear. Tap **"Save a Memor
 **What you can add**
 
 - 📷 Photos (Free users: 1 photo / Riamo Plus: up to 3 photos)
-- 💬 A short note (up to 500 characters)
+- 💬 A short note (up to 300 characters)
 - 📅 Date of completion
 
 ---
@@ -26,6 +26,8 @@ When you check off a wish, a celebration screen will appear. Tap **"Save a Memor
 ## 📋 Look back on everything you've accomplished
 
 In the "Completed" tab of your wish list, you can view all your completed wishes and the memories you've saved anytime.
+
+> ※ Memories registered from your wish list can only be viewed, edited, or added from the items shown in the "Completed" tab. They will not appear in your monthly memories.
 
 ---
 
