@@ -40,7 +40,7 @@ We've added options to hide or skip the "Memories" banner that appears on your h
 Go to **Settings → Couple Settings** and toggle off **"Monthly Memory Photos"** to hide the banner for both of you.
 
 ＜How to open Settings＞
-1. Tap the settings icon (⚙️) in the top right of the home screen
+1. Tap the settings icon (⚙️) in the top right of the My Page screen
 2. Under "Couple Settings", turn off "Monthly Memory Photos"
 
 > ※ Either partner can change this setting, and it applies to both of you.
