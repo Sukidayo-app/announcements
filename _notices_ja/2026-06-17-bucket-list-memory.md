@@ -21,7 +21,8 @@ published: false
 - 💬 ひとこと（300文字まで）
 - 📅 達成日
 
-<img width="293" height="653" alt="image" src="https://github.com/user-attachments/assets/f9fba92d-5dc6-49d0-b154-f8c41e41fb0d" />
+<img width="257" height="582" alt="image" src="https://github.com/user-attachments/assets/6ee83d34-843e-4293-934f-99fb06421164" />
+
 
 ---
 
@@ -36,6 +37,7 @@ published: false
 > ※ やりたいことリストから登録した思い出は、「達成したこと」に表示されているアイテムからのみ登録・確認・編集が可能です。毎月の思い出には表示されません。
 
 ---
+
 
 ## 🔕 思い出バナーの表示をオフにできるようになりました
 
