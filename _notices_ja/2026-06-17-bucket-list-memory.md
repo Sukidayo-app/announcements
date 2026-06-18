@@ -2,7 +2,7 @@
 layout: post
 title: "【機能追加】やりたいことを達成したら、思い出を残せるようになりました🎉"
 date: 2026-06-17
-published: false
+published: true
 ---
 
 こんにちは！Riamo運営チームです。

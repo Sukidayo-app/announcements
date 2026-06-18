@@ -2,7 +2,7 @@
 layout: post
 title: "【Nueva función】¡Ahora puedes guardar recuerdos cuando completes un deseo🎉"
 date: 2026-06-17
-published: false
+published: true
 ---
 
 ¡Hola! Somos el equipo de Riamo.

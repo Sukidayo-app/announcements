@@ -2,7 +2,7 @@
 layout: post
 title: "【기능 추가】하고 싶은 것을 달성하면 추억을 남길 수 있게 되었어요🎉"
 date: 2026-06-17
-published: false
+published: true
 ---
 
 안녕하세요! Riamo 운영팀입니다.

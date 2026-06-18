@@ -2,7 +2,7 @@
 layout: post
 title: "【New Feature】You can now save memories when you complete a wish🎉"
 date: 2026-06-17
-published: false
+published: true
 ---
 
 Hi there! This is the Riamo team.
