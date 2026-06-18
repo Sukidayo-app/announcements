@@ -13,7 +13,7 @@ With this update, you can now **record memories together** when you complete som
 
 ## 🎊 Complete a wish, then save a memory!
 
-When you check off a wish, a celebration screen will appear. Tap **"Save a Memory"** to open the memory registration form.
+When you complete a wish, a **"Save a Memory"** button will appear. Tap **"Save a Memory"** to open the memory registration form.
 
 **What you can add**
 

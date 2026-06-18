@@ -13,7 +13,7 @@ Con esta actualización, ¡ahora puedes **guardar recuerdos juntos** cuando comp
 
 ## 🎊 ¡Completa un deseo y guarda un recuerdo!
 
-Al marcar un deseo como completado, aparecerá una pantalla de celebración. Toca **"Guardar un recuerdo"** para acceder al formulario de registro.
+Al completar un deseo, aparecerá el botón **"Guardar un recuerdo"**. Toca **"Guardar un recuerdo"** para acceder al formulario de registro.
 
 **Qué puedes añadir**
 
