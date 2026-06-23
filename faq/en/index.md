@@ -229,7 +229,8 @@ The following features are included:
 - Ad-free experience
 - Subscription-exclusive Couple Quiz themes (new themes added regularly)
 - Wish List customization (add, edit, delete categories)
-- Up to 30 photos per person for the monthly "Our Memories"
+- More photos available for the monthly "Our Memories"
+- More memories you can register for completed Wish List items
 
 Riamo is currently available as a beta version, and we are continuing to review subscription features based on user feedback as we work toward the official release. If there are any features you would like to see, please feel free to share your feedback through the in-app feedback box.
 

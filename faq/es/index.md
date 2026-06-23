@@ -227,7 +227,8 @@ Las funciones incluidas son las siguientes:
 - Experiencia sin anuncios
 - Temas exclusivos de Quiz de pareja
 - Personalización de la Lista de deseos
-- Hasta 30 fotos por persona para «Nuestros recuerdos»
+- Más fotos disponibles en «Nuestros recuerdos» mensuales
+- Más recuerdos que puedes registrar al cumplir deseos de tu lista
 
 ### ¿Necesitamos los dos una suscripción?
 
