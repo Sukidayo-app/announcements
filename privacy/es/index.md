@@ -180,7 +180,7 @@ A continuación se indican los nombres de los proveedores externos, la informaci
 
 ## Consultas
 
-Las solicitudes de divulgación, opiniones, preguntas, quejas y otras consultas relacionadas con el tratamiento de la información personal deben dirigirse al punto de contacto que se indica a continuación.
+Para consultas relacionadas con el tratamiento de información personal, contáctenos a través de la información de contacto que figura en las «Indicaciones basadas en la Ley de Transacciones Comerciales Específicas» o a través del formulario de consulta dentro de la aplicación.
 
 **[Contacto para quejas y consultas sobre información personal]**
 
@@ -189,8 +189,6 @@ Nombre de la empresa: Sukidayo Co., Ltd.
 Dirección: 171-0014 Business Park Ikebukuro 2F, 3-34-7 Ikebukuro, Toshima-ku, Tokio
 
 Responsable de la protección de datos personales: Yuka Soma
-
-Póngase en contacto con nosotros a través de la información de contacto que figura en las «Indicaciones basadas en la Ley de Transacciones Comerciales Específicas» o a través del formulario de consulta dentro de la aplicación.
 
 ## Mejora continua
 
