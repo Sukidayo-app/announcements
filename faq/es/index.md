@@ -270,6 +270,12 @@ La información del contrato de suscripción está vinculada a la cuenta de App 
 
 Se añaden nuevos muebles a medida que respondéis preguntas juntos. ¡Esperad con ganas!
 
+### La cuenta regresiva de muebles ha desaparecido. ¿Por qué?
+
+Actualmente, la obtención de muebles finaliza cuando habéis respondido un número determinado de preguntas. Una vez que habéis conseguido todos los muebles disponibles, la cuenta regresiva deja de aparecer.
+
+Ten en cuenta que está previsto un rediseño en el futuro, que incluirá cambios en la colocación de muebles y objetos, así como en la forma de obtenerlos.
+
 ---
 
 ## ❓ Otros {#otros}

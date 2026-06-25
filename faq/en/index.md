@@ -274,6 +274,12 @@ Subscription information is linked to the App Store/Google Play account used at 
 
 New furniture is added as you and your partner answer more questions together. Look forward to it!
 
+### The countdown to new furniture has disappeared. Why?
+
+Currently, furniture acquisition ends once you have answered a set number of questions. When you have obtained all available furniture, the countdown will no longer appear.
+
+Please note that a redesign is planned for the future, which will include changes to furniture and item placement and how they are obtained.
+
 ---
 
 ## ❓ Other {#other}
