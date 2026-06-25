@@ -180,7 +180,7 @@ Please see below for the names of external providers, the information transmitte
 
 ## Inquiries
 
-For requests regarding disclosure, opinions, questions, complaints, or other inquiries concerning the handling of personal information, please contact the following office.
+For inquiries regarding the handling of personal information, please contact us via the contact information provided in the "Specified Commercial Transactions Act Disclosure" or through the in-app inquiry form.
 
 **[Contact for Complaints and Consultations Regarding Personal Information]**
 
@@ -189,8 +189,6 @@ Company Name: Sukidayo Co., Ltd.
 Address: 171-0014 Business Park Ikebukuro 2F, 3-34-7 Ikebukuro, Toshima-ku, Tokyo
 
 Personal Information Protection Manager: Yuka Soma
-
-Please contact us using the contact information provided in the "Specified Commercial Transactions Act Disclosure" or via the in-app inquiry form.
 
 ## Continuous Improvement
 
