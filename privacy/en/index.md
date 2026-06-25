@@ -190,9 +190,7 @@ Address: 171-0014 Business Park Ikebukuro 2F, 3-34-7 Ikebukuro, Toshima-ku, Toky
 
 Personal Information Protection Manager: Yuka Soma
 
-[https://forms.gle/wMkfwRR7ygHng5bJ9](https://forms.gle/wMkfwRR7ygHng5bJ9)
-
-(Please select "Other" for the inquiry type. Note that reception hours are weekdays from 11:00 AM to 6:00 PM.)
+Please contact us using the contact information provided in the "Specified Commercial Transactions Act Disclosure" or via the in-app inquiry form.
 
 ## Continuous Improvement
 
