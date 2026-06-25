@@ -190,9 +190,7 @@ Dirección: 171-0014 Business Park Ikebukuro 2F, 3-34-7 Ikebukuro, Toshima-ku, T
 
 Responsable de la protección de datos personales: Yuka Soma
 
-[https://forms.gle/8bRd5gHHYYTPPR736](https://forms.gle/8bRd5gHHYYTPPR736)
-
-(Seleccione «Otros» como tipo de consulta. Tenga en cuenta que nuestro horario de atención al público es de lunes a viernes, de 11:00 a 18:00).
+Póngase en contacto con nosotros a través de la información de contacto que figura en las «Indicaciones basadas en la Ley de Transacciones Comerciales Específicas» o a través del formulario de consulta dentro de la aplicación.
 
 ## Mejora continua
 
