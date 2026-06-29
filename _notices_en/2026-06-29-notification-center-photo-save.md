@@ -2,7 +2,7 @@
 layout: post
 title: "【New Features】Notification Center and Memory Photo Saving Are Now Available 🔔"
 date: 2026-06-29
-published: false
+published: true
 ---
 
 Hi there! This is the Riamo team.

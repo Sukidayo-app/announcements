@@ -2,7 +2,7 @@
 layout: post
 title: "【기능 추가】알림 센터와 추억 사진 저장 기능이 추가되었습니다 🔔"
 date: 2026-06-29
-published: false
+published: true
 ---
 
 안녕하세요! Riamo 운영팀입니다.

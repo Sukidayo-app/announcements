@@ -2,7 +2,7 @@
 layout: post
 title: "【機能追加】通知センターと思い出写真の保存機能が追加されました🔔"
 date: 2026-06-29
-published: false
+published: true
 ---
 
 こんにちは！Riamo運営チームです。

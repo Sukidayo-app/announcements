@@ -2,7 +2,7 @@
 layout: post
 title: "【Nuevas funciones】Centro de notificaciones y guardado de fotos de recuerdos 🔔"
 date: 2026-06-29
-published: false
+published: true
 ---
 
 ¡Hola! Somos el equipo de Riamo.
