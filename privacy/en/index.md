@@ -180,7 +180,7 @@ Please see below for the names of external providers, the information transmitte
 
 ## Inquiries
 
-For inquiries regarding the handling of personal information, please contact us via the contact information provided in the "Specified Commercial Transactions Act Disclosure" or through the in-app inquiry form.
+For inquiries regarding the handling of personal information, please contact us via the contact information provided in the ["Specified Commercial Transactions Act Disclosure"](https://sukidayo-app.github.io/announcements/tokushoho/) or through the in-app inquiry form.
 
 **[Contact for Complaints and Consultations Regarding Personal Information]**
 
