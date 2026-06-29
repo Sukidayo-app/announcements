@@ -227,7 +227,8 @@ Las funciones incluidas son las siguientes:
 - Experiencia sin anuncios
 - Temas exclusivos de Quiz de pareja
 - Personalización de la Lista de deseos
-- Hasta 30 fotos por persona para «Nuestros recuerdos»
+- Más fotos disponibles en «Nuestros recuerdos» mensuales
+- Más recuerdos que puedes registrar al cumplir deseos de tu lista
 
 ### ¿Necesitamos los dos una suscripción?
 
@@ -268,6 +269,12 @@ La información del contrato de suscripción está vinculada a la cuenta de App 
 ### ¿Cómo desbloqueo más muebles y objetos?
 
 Se añaden nuevos muebles a medida que respondéis preguntas juntos. ¡Esperad con ganas!
+
+### La cuenta regresiva de muebles ha desaparecido. ¿Por qué?
+
+Actualmente, la obtención de muebles finaliza cuando habéis respondido un número determinado de preguntas. Una vez que habéis conseguido todos los muebles disponibles, la cuenta regresiva deja de aparecer.
+
+Ten en cuenta que está previsto un rediseño en el futuro, que incluirá cambios en la colocación de muebles y objetos, así como en la forma de obtenerlos.
 
 ---
 

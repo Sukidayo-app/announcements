@@ -229,7 +229,8 @@ The following features are included:
 - Ad-free experience
 - Subscription-exclusive Couple Quiz themes (new themes added regularly)
 - Wish List customization (add, edit, delete categories)
-- Up to 30 photos per person for the monthly "Our Memories"
+- More photos available for the monthly "Our Memories"
+- More memories you can register for completed Wish List items
 
 Riamo is currently available as a beta version, and we are continuing to review subscription features based on user feedback as we work toward the official release. If there are any features you would like to see, please feel free to share your feedback through the in-app feedback box.
 
@@ -272,6 +273,12 @@ Subscription information is linked to the App Store/Google Play account used at 
 ### How do I unlock more furniture and items?
 
 New furniture is added as you and your partner answer more questions together. Look forward to it!
+
+### The countdown to new furniture has disappeared. Why?
+
+Currently, furniture acquisition ends once you have answered a set number of questions. When you have obtained all available furniture, the countdown will no longer appear.
+
+Please note that a redesign is planned for the future, which will include changes to furniture and item placement and how they are obtained.
 
 ---
 

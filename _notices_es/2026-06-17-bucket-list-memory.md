@@ -2,7 +2,7 @@
 layout: post
 title: "【Nueva función】¡Ahora puedes guardar recuerdos cuando completes un deseo🎉"
 date: 2026-06-17
-published: false
+published: true
 ---
 
 ¡Hola! Somos el equipo de Riamo.
@@ -13,7 +13,7 @@ Con esta actualización, ¡ahora puedes **guardar recuerdos juntos** cuando comp
 
 ## 🎊 ¡Completa un deseo y guarda un recuerdo!
 
-Al marcar un deseo como completado, aparecerá una pantalla de celebración. Toca **"Guardar un recuerdo"** para acceder al formulario de registro.
+Al completar un deseo, aparecerá el botón **"Guardar un recuerdo"**. Toca **"Guardar un recuerdo"** para acceder al formulario de registro.
 
 **Qué puedes añadir**
 
@@ -40,7 +40,7 @@ Hemos añadido opciones para ocultar o saltar el banner de "Recuerdos" que apare
 Ve a **Ajustes → Ajustes de pareja** y desactiva **"Fotos de recuerdos mensuales"** para ocultar el banner para los dos.
 
 ＜Cómo abrir Ajustes＞
-1. Toca el icono de ajustes (⚙️) en la esquina superior derecha de la pantalla de inicio
+1. Toca el icono de ajustes (⚙️) en la esquina superior derecha de la pantalla Mi página
 2. En "Ajustes de pareja", desactiva "Fotos de recuerdos mensuales"
 
 > ※ Cualquiera de los dos puede cambiar esta opción, y se aplica a ambos.

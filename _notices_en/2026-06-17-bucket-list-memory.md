@@ -2,7 +2,7 @@
 layout: post
 title: "【New Feature】You can now save memories when you complete a wish🎉"
 date: 2026-06-17
-published: false
+published: true
 ---
 
 Hi there! This is the Riamo team.
@@ -13,7 +13,7 @@ With this update, you can now **record memories together** when you complete som
 
 ## 🎊 Complete a wish, then save a memory!
 
-When you check off a wish, a celebration screen will appear. Tap **"Save a Memory"** to open the memory registration form.
+When you complete a wish, a **"Save a Memory"** button will appear. Tap **"Save a Memory"** to open the memory registration form.
 
 **What you can add**
 
@@ -40,7 +40,7 @@ We've added options to hide or skip the "Memories" banner that appears on your h
 Go to **Settings → Couple Settings** and toggle off **"Monthly Memory Photos"** to hide the banner for both of you.
 
 ＜How to open Settings＞
-1. Tap the settings icon (⚙️) in the top right of the home screen
+1. Tap the settings icon (⚙️) in the top right of the My Page screen
 2. Under "Couple Settings", turn off "Monthly Memory Photos"
 
 > ※ Either partner can change this setting, and it applies to both of you.
