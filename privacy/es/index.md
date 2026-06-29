@@ -180,7 +180,7 @@ A continuación se indican los nombres de los proveedores externos, la informaci
 
 ## Consultas
 
-Para consultas relacionadas con el tratamiento de información personal, contáctenos a través de la información de contacto que figura en las «Indicaciones basadas en la Ley de Transacciones Comerciales Específicas» o a través del formulario de consulta dentro de la aplicación.
+Para consultas relacionadas con el tratamiento de información personal, contáctenos a través de la información de contacto que figura en las [«Indicaciones basadas en la Ley de Transacciones Comerciales Específicas»](https://sukidayo-app.github.io/announcements/tokushoho/) o a través del formulario de consulta dentro de la aplicación.
 
 **[Contacto para quejas y consultas sobre información personal]**
 
