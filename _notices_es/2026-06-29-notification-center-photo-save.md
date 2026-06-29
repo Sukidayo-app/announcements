@@ -11,7 +11,7 @@ Con esta actualización, hemos añadido un **Centro de notificaciones** donde pu
 
 ---
 
-## 🔔 Consulta la actividad de tu pareja en el Centro de notificaciones
+## 🔔 Ahora puedes consultar la actividad de tu pareja en el Centro de notificaciones
 
 Toca el ícono de campana en la pantalla de inicio para ver las últimas acciones de tu pareja de un vistazo.
 
@@ -28,9 +28,9 @@ Toca una notificación para ir directamente a la función correspondiente. Las n
 
 ---
 
-## 📷 Guarda las fotos de recuerdos en tu dispositivo
+## 📷 Ahora puedes guardar las fotos de recuerdos en tu dispositivo
 
-Ahora puedes guardar las fotos de tus recuerdos en tu galería (biblioteca de fotos).
+Ahora puedes guardar las fotos de tus recuerdos mensuales en tu galería (biblioteca de fotos).
 
 ＜Cómo guardar＞
 

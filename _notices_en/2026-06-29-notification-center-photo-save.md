@@ -11,7 +11,7 @@ With this update, we've added an in-app **Notification Center** where you can ch
 
 ---
 
-## 🔔 Check Your Partner's Activity in the Notification Center
+## 🔔 You Can Now Check Your Partner's Activity in the Notification Center
 
 Tap the bell icon on the home screen to see your partner's recent actions at a glance.
 
@@ -28,9 +28,9 @@ Tap a notification to go directly to the relevant feature. Unread notifications 
 
 ---
 
-## 📷 Save Memory Photos to Your Device
+## 📷 You Can Now Save Memory Photos to Your Device
 
-You can now save photos from your memories to your camera roll (photo library).
+You can now save photos from your monthly memories to your camera roll (photo library).
 
 ＜How to save＞
 
