@@ -17,8 +17,8 @@ Tap the bell icon on the home screen to see your partner's recent actions at a g
 
 **What you'll see in the Notification Center**
 
-- 🖼️ When photos or comments are added to memories
-- 📋 When a wish list item is added, achieved, or commented on
+- 🖼️ When photos or comments are added to monthly memories
+- 📋 When a wish list item is added, achieved, commented on, or a memory is registered
 - 🧩 When your partner answers a couple quiz
 - 💬 When a comment arrives on a Q&A
 

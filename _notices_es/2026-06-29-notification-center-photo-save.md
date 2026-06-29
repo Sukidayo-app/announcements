@@ -17,8 +17,8 @@ Toca el ícono de campana en la pantalla de inicio para ver las últimas accione
 
 **Qué verás en el Centro de notificaciones**
 
-- 🖼️ Cuando se añaden fotos o comentarios a los recuerdos
-- 📋 Cuando se añade, logra o comenta un deseo de tu lista
+- 🖼️ Cuando se añaden fotos o comentarios a los recuerdos mensuales
+- 📋 Cuando se añade, logra, comenta un deseo de tu lista o se registra un recuerdo
 - 🧩 Cuando tu pareja responde un quiz de pareja
 - 💬 Cuando llega un comentario en una pregunta
 
