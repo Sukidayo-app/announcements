@@ -268,7 +268,7 @@ La información del contrato de suscripción está vinculada a la cuenta de App 
 
 ### ¿Cómo desbloqueo más muebles y objetos?
 
-Se añaden nuevos muebles a medida que respondéis preguntas juntos. ¡Esperad con ganas!
+Se añaden nuevos muebles a medida que respondéis las preguntas diarias juntos. Podéis comprobar cuántas preguntas faltan para el siguiente mueble en el contador "○ preguntas para el siguiente mueble" que aparece en la pantalla de inicio.
 
 ### La cuenta regresiva de muebles ha desaparecido. ¿Por qué?
 

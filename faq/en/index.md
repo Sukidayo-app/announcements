@@ -272,7 +272,7 @@ Subscription information is linked to the App Store/Google Play account used at 
 
 ### How do I unlock more furniture and items?
 
-New furniture is added as you and your partner answer more questions together. Look forward to it!
+New furniture is added as you and your partner answer the daily questions together. You can check how many questions away the next piece of furniture is in the "X questions until next furniture" counter on the home screen.
 
 ### The countdown to new furniture has disappeared. Why?
 
