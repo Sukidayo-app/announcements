@@ -25,11 +25,11 @@ Solo toca el ícono 🔖 en una pregunta para guardarla. Las preguntas guardadas
 
 ## 📋 Ver tus preguntas guardadas
 
-Toca la pestaña "Guardados" en la parte superior de la pantalla de Q&A para ver todas tus preguntas guardadas.
+Toca el ícono de marcador (🔖) en la pantalla de Q&A para ver todas tus preguntas guardadas.
 
 **Cómo llegar:**
 1. Abre la pantalla principal de Q&A
-2. Toca la pestaña "Guardados" en la parte superior
+2. Toca el ícono de marcador (🔖)
 
 ---
 

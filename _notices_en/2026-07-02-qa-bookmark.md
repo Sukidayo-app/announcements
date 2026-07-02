@@ -25,11 +25,11 @@ Just tap the 🔖 icon on a question to save it. Saved questions are only visibl
 
 ## 📋 View your saved questions
 
-Tap the "Saved" tab at the top of the Q&A screen to see all your saved questions.
+Tap the bookmark icon (🔖) on the Q&A screen to see all your saved questions.
 
 **How to get there:**
 1. Open the Q&A top screen
-2. Tap the "Saved" tab at the top
+2. Tap the bookmark icon (🔖)
 
 ---
 
