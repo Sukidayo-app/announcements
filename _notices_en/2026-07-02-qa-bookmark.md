@@ -1,31 +1,31 @@
 ---
 layout: post
-title: "【New Feature】You can now save Q&A questions for later 🔖"
+title: "【New Feature】You can now bookmark your favorite Q&A questions 🔖"
 date: 2026-07-02
-published: false
+published: true
 ---
 
 Hi there! This is the Riamo team.
 
-With this update, you can now **save your favorite Q&A questions** just for yourself! Revisit the questions you loved and the meaningful exchanges with your partner, anytime you like 📚
+With this update, you can now **bookmark your favorite Q&A questions** just for yourself! Revisit the questions you loved and the meaningful exchanges with your partner, anytime you like 📚
 
 ---
 
-## 🔖 Save questions you love
+## 🔖 Bookmark questions you love
 
-Just tap the 🔖 icon on a question to save it. Saved questions are only visible to you.
+Just tap the 🔖 icon on a question to add it to your favorites. Bookmarked questions are only visible to you.
 
-**Once saved…**
-- They'll appear in your "Saved" tab, all in one place
+**Once bookmarked…**
+- They'll appear in the bookmark tab (🔖), all in one place
 - You can come back and read them whenever you want
 
-> ※ Saving is personal — your partner won't see your saved questions.
+> ※ Bookmarks are personal — your partner won't see your bookmarked questions.
 
 ---
 
-## 📋 View your saved questions
+## 📋 View your bookmarked questions
 
-Tap the bookmark icon (🔖) on the Q&A screen to see all your saved questions.
+Tap the bookmark icon (🔖) on the Q&A screen to see all your bookmarked questions.
 
 **How to get there:**
 1. Open the Q&A top screen

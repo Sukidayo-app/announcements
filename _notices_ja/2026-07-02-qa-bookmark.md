@@ -2,7 +2,7 @@
 layout: post
 title: "【新機能】一問一答のお気に入り登録機能が追加されました🔖"
 date: 2026-07-02
-published: false
+published: true
 ---
 
 こんにちは！Riamo運営チームです。
