@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "【Gran actualización】El Quiz de pareja evoluciona: comentarios y un nuevo sistema de tickets 💫"
+title: "【Gran actualización】El Quiz de pareja ahora funciona con tickets, ¡y llega la función de comentarios! 🎟️"
 date: 2026-07-29
 published: false
 ---
@@ -14,30 +14,33 @@ Lo más destacado es el renovado **Quiz de pareja**, creado a partir de lo que n
 
 ---
 
+## 🎟️ El Quiz de pareja ahora funciona con tickets. ¡Y podéis probarlo de uno en uno!
+
+Esta es la gran novedad. El Quiz de pareja renace con un nuevo **sistema de tickets**.
+
+**Con un ticket desbloqueáis un tema del Quiz de pareja a vuestra elección.** Una vez desbloqueado, los dos podéis responderlo, y podéis **volver a verlo siempre que queráis, tantas veces como queráis.**
+
+Hasta ahora, el Quiz de pareja era una función exclusiva de Riamo Plus. En respuesta a comentarios como «solo quiero probar un tema» o «me gustaría hacerlo una vez», ahora podéis **comprar tickets de forma individual, incluso sin una suscripción a Riamo Plus.**
+
+Los temas se agrupan en cinco categorías: Comunicación, Cariño, Acontecimientos vitales, Estilo de vida y Casual. Elegid lo que más os llame la atención entre los temas populares o los **temas nuevos que se añaden cada semana.**
+
+**Los miembros de Riamo Plus reciben automáticamente 4 tickets cada mes 🎁**
+Tomaos vuestro tiempo cada mes para elegir el tema que queráis, incluidas las novedades.
+
+<!-- Insertar imagen: captura de la pantalla de tickets / lista de temas -->
+
+> ※ Para más detalles sobre cómo comprar tickets y cuándo se entregan, consultad la pantalla del Quiz de pareja en la app.
+
+---
+
 ## 💬 ¡Ahora podéis dejar comentarios en el Quiz de pareja!
 
 Ver el resultado y ya está sabía a poco.
 A partir de ahora, los dos podéis **dejar comentarios** en los resultados de vuestro Quiz de pareja.
 
-«¡Totalmente cierto!» «¡No me lo esperaba!» — dejad que el quiz dé pie a más conversaciones entre vosotros.
+«¡Totalmente cierto!» «¡No me lo esperaba!» — dejad que el quiz dé pie a más conversaciones entre vosotros. Cuando volvéis a un tema desbloqueado, sus comentarios vuelven con él.
 
 <!-- Insertar imagen: captura de los comentarios del Quiz de pareja -->
-
----
-
-## 🎟️ El Quiz de pareja ahora funciona con tickets: ¡y podéis probarlo de uno en uno!
-
-Hasta ahora, el Quiz de pareja era una función exclusiva de Riamo Plus. En respuesta a comentarios como «solo quiero probar un tema» o «me gustaría hacerlo una vez», hemos introducido un nuevo **sistema de tickets**.
-
-Con un ticket, podéis disfrutar del tema del Quiz de pareja que queráis, cuando queráis.
-
-**Los miembros de Riamo Plus reciben automáticamente 4 tickets cada mes 🎁**
-
-Combinadlos con la nueva función de comentarios, elegid con calma un tema que os intrigue y haced que vuestros momentos juntos sean aún más profundos.
-
-<!-- Insertar imagen: captura de la pantalla de tickets / compra -->
-
-> ※ Para más detalles sobre cómo comprar tickets y cuándo se entregan, consultad la pantalla del Quiz de pareja en la app.
 
 ---
 

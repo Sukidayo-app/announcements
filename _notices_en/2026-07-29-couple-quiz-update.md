@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "【Big Update】The Couple Quiz gets even better — comments & a new ticket system 💫"
+title: "【Big Update】The Couple Quiz now runs on tickets — plus a new comment feature 🎟️"
 date: 2026-07-29
 published: false
 ---
@@ -14,30 +14,33 @@ The highlight is the newly revamped **Couple Quiz**, built around what you've be
 
 ---
 
+## 🎟️ The Couple Quiz now runs on tickets — and you can try it one at a time!
+
+This is the big one. The Couple Quiz has been reborn with a brand-new **ticket system**.
+
+**One ticket unlocks one Couple Quiz theme of your choice.** Once unlocked, the two of you can answer it — and you can **revisit it anytime, as many times as you like.**
+
+The Couple Quiz used to be a Riamo Plus–only feature. In response to voices like "I just want to try one theme" and "I'd love to do it once," you can now **buy tickets individually, even without a Riamo Plus subscription.**
+
+Themes come in five categories — Communication, Affection, Life Events, Lifestyle, and Casual. Pick whatever catches your eye from the popular themes or the **new themes added every week.**
+
+**Riamo Plus members automatically receive 4 tickets every month 🎁**
+Take your time each month choosing from any theme you like, new arrivals included.
+
+<!-- Insert image: screenshot of the ticket screen / theme list -->
+
+> ※ For details on how to buy tickets and when they're delivered, please check the Couple Quiz screen in the app.
+
+---
+
 ## 💬 You can now leave comments on the Couple Quiz!
 
 Seeing your results and moving on felt like a bit of a waste.
 Now, the two of you can **leave comments** on your Couple Quiz results.
 
-"So true!" "I didn't expect that!" — let the quiz spark even more conversation between you.
+"So true!" "I didn't expect that!" — let the quiz spark even more conversation between you. When you revisit an unlocked theme, its comments come back with it.
 
 <!-- Insert image: screenshot of Couple Quiz comments -->
-
----
-
-## 🎟️ The Couple Quiz now works with tickets — and you can try it one at a time!
-
-The Couple Quiz used to be a Riamo Plus–only feature. In response to voices like "I just want to try one theme" and "I'd love to do it once," we've introduced a brand-new **ticket system**.
-
-With a ticket, you can enjoy any Couple Quiz theme you like, whenever you like.
-
-**Riamo Plus members automatically receive 4 tickets every month 🎁**
-
-Pair them with the new comment feature, take your time picking a theme that intrigues you, and make your moments together even deeper.
-
-<!-- Insert image: screenshot of the ticket / purchase screen -->
-
-> ※ For details on how to buy tickets and when they're delivered, please check the Couple Quiz screen in the app.
 
 ---
 
