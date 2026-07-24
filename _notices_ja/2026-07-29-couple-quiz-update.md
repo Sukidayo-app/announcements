@@ -42,7 +42,7 @@ Riamo Plusにご加入のみなさまには、毎月1日に4枚のチケット�
 「今のふたりにぴったりなテーマは？」「来月はこれを答えてみたいな」など、ぜひおふたりで毎月テーマを選んでお楽しみください。  
 (※すでにご加入いただいている皆様にはチケット制への切り替えにあわせ、毎月1日配布分とは別にチケット4枚をプレゼントいたします)
 
-<img width="300" height="700" alt="スクリーンショット 2026-07-24 16 21 49" src="https://github.com/user-attachments/assets/b1fe6086-ae1f-4c63-8cac-69d2ccc586eb" />
+<img width="350" height="700" alt="スクリーンショット 2026-07-24 16 21 49" src="https://github.com/user-attachments/assets/b1fe6086-ae1f-4c63-8cac-69d2ccc586eb" />
 
 
 
