@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "【Gran actualización】El Quiz de pareja ahora funciona con tickets, ¡y llega la función de comentarios! 🎟️"
+title: "【🎉Gran actualización】¡Ya puedes comprar temas del Quiz de pareja de forma individual! Y otras funciones útiles ✨"
 date: 2026-07-29
 published: false
 ---
@@ -9,73 +9,105 @@ published: false
 
 Gracias como siempre por usar Riamo.
 
-Esta actualización es **la más completa hasta ahora** 🎁
-Lo más destacado es el renovado **Quiz de pareja**, creado a partir de lo que nos habéis pedido. Además, hemos añadido muchas funciones para que vuestro día a día juntos sea aún más divertido. ¡Seguid leyendo hasta el final!
+Esta actualización viene **cargada de novedades** 🎁
+Lo más destacado es el **Quiz de pareja**, renovado a partir de vuestras peticiones 📈💗
+Además, hemos mejorado otras funciones para que vuestro día a día juntos sea aún más divertido.
+¡No os lo perdáis hasta el final!
 
 ---
+<br>  
 
-## 🎟️ El Quiz de pareja ahora funciona con tickets. ¡Y podéis probarlo de uno en uno!
+## 🎟️ Disfrutad del Quiz de pareja con más libertad ✨ ¡Ahora funciona con tickets!
 
-Esta es la gran novedad. El Quiz de pareja renace con un nuevo **sistema de tickets**.
+¡Esta es la mayor novedad de esta vez! El Quiz de pareja renace con un nuevo sistema de tickets 🎫  
 
-**Con un ticket desbloqueáis un tema del Quiz de pareja a vuestra elección.** Una vez desbloqueado, los dos podéis responderlo, y podéis **volver a verlo siempre que queráis, tantas veces como queráis.**
+Hasta ahora, la mayoría de los temas del Quiz de pareja eran una función exclusiva de Riamo Plus. En respuesta a comentarios como «solo quiero probar los temas que me interesan» o «me gustaría hacerlo una sola vez»,
+**ahora podéis comprar tickets de forma individual y disfrutarlos incluso sin una suscripción a Riamo Plus 🙌**
 
-Hasta ahora, el Quiz de pareja era una función exclusiva de Riamo Plus. En respuesta a comentarios como «solo quiero probar un tema» o «me gustaría hacerlo una vez», ahora podéis **comprar tickets de forma individual, incluso sin una suscripción a Riamo Plus.**
+**🎫 Con un ticket desbloqueáis un tema del Quiz de pareja a vuestra elección 🔓**  
+Una vez desbloqueado, los dos podéis responderlo, y podéis volver a verlo cuando queráis, tantas veces como queráis.  
+Los tickets funcionan en todos los temas, incluidos los nuevos que se añaden cada semana.  
 
-Los temas se agrupan en cinco categorías: Comunicación, Cariño, Acontecimientos vitales, Estilo de vida y Casual. Elegid lo que más os llame la atención entre los temas populares o los **temas nuevos que se añaden cada semana.**
+Los tickets individuales están disponibles sueltos o en un pack de 10 con un precio ventajoso.  
+Nuestra suscripción, Riamo Plus, también sigue disponible 💗
 
-**Los miembros de Riamo Plus reciben automáticamente 4 tickets cada mes 🎁**
-Tomaos vuestro tiempo cada mes para elegir el tema que queráis, incluidas las novedades.
+**Elegid la suscripción para un buen precio mensual, o comprad solo los tickets que necesitéis, cuando los necesitéis. Escoged lo que mejor os venga a los dos 🎶**
+Elegid juntos un tema que os intrigue y probadlo 🌸
 
-<!-- Insertar imagen: captura de la pantalla de tickets / lista de temas -->
+<img width="350" height="700" alt="Screenshot_20260724-134318" src="https://github.com/user-attachments/assets/d5d3bf5d-f3c7-48d8-ac56-00040d415586" />  
 
-> ※ Para más detalles sobre cómo comprar tickets y cuándo se entregan, consultad la pantalla del Quiz de pareja en la app.
+
+## Los miembros de Riamo Plus reciben 4 tickets el día 1 de cada mes 🎁
+Si sois miembros de Riamo Plus, os entregaremos 4 tickets el día 1 de cada mes 💌  
+«¿Qué tema nos va mejor ahora mismo?», «El mes que viene respondemos este» — disfrutad eligiendo temas juntos cada mes.  
+(※ Si ya estáis suscritos, os regalaremos 4 tickets para celebrar el cambio al sistema de tickets, aparte de los que se entregan el día 1 de cada mes.)
+
+<img width="350" height="700" alt="Captura 2026-07-24 16 21 49" src="https://github.com/user-attachments/assets/b1fe6086-ae1f-4c63-8cac-69d2ccc586eb" />
+
+
 
 ---
+<br>  
 
 ## 💬 ¡Ahora podéis dejar comentarios en el Quiz de pareja!
 
 Ver el resultado y ya está sabía a poco.
-A partir de ahora, los dos podéis **dejar comentarios** en los resultados de vuestro Quiz de pareja.
+A partir de ahora, los dos podéis **dejar comentarios** en los resultados de vuestro Quiz de pareja 🎉
 
-«¡Totalmente cierto!» «¡No me lo esperaba!» — dejad que el quiz dé pie a más conversaciones entre vosotros. Cuando volvéis a un tema desbloqueado, sus comentarios vuelven con él.
+«¡Totalmente cierto!», «¡Qué resultado tan inesperado!» — comentad juntos sobre los resultados.
 
-<!-- Insertar imagen: captura de los comentarios del Quiz de pareja -->
+<img width="350" height="700" alt="Screenshot_20260724-135513" src="https://github.com/user-attachments/assets/e5a4cc2f-e33f-49b8-a3e7-034e06d3efec" />
+
 
 ---
+<br>  
 
 ## 😊 ¡Ahora podéis reaccionar a los comentarios con emojis!
 
 Ya podéis añadir reacciones con emojis a los comentarios de vuestras **preguntas y respuestas, la lista de deseos y los recuerdos**.
 
-Sin necesidad de palabras: con un solo toque podéis transmitir un «me encanta» o un «¡qué bien!» a vuestra pareja.
+¡Perfecto para esos momentos de «lo he visto, pero no tengo tiempo de responder…»!  
+Sin necesidad de palabras, con un solo toque podéis transmitir un «me encanta» o un «¡qué bien!» a vuestra pareja.
 
-<!-- Insertar imagen: captura de las reacciones con emojis -->
+<img width="350" height="700" alt="Screenshot_20260724-142135" src="https://github.com/user-attachments/assets/aa8f3c36-8087-4209-972c-517b671b22c9" />
+
 
 ---
+
+<br>  
 
 ## 🔔 Los comentarios ahora se previsualizan en el Centro de notificaciones
 
-El Centro de notificaciones ahora muestra una parte de los comentarios que recibís.
-Ved de un vistazo qué comentario ha llegado, sin necesidad de abrirlo.
+El Centro de notificaciones ahora muestra una parte de los comentarios que recibís.  
+Incluso cuando «¡no puedo abrirlo ahora, pero me muero de curiosidad!», ahora es fácil ver qué comentario ha llegado y dónde 🙌
+
+<img width="350" height="500" alt="Screenshot_20260724-143730" src="https://github.com/user-attachments/assets/d4d71f07-b388-4478-8102-eb90653e3ac7" />
+
 
 ---
 
-## 👉 Desliza para repasar tu historial de preguntas y respuestas
+<br>  
 
-Solo tenéis que **deslizar** a izquierda o derecha en la pantalla de preguntas y respuestas para repasar las preguntas y respuestas de otros días.
+## 👉 Desliza por tus preguntas y respuestas para repasar tu historial 📖
+
+Solo tenéis que **deslizar a izquierda o derecha en la pantalla de preguntas y respuestas para repasar las de otros días 📚**  
 Hojead vuestro registro diario juntos, como si pasarais las páginas de un álbum.
 
-<!-- Insertar vídeo: deslizando por las preguntas y respuestas -->
+<img width="300" height="674" alt="qa-swipe-light" src="https://github.com/user-attachments/assets/82ddeda4-529a-402b-b899-7e99cf584c59" />
 
 ---
+
+<br>  
 
 ## 💌 Nos encantaría conocer vuestra opinión
 
-Si tenéis alguna impresión o sugerencia sobre esta actualización del Quiz de pareja, compartidla a través del **«Buzón de opiniones»** de la app.
-Vuestra voz nos ayuda a seguir mejorando Riamo.
+Esta vez, el Quiz de pareja en particular ha sido una gran actualización.
+Si tenéis alguna impresión o sugerencia, compartidla a través del **«Buzón de opiniones»** de la app.  
+Riamo aún está en desarrollo: avanzamos desde la versión beta que usáis ahora hacia el lanzamiento de la versión final, y vuestras voces son una gran fuente de fuerza 🙏
+Valoramos mucho vuestra opinión, así que os agradeceríamos vuestros comentarios sinceros mientras seguimos mejorando Riamo.
 
 ---
+<br>  
 
 ## Nota
 
