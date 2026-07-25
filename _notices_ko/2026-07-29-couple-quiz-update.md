@@ -34,17 +34,10 @@ published: false
 **매월 알뜰하게 구독으로. 필요할 때 필요한 만큼 낱개 구매로. 두 분의 스타일에 맞는 즐기는 방법을 선택하실 수 있습니다 🎶**
 꼭 두 분이서 궁금한 테마를 골라 답변해 보세요 🌸
 
-<img width="350" height="700" alt="Screenshot_20260724-134318" src="https://github.com/user-attachments/assets/d5d3bf5d-f3c7-48d8-ac56-00040d415586" />  
-
-
 ## Riamo Plus에 가입하신 분들께는 매월 1일에 티켓 4장을 드립니다 🎁
 Riamo Plus에 가입하신 분들께는 매월 1일에 티켓 4장을 드립니다 💌  
 "지금 우리 두 사람에게 딱 맞는 테마는?", "다음 달엔 이걸 답해볼까?" 등, 꼭 두 분이서 매월 테마를 골라 즐겨 보세요.  
 (※ 이미 가입하신 분들께는 티켓 제도로의 전환에 맞춰, 매월 1일 지급분과는 별도로 티켓 4장을 선물로 드립니다)
-
-<img width="350" height="700" alt="스크린샷 2026-07-24 16 21 49" src="https://github.com/user-attachments/assets/b1fe6086-ae1f-4c63-8cac-69d2ccc586eb" />
-
-
 
 ---
 <br>  
@@ -56,9 +49,6 @@ Riamo Plus에 가입하신 분들께는 매월 1일에 티켓 4장을 드립니�
 
 "완전 공감돼!", "의외의 결과네!" 등, 진단 내용에 대해 꼭 두 분이서 댓글을 달아 보세요.
 
-<img width="350" height="700" alt="Screenshot_20260724-135513" src="https://github.com/user-attachments/assets/e5a4cc2f-e33f-49b8-a3e7-034e06d3efec" />
-
-
 ---
 <br>  
 
@@ -69,9 +59,6 @@ Riamo Plus에 가입하신 분들께는 매월 1일에 티켓 4장을 드립니�
 "제대로 보고 있는데, 답할 시간이 없어…" 할 때도 안심!  
 말로 하지 않아도, 한 번의 탭으로 "기뻐요", "좋아요"의 마음을 파트너에게 전할 수 있습니다.
 
-<img width="350" height="700" alt="Screenshot_20260724-142135" src="https://github.com/user-attachments/assets/aa8f3c36-8087-4209-972c-517b671b22c9" />
-
-
 ---
 
 <br>  
@@ -81,9 +68,6 @@ Riamo Plus에 가입하신 분들께는 매월 1일에 티켓 4장을 드립니�
 알림 센터에서 받은 댓글의 일부가 표시되도록 바뀌었습니다.  
 "지금 댓글을 열 수는 없지만, 궁금해!" 할 때도, 무엇에 어떤 댓글이 왔는지 알기 쉬워졌습니다 🙌
 
-<img width="350" height="500" alt="Screenshot_20260724-143730" src="https://github.com/user-attachments/assets/d4d71f07-b388-4478-8102-eb90653e3ac7" />
-
-
 ---
 
 <br>  
@@ -92,8 +76,6 @@ Riamo Plus에 가입하신 분들께는 매월 1일에 티켓 4장을 드립니�
 
 일문일답 화면을 좌우로 **스와이프하기만 하면 다른 날의 질문과 답변을 다시 볼 수 있게 되었습니다 📚**  
 두 사람의 매일의 기록을, 앨범을 넘기듯 즐길 수 있습니다.
-
-<img width="300" height="674" alt="qa-swipe-light" src="https://github.com/user-attachments/assets/82ddeda4-529a-402b-b899-7e99cf584c59" />
 
 ---
 

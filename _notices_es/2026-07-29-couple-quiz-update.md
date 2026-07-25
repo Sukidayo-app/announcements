@@ -34,17 +34,10 @@ Nuestra suscripción, Riamo Plus, también sigue disponible 💗
 **Elegid la suscripción para un buen precio mensual, o comprad solo los tickets que necesitéis, cuando los necesitéis. Escoged lo que mejor os venga a los dos 🎶**
 Elegid juntos un tema que os intrigue y probadlo 🌸
 
-<img width="350" height="700" alt="Screenshot_20260724-134318" src="https://github.com/user-attachments/assets/d5d3bf5d-f3c7-48d8-ac56-00040d415586" />  
-
-
 ## Los miembros de Riamo Plus reciben 4 tickets el día 1 de cada mes 🎁
 Si sois miembros de Riamo Plus, os entregaremos 4 tickets el día 1 de cada mes 💌  
 «¿Qué tema nos va mejor ahora mismo?», «El mes que viene respondemos este» — disfrutad eligiendo temas juntos cada mes.  
 (※ Si ya estáis suscritos, os regalaremos 4 tickets para celebrar el cambio al sistema de tickets, aparte de los que se entregan el día 1 de cada mes.)
-
-<img width="350" height="700" alt="Captura 2026-07-24 16 21 49" src="https://github.com/user-attachments/assets/b1fe6086-ae1f-4c63-8cac-69d2ccc586eb" />
-
-
 
 ---
 <br>  
@@ -56,9 +49,6 @@ A partir de ahora, los dos podéis **dejar comentarios** en los resultados de vu
 
 «¡Totalmente cierto!», «¡Qué resultado tan inesperado!» — comentad juntos sobre los resultados.
 
-<img width="350" height="700" alt="Screenshot_20260724-135513" src="https://github.com/user-attachments/assets/e5a4cc2f-e33f-49b8-a3e7-034e06d3efec" />
-
-
 ---
 <br>  
 
@@ -69,9 +59,6 @@ Ya podéis añadir reacciones con emojis a los comentarios de vuestras **pregunt
 ¡Perfecto para esos momentos de «lo he visto, pero no tengo tiempo de responder…»!  
 Sin necesidad de palabras, con un solo toque podéis transmitir un «me encanta» o un «¡qué bien!» a vuestra pareja.
 
-<img width="350" height="700" alt="Screenshot_20260724-142135" src="https://github.com/user-attachments/assets/aa8f3c36-8087-4209-972c-517b671b22c9" />
-
-
 ---
 
 <br>  
@@ -81,9 +68,6 @@ Sin necesidad de palabras, con un solo toque podéis transmitir un «me encanta�
 El Centro de notificaciones ahora muestra una parte de los comentarios que recibís.  
 Incluso cuando «¡no puedo abrirlo ahora, pero me muero de curiosidad!», ahora es fácil ver qué comentario ha llegado y dónde 🙌
 
-<img width="350" height="500" alt="Screenshot_20260724-143730" src="https://github.com/user-attachments/assets/d4d71f07-b388-4478-8102-eb90653e3ac7" />
-
-
 ---
 
 <br>  
@@ -92,8 +76,6 @@ Incluso cuando «¡no puedo abrirlo ahora, pero me muero de curiosidad!», ahora
 
 Solo tenéis que **deslizar a izquierda o derecha en la pantalla de preguntas y respuestas para repasar las de otros días 📚**  
 Hojead vuestro registro diario juntos, como si pasarais las páginas de un álbum.
-
-<img width="300" height="674" alt="qa-swipe-light" src="https://github.com/user-attachments/assets/82ddeda4-529a-402b-b899-7e99cf584c59" />
 
 ---
 
