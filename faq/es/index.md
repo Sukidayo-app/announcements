@@ -225,7 +225,7 @@ Por ejemplo, en el caso de una pareja A y B:
 Las funciones incluidas son las siguientes:
 
 - Experiencia sin anuncios
-- Temas exclusivos de Quiz de pareja
+- Más temas del Quiz de pareja disponibles
 - Personalización de la Lista de deseos
 - Más fotos disponibles en «Nuestros recuerdos» mensuales
 - Más recuerdos que puedes registrar al cumplir deseos de tu lista

@@ -227,7 +227,7 @@ For example, in the case of a couple A and B:
 The following features are included:
 
 - Ad-free experience
-- Subscription-exclusive Couple Quiz themes (new themes added regularly)
+- More Couple Quiz themes to enjoy
 - Wish List customization (add, edit, delete categories)
 - More photos available for the monthly "Our Memories"
 - More memories you can register for completed Wish List items
