@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "【🎉Major Revamp】You can now buy Couple Quiz themes individually! Plus other handy features ✨"
-date: 2026-07-29
-published: false
+date: 2026-08-03
+published: true
 ---
 
 Hi there! This is the Riamo team.

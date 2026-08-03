@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "【🎉Gran renovación】¡Ya puedes comprar temas del Quiz de pareja de forma individual! Y otras funciones útiles ✨"
-date: 2026-07-29
-published: false
+date: 2026-08-03
+published: true
 ---
 
 ¡Hola! Somos el equipo de Riamo.

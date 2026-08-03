@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "【🎉대형 리뉴얼】커플 진단 테마를 단품으로 구매할 수 있게 되었습니다! 그 외 편리한 기능도 등장 ✨"
-date: 2026-07-29
-published: false
+date: 2026-08-03
+published: true
 ---
 
 안녕하세요! Riamo 운영팀입니다.

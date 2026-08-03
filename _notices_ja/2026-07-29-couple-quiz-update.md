@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "【🎉大型リニューアル】カップル診断のテーマ単品購入が可能に！その他便利な機能も登場✨"
-date: 2026-07-29
-published: false
+date: 2026-08-03
+published: true
 ---
 
 こんにちは！Riamo運営チームです。
