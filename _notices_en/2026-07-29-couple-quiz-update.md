@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "【🎉Big Update】You can now buy Couple Quiz themes individually! Plus other handy features ✨"
+title: "【🎉Major Revamp】You can now buy Couple Quiz themes individually! Plus other handy features ✨"
 date: 2026-07-29
 published: false
 ---
@@ -19,7 +19,7 @@ Be sure to read all the way to the end!
 
 ## 🎟️ Enjoy the Couple Quiz more freely ✨ It's now ticket-based!
 
-This is the biggest update this time! The Couple Quiz has been reborn with a brand-new ticket system 🎫  
+This is the biggest change this time! The Couple Quiz has been reborn with a brand-new ticket system 🎫  
 
 Until now, most Couple Quiz themes were a Riamo Plus–only feature. In response to voices like "I just want to try the themes I'm curious about" and "I'd love to do it just once,"
 **you can now buy tickets individually and enjoy them even without a Riamo Plus subscription 🙌**
