@@ -11,6 +11,23 @@ lang: ko
   .toc li { font-size: 14px; margin-bottom: 4px; }
   .toc a { color: #EE8514; text-decoration: none; }
   .toc a:hover { text-decoration: underline; }
+  .toc > ul > li { margin-bottom: 2px; }
+  .toc details > summary {
+    font-size: 14px; font-weight: 600; color: #EE8514; cursor: pointer;
+    list-style: none; padding: 5px 0; display: flex; align-items: flex-start; gap: 7px;
+  }
+  .toc details > summary::-webkit-details-marker { display: none; }
+  .toc details > summary::before {
+    content: "\25B6"; font-size: 9px; line-height: 2.1; color: #EE8514;
+    flex: 0 0 auto; transition: transform .15s ease;
+  }
+  .toc details[open] > summary::before { transform: rotate(90deg); }
+  .toc details > summary:hover { text-decoration: underline; }
+  .toc details > ul { padding-left: 20px; margin: 2px 0 10px; }
+  .toc details > ul > li { font-size: 13.5px; margin-bottom: 7px; line-height: 1.55; }
+  .toc details a { color: #555; }
+  .toc details a:hover { color: #EE8514; }
+  .faq-body h2, .faq-body h3 { scroll-margin-top: 16px; }
   .faq-body h2 { font-size: 18px; font-weight: 700; margin: 32px 0 12px; padding-bottom: 8px; border-bottom: 2px solid #f0f0f0; }
   .faq-body h3 { font-size: 16px; font-weight: 700; margin: 20px 0 6px; color: #EE8514; }
   .faq-body h3::before { content: "Q. "; }
@@ -26,6 +43,8 @@ lang: ko
   @media (max-width: 600px) {
     .page-title { font-size: 20px; }
     .toc { padding: 16px 18px; }
+    .toc details > summary { font-size: 13.5px; }
+    .toc details > ul > li { font-size: 13px; }
     .faq-body h2 { font-size: 16px; }
     .faq-body h3 { font-size: 15px; }
     .faq-body p, .faq-body ul, .faq-body ol { font-size: 14px; }
@@ -39,16 +58,111 @@ lang: ko
 <div class="toc">
   <div class="toc-title">📖 목차</div>
   <ul>
-    <li><a href="#getting-started">🐾 시작하기</a></li>
-    <li><a href="#questions">📝 Q&A·커플 진단·답변</a></li>
-    <li><a href="#memories">📷 두 사람의 추억</a></li>
-    <li><a href="#settings">🛠 설정 및 기능</a></li>
-    <li><a href="#anniversary">📅 기념일</a></li>
-    <li><a href="#message-card">💌 메시지 카드</a></li>
-    <li><a href="#account">🚪 탈퇴 및 페어 해제</a></li>
-    <li><a href="#subscription">💳 구독</a></li>
-    <li><a href="#fun">🎁 즐길 거리</a></li>
-    <li><a href="#other">❓ 기타</a></li>
+    <li>
+      <details>
+        <summary>🐾 시작하기</summary>
+        <ul>
+          <li><a href="#q-how-to-start">어떻게 시작하나요?</a></li>
+          <li><a href="#q-change-profile">이름, 성별, 동물 이름은 나중에 변경할 수 있나요?</a></li>
+          <li><a href="#q-no-notifications">알림이 오지 않습니다. 어떻게 해야 하나요?</a></li>
+          <li><a href="#q-no-questions">질문이 오지 않습니다. 어떻게 해야 하나요?</a></li>
+        </ul>
+      </details>
+    </li>
+    <li>
+      <details>
+        <summary>📝 Q&amp;A·커플 진단·답변</summary>
+        <ul>
+          <li><a href="#q-see-results">답변 결과는 어떻게 확인하나요?</a></li>
+          <li><a href="#q-edit-answer">실수로 답변했습니다. 다시 할 수 있나요?</a></li>
+          <li><a href="#q-comment-notification">답변에 댓글을 달면 상대방에게 알림이 가나요?</a></li>
+          <li><a href="#q-partner-only-question">파트너에게는 최신 질문이 왔는데 저한테는 오지 않습니다.</a></li>
+          <li><a href="#q-past-answers-missing">과거의 답변과 결과가 표시되지 않습니다.</a></li>
+        </ul>
+      </details>
+    </li>
+    <li>
+      <details>
+        <summary>📷 두 사람의 추억</summary>
+        <ul>
+          <li><a href="#q-memory-when">추억 등록은 언제부터 가능한가요?</a></li>
+          <li><a href="#q-memory-edit">한 번 등록한 추억을 수정할 수 있나요?</a></li>
+        </ul>
+      </details>
+    </li>
+    <li>
+      <details>
+        <summary>🛠 설정 및 기능</summary>
+        <ul>
+          <li><a href="#q-delivery-time">질문이 오는 시간을 변경할 수 있나요?</a></li>
+          <li><a href="#q-logout">로그아웃은 어떻게 하나요?</a></li>
+          <li><a href="#q-transfer-data">기기 변경 시 데이터는 어떻게 인계하나요?</a></li>
+          <li><a href="#q-fresh-start-screen">로그인했더니 새로 시작하는 화면이 나옵니다.</a></li>
+          <li><a href="#q-cohabitation">동거 여부는 변경할 수 있나요？</a></li>
+          <li><a href="#q-future-anniversary">기념일에 미래 날짜를 설정할 수 있나요?</a></li>
+        </ul>
+      </details>
+    </li>
+    <li>
+      <details>
+        <summary>📅 기념일</summary>
+        <ul>
+          <li><a href="#q-fixed-anniversary">삭제하거나 이름을 변경할 수 없는 기념일이 있습니다. 왜인가요?</a></li>
+          <li><a href="#q-anniversary-order">기념일의 순서를 변경하고 싶습니다.</a></li>
+        </ul>
+      </details>
+    </li>
+    <li>
+      <details>
+        <summary>💌 메시지 카드</summary>
+        <ul>
+          <li><a href="#q-card-edit">보낸 메시지 카드를 삭제하거나 편집할 수 있나요?</a></li>
+          <li><a href="#q-card-timezone">파트너와 멀리 떨어져 살고 있습니다. 메시지 카드의 배달 시간은 어느 시간대를 기준으로 설정되나요?</a></li>
+        </ul>
+      </details>
+    </li>
+    <li>
+      <details>
+        <summary>🚪 탈퇴 및 페어 해제</summary>
+        <ul>
+          <li><a href="#q-delete-account">탈퇴 또는 계정 삭제는 어떻게 하나요?</a></li>
+          <li><a href="#q-unpair">페어를 해제하려면 어떻게 하나요?</a></li>
+          <li><a href="#q-partner-deleted">파트너가 계정을 삭제하면 어떻게 되나요?</a></li>
+        </ul>
+      </details>
+    </li>
+    <li>
+      <details>
+        <summary>💳 구독</summary>
+        <ul>
+          <li><a href="#q-sub-features">구독으로 어떤 기능을 사용할 수 있나요?</a></li>
+          <li><a href="#q-sub-both">두 사람 모두 구독해야 하나요?</a></li>
+          <li><a href="#q-sub-cancel">구독을 해지하려면 어떻게 하나요?</a></li>
+          <li><a href="#q-sub-cancel-timing">해지하면 바로 유료 기능을 사용할 수 없게 되나요?</a></li>
+          <li><a href="#q-sub-after-cancel">이용 중이던 유료 기능（유료 질문 답변 결과나 추가한 하고 싶은 일 카테고리 등）은 해지 후 열람할 수 없나요?</a></li>
+          <li><a href="#q-sub-device-change">구독 계약 중에 기종을 변경한 경우, 계약은 이어지나요?</a></li>
+          <li><a href="#q-sub-not-working">구독 중인데 유료 기능이 작동하지 않습니다.</a></li>
+        </ul>
+      </details>
+    </li>
+    <li>
+      <details>
+        <summary>🎁 즐길 거리</summary>
+        <ul>
+          <li><a href="#q-furniture-unlock">가구 등 아이템은 어떻게 늘어나나요?</a></li>
+          <li><a href="#q-furniture-countdown">가구 카운트다운이 사라졌습니다. 왜 그런가요?</a></li>
+        </ul>
+      </details>
+    </li>
+    <li>
+      <details>
+        <summary>❓ 기타</summary>
+        <ul>
+          <li><a href="#q-skip-question">질문이 어렵거나 기분이 내키지 않을 때는 어떻게 하나요?</a></li>
+          <li><a href="#q-ads">불쾌한 광고가 표시되었습니다. 조치해 주실 수 있나요?</a></li>
+        </ul>
+      </details>
+    </li>
   </ul>
 </div>
 
@@ -56,7 +170,7 @@ lang: ko
 
 ## 🐾 시작하기 {#getting-started}
 
-### 어떻게 시작하나요?
+### 어떻게 시작하나요? {#q-how-to-start}
 
 다음 순서로 이용하실 수 있습니다.
 
@@ -73,15 +187,15 @@ lang: ko
 3. 첫 번째 질문에 답변
 4. 튜토리얼 완료 후, 정해진 시간에 두 사람에게 질문이 전달됩니다 💌
 
-### 이름, 성별, 동물 이름은 나중에 변경할 수 있나요?
+### 이름, 성별, 동물 이름은 나중에 변경할 수 있나요? {#q-change-profile}
 
 이름·성별·동물 이름 모두 마이페이지 오른쪽 상단 메뉴 → 설정 → 기본 설정에서 변경 가능합니다. 동물의 종류와 색상은 변경할 수 없습니다.
 
-### 알림이 오지 않습니다. 어떻게 해야 하나요?
+### 알림이 오지 않습니다. 어떻게 해야 하나요? {#q-no-notifications}
 
 기기 설정에서 앱 알림을 ON으로 설정해 주세요.
 
-### 질문이 오지 않습니다. 어떻게 해야 하나요?
+### 질문이 오지 않습니다. 어떻게 해야 하나요? {#q-no-questions}
 
 파트너가 아직 답변하지 않았을 수 있습니다. 두 사람 모두 답변을 완료한 후 전달 시간이 되면 다음 질문이 전달됩니다.
 
@@ -89,23 +203,23 @@ lang: ko
 
 ## 📝 Q&A·커플 진단·답변 {#questions}
 
-### 답변 결과는 어떻게 확인하나요?
+### 답변 결과는 어떻게 확인하나요? {#q-see-results}
 
 두 사람 모두 답변을 완료한 시점에 서로의 내용이 표시됩니다. 먼저 답변한 경우 상대방이 답변할 때까지 내용은 비공개입니다.
 
-### 실수로 답변했습니다. 다시 할 수 있나요?
+### 실수로 답변했습니다. 다시 할 수 있나요? {#q-edit-answer}
 
 Q&A 답변만 수정 가능합니다. 커플 진단의 답변은 편집할 수 없습니다.
 
-### 답변에 댓글을 달면 상대방에게 알림이 가나요?
+### 답변에 댓글을 달면 상대방에게 알림이 가나요? {#q-comment-notification}
 
 네, 푸시 알림이 전달되며 앱 내에서도 빨간 배지로 표시됩니다.
 
-### 파트너에게는 최신 질문이 왔는데 저한테는 오지 않습니다.
+### 파트너에게는 최신 질문이 왔는데 저한테는 오지 않습니다. {#q-partner-only-question}
 
 오류일 가능성이 있으므로 메뉴의 「문의하기」를 통해 연락해 주시기 바랍니다.
 
-### 과거의 답변과 결과가 표시되지 않습니다.
+### 과거의 답변과 결과가 표시되지 않습니다. {#q-past-answers-missing}
 
 통신 혼잡으로 일시적으로 표시되지 않는 경우가 있습니다. 잠시 후 다시 실행해 주세요. 하루 기다려도 해결되지 않으면 문의해 주세요.
 
@@ -113,11 +227,11 @@ Q&A 답변만 수정 가능합니다. 커플 진단의 답변은 편집할 수 �
 
 ## 📷 두 사람의 추억 {#memories}
 
-### 추억 등록은 언제부터 가능한가요?
+### 추억 등록은 언제부터 가능한가요? {#q-memory-when}
 
 매월 1일부터 해당 월의 추억을 업로드할 수 있습니다. 두 사람의 기록 → 추억 탭의 ＋ 버튼에서 등록해 주세요. 또한, 매월 25일 12:00~다음 달 3일 23:59 기간에는 홈 화면에도 배너가 표시됩니다.
 
-### 한 번 등록한 추억을 수정할 수 있나요?
+### 한 번 등록한 추억을 수정할 수 있나요? {#q-memory-edit}
 
 사진과 「추억 한마디」는 수정 가능합니다. 두 사람의 기록 → 추억 탭에서 수정할 추억을 선택 후 오른쪽 상단 편집 아이콘을 탭해 주세요. 댓글은 수정할 수 없습니다.
 
@@ -125,15 +239,15 @@ Q&A 답변만 수정 가능합니다. 커플 진단의 답변은 편집할 수 �
 
 ## 🛠 설정 및 기능 {#settings}
 
-### 질문이 오는 시간을 변경할 수 있나요?
+### 질문이 오는 시간을 변경할 수 있나요? {#q-delivery-time}
 
 초대한 쪽만 변경 가능합니다. 1시간 단위로 설정 가능하며 두 사람에게 공유됩니다. 마이페이지 오른쪽 상단 메뉴 → 설정 → 기본 설정 → 질문 배신 시간에서 변경하세요.
 
-### 로그아웃은 어떻게 하나요?
+### 로그아웃은 어떻게 하나요? {#q-logout}
 
 마이페이지 오른쪽 상단 메뉴 → 기타 → 로그아웃에서 조작 가능합니다. 확인 화면이 표시된 후, 앱 시작 화면으로 돌아갑니다.
 
-### 기기 변경 시 데이터는 어떻게 인계하나요?
+### 기기 변경 시 데이터는 어떻게 인계하나요? {#q-transfer-data}
 
 기존 Riamo에서 사용하시던 계정과 동일한 계정으로 로그인하시면, 데이터가 그대로 유지된 상태로 Riamo를 이용하실 수 있습니다.
 
@@ -144,7 +258,7 @@ Q&A 답변만 수정 가능합니다. 커플 진단의 답변은 편집할 수 �
 
 【참고】[구독 계약 중에 기기를 변경한 경우, 계약은 이어지나요?](#subscription)
 
-### 로그인했더니 새로 시작하는 화면이 나옵니다.
+### 로그인했더니 새로 시작하는 화면이 나옵니다. {#q-fresh-start-screen}
 
 로그아웃 전・기기 변경 전에 사용하시던 계정과 다른 계정으로 로그인하면, 별도 계정의 신규 이용으로 튜토리얼이 시작됩니다.
 
@@ -152,7 +266,7 @@ Q&A 답변만 수정 가능합니다. 커플 진단의 답변은 편집할 수 �
 
 실수로 새로운 계정으로 시작해 버린 경우, 튜토리얼 오른쪽 상단의 점 세 개(…)에서 로그아웃 또는 계정 삭제를 진행한 후, 계정을 확인하여 다시 로그인해 주세요.
 
-### 동거 여부는 변경할 수 있나요？
+### 동거 여부는 변경할 수 있나요？ {#q-cohabitation}
 
 네, 아래 절차를 따라 변경하실 수 있습니다.
 
@@ -160,7 +274,7 @@ Q&A 답변만 수정 가능합니다. 커플 진단의 답변은 편집할 수 �
 
 변경 후 맞이하는 배달 시간부터 새로운 동거 여부에 해당하는 질문이 전달됩니다.
 
-### 기념일에 미래 날짜를 설정할 수 있나요?
+### 기념일에 미래 날짜를 설정할 수 있나요? {#q-future-anniversary}
 
 죄송합니다. 현재는 미래 날짜를 설정하실 수 없습니다.
 
@@ -168,11 +282,11 @@ Q&A 답변만 수정 가능합니다. 커플 진단의 답변은 편집할 수 �
 
 ## 📅 기념일 {#anniversary}
 
-### 삭제하거나 이름을 변경할 수 없는 기념일이 있습니다. 왜인가요?
+### 삭제하거나 이름을 변경할 수 없는 기념일이 있습니다. 왜인가요? {#q-fixed-anniversary}
 
 교제 기념일·본인 생일·파트너 생일·Riamo를 시작한 날, 이 4개는 기본 기념일로 자동 생성되기 때문에 삭제하거나 이름을 변경할 수 없습니다.
 
-### 기념일의 순서를 변경하고 싶습니다.
+### 기념일의 순서를 변경하고 싶습니다. {#q-anniversary-order}
 
 기념일은 다가오는 날짜가 가까운 순서대로 자동 정렬되며, 수동으로 순서를 변경할 수 없습니다.
 
@@ -180,11 +294,11 @@ Q&A 답변만 수정 가능합니다. 커플 진단의 답변은 편집할 수 �
 
 ## 💌 메시지 카드 {#message-card}
 
-### 보낸 메시지 카드를 삭제하거나 편집할 수 있나요?
+### 보낸 메시지 카드를 삭제하거나 편집할 수 있나요? {#q-card-edit}
 
 보낸 메시지 카드는 편집·삭제할 수 없습니다. 예약 중인 카드는 전송 전이라면 편집·삭제가 가능합니다.
 
-### 파트너와 멀리 떨어져 살고 있습니다. 메시지 카드의 배달 시간은 어느 시간대를 기준으로 설정되나요?
+### 파트너와 멀리 떨어져 살고 있습니다. 메시지 카드의 배달 시간은 어느 시간대를 기준으로 설정되나요? {#q-card-timezone}
 
 메시지 카드의 예약 전송 시간은 받는 상대방의 시간대가 적용됩니다. 예를 들어 8:00에 도착하도록 설정하면, 상대방의 현지 시간 8:00에 전달됩니다.
 
@@ -192,7 +306,7 @@ Q&A 답변만 수정 가능합니다. 커플 진단의 답변은 편집할 수 �
 
 ## 🚪 탈퇴 및 페어 해제 {#account}
 
-### 탈퇴 또는 계정 삭제는 어떻게 하나요?
+### 탈퇴 또는 계정 삭제는 어떻게 하나요? {#q-delete-account}
 
 Riamo에서는 "탈퇴"가 아니라, 계정 삭제를 통해 절차를 진행하실 수 있습니다. 아래의 경로를 통해 앱 내에서 계정을 삭제하실 수 있습니다.
 
@@ -202,7 +316,7 @@ Riamo에서는 "탈퇴"가 아니라, 계정 삭제를 통해 절차를 진행�
 
 【관련】[구독을 해지하려면 어떻게 해야 하나요?](#subscription)
 
-### 페어를 해제하려면 어떻게 하나요?
+### 페어를 해제하려면 어떻게 하나요? {#q-unpair}
 
 Riamo는 페어 사용을 전제로 하며, 【페어 해제】가 아닌 탈퇴(계정 삭제)로 안내드리고 있습니다.
 
@@ -210,7 +324,7 @@ Riamo는 페어 사용을 전제로 하며, 【페어 해제】가 아닌 탈퇴
 - [파트너가 계정을 삭제하면 어떻게 되나요?](#account)
 - [탈퇴나 계정 삭제는 어떻게 하면 되나요?](#account)
 
-### 파트너가 계정을 삭제하면 어떻게 되나요?
+### 파트너가 계정을 삭제하면 어떻게 되나요? {#q-partner-deleted}
 
 Riamo는 페어 사용을 전제로 하며, 페어 해제 후(파트너의 계정 삭제 후)에는 페어 구성원 단독으로 이용하실 수 없습니다.
 
@@ -224,7 +338,7 @@ Riamo는 페어 사용을 전제로 하며, 페어 해제 후(파트너의 계�
 
 ## 💳 구독 {#subscription}
 
-### 구독으로 어떤 기능을 사용할 수 있나요?
+### 구독으로 어떤 기능을 사용할 수 있나요? {#q-sub-features}
 
 다음과 같은 기능을 이용하실 수 있습니다.
 
@@ -236,26 +350,26 @@ Riamo는 페어 사용을 전제로 하며, 페어 해제 후(파트너의 계�
 
 현재 Riamo는 β판으로 공개 중이며, 여러분의 의견 등을 바탕으로 정식 버전을 향해 제공 기능이나 요금 설정을 조정하고 있는 단계입니다. 원하시는 기능 등이 있으시면 앱 내 의견함을 통해 부담 없이 의견을 보내주세요.
 
-### 두 사람 모두 구독해야 하나요?
+### 두 사람 모두 구독해야 하나요? {#q-sub-both}
 
 아니요, 한 명만 구독해도 두 사람 모두 유료 기능을 이용하실 수 있습니다.
 
-### 구독을 해지하려면 어떻게 하나요?
+### 구독을 해지하려면 어떻게 하나요? {#q-sub-cancel}
 
 Riamo 앱 내에서가 아닌 Google Play 또는 App Store에서 절차를 진행해야 합니다. 자세한 내용은 아래 페이지를 확인해 주세요.
 
 - [Google Play에서 정기 구독 해지, 일시 중지, 변경하기（Google Play 도움말 센터）](https://support.google.com/googleplay/answer/7018481)
 - [Apple에서 구독 해지 절차（Apple 지원）](https://support.apple.com/ko-kr/118428)
 
-### 해지하면 바로 유료 기능을 사용할 수 없게 되나요?
+### 해지하면 바로 유료 기능을 사용할 수 없게 되나요? {#q-sub-cancel-timing}
 
 기간 도중에 해지한 경우에도 다음 갱신일까지는 유료 기능을 이용하실 수 있습니다. 예: 7월 31일까지의 계약인 경우, 7월 29일에 해지해도 31일까지 이용하실 수 있습니다.
 
-### 이용 중이던 유료 기능（유료 질문 답변 결과나 추가한 하고 싶은 일 카테고리 등）은 해지 후 열람할 수 없나요?
+### 이용 중이던 유료 기능（유료 질문 답변 결과나 추가한 하고 싶은 일 카테고리 등）은 해지 후 열람할 수 없나요? {#q-sub-after-cancel}
 
 답변 완료된 유료판 커플 진단 결과는 해지 후에도 계속 확인하실 수 있습니다. 단, 구독 계약 중에 생성한 하고 싶은 일 목록의 카테고리는 해지 후 열람할 수 없습니다. 해지 후 추가된 카테고리에 포함된 하고 싶은 일 목록은 표시되지 않습니다.
 
-### 구독 계약 중에 기종을 변경한 경우, 계약은 이어지나요?
+### 구독 계약 중에 기종을 변경한 경우, 계약은 이어지나요? {#q-sub-device-change}
 
 구독 계약 정보는 Riamo 로그인 계정이 아닌, 구매 시 사용한 App Store / Google Play 계정에 연결되어 있습니다. 기기 변경 후에는 구매 시와 동일한 계정으로 App Store / Google Play에 로그인한 후, 구독 구매 화면의 【구독 복원】을 시도해 보세요.
 
@@ -264,7 +378,7 @@ Riamo 앱 내에서가 아닌 Google Play 또는 App Store에서 절차를 진�
 - [Google Play 정기구독 해지·일시중지·변경（Google Play 도움말 센터）](https://support.google.com/googleplay/answer/7018481)
 - [Apple에서 구독 해지 절차（Apple 지원）](https://support.apple.com/ko-kr/118428)
 
-### 구독 중인데 유료 기능이 작동하지 않습니다.
+### 구독 중인데 유료 기능이 작동하지 않습니다. {#q-sub-not-working}
 
 구독 계약 정보는 Riamo 로그인 계정이 아닌, 구매 시 사용한 App Store / Google Play 계정에 연결되어 있습니다. 스토어 계정이 구독을 계약한 계정인지 확인해 주세요. 구독을 계약한 계정임에도 불구하고 유료 기능을 이용할 수 없는 상태라면, 번거로우시겠지만 앱의 마이페이지 오른쪽 상단 메뉴 【문의하기】를 통해 지원팀에 연락해 주시기 바랍니다.
 
@@ -272,11 +386,11 @@ Riamo 앱 내에서가 아닌 Google Play 또는 App Store에서 절차를 진�
 
 ## 🎁 즐길 거리 {#fun}
 
-### 가구 등 아이템은 어떻게 늘어나나요?
+### 가구 등 아이템은 어떻게 늘어나나요? {#q-furniture-unlock}
 
 전달되는 질문에 두 사람이 함께 답변하면 새로운 가구가 추가됩니다. 몇 문제 후에 가구를 획득할 수 있는지는 홈 화면에 표시되는 "다음 가구까지 ○문제"에서 확인하세요.
 
-### 가구 카운트다운이 사라졌습니다. 왜 그런가요?
+### 가구 카운트다운이 사라졌습니다. 왜 그런가요? {#q-furniture-countdown}
 
 현재 일정 수의 질문에 답변하면 가구 획득이 종료되는 사양으로, 마지막 가구까지 획득하면 카운트다운이 사라지게 됩니다.
 
@@ -286,11 +400,11 @@ Riamo 앱 내에서가 아닌 Google Play 또는 App Store에서 절차를 진�
 
 ## ❓ 기타 {#other}
 
-### 질문이 어렵거나 기분이 내키지 않을 때는 어떻게 하나요?
+### 질문이 어렵거나 기분이 내키지 않을 때는 어떻게 하나요? {#q-skip-question}
 
 무리해서 답변할 필요는 없습니다. 자신만의 속도로 계속해 주세요.
 
-### 불쾌한 광고가 표시되었습니다. 조치해 주실 수 있나요?
+### 불쾌한 광고가 표시되었습니다. 조치해 주실 수 있나요? {#q-ads}
 
 불쾌감을 드려 대단히 죄송합니다. 부적절한 카테고리의 광고가 표시되지 않도록 차단 설정을 적용하고 있으나, 광고주의 앱 자체가 보안 소프트웨어나 AI 도구 등으로 배포되는 경우, 광고 내 표현이 악질적이거나 불안을 조장하는 내용이더라도 사전에 완전히 판별하기 어려운 경우가 있습니다. 번거로우시겠지만 악질적인 광고가 표시된 경우 스크린샷을 캡처하신 후 문의 양식을 통해 연락해 주세요.
 
