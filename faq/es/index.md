@@ -40,7 +40,7 @@ lang: es
   <div class="toc-title">📖 Índice</div>
   <ul>
     <li><a href="#primeros-pasos">🐾 Primeros pasos</a></li>
-    <li><a href="#preguntas">📝 Preguntas diarias, Quiz de pareja y respuestas</a></li>
+    <li><a href="#preguntas">📝 Q&A, Quiz de pareja y respuestas</a></li>
     <li><a href="#recuerdos">📷 Nuestros recuerdos</a></li>
     <li><a href="#ajustes">🛠 Ajustes y funciones</a></li>
     <li><a href="#aniversarios">📅 Aniversarios</a></li>
@@ -83,11 +83,11 @@ Ve a los ajustes de tu dispositivo y activa las notificaciones de Riamo.
 
 ### No recibo preguntas. ¿Qué hago?
 
-Es posible que tu pareja aún no haya respondido. La siguiente pregunta se envía cuando ambos habéis respondido.
+Es posible que tu pareja aún no haya respondido. La siguiente pregunta se envía a la hora de entrega programada, una vez que ambos habéis respondido.
 
 ---
 
-## 📝 Preguntas diarias, Quiz de pareja y respuestas {#preguntas}
+## 📝 Q&A, Quiz de pareja y respuestas {#preguntas}
 
 ### ¿Cómo veo los resultados?
 
@@ -95,7 +95,7 @@ Los resultados se muestran cuando ambos habéis respondido. Si respondes primero
 
 ### Respondí por error. ¿Puedo volver a hacerlo?
 
-Solo las respuestas a las preguntas diarias pueden editarse. Las del Quiz de pareja no pueden cambiarse.
+Solo las respuestas de Q&A pueden editarse. Las del Quiz de pareja no pueden cambiarse.
 
 ### ¿Mi pareja recibirá una notificación cuando comente una respuesta?
 
@@ -268,7 +268,7 @@ La información del contrato de suscripción está vinculada a la cuenta de App 
 
 ### ¿Cómo desbloqueo más muebles y objetos?
 
-Se añaden nuevos muebles a medida que respondéis las preguntas diarias juntos. Podéis comprobar cuántas preguntas faltan para el siguiente mueble en el contador "○ preguntas para el siguiente mueble" que aparece en la pantalla de inicio.
+Se añaden nuevos muebles a medida que respondéis las preguntas juntos. Podéis comprobar cuántas preguntas faltan para el siguiente mueble en el contador "○ preguntas para el siguiente mueble" que aparece en la pantalla de inicio.
 
 ### La cuenta regresiva de muebles ha desaparecido. ¿Por qué?
 

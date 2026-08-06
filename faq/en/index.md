@@ -40,7 +40,7 @@ lang: en
   <div class="toc-title">📖 Contents</div>
   <ul>
     <li><a href="#getting-started">🐾 Getting Started</a></li>
-    <li><a href="#questions">📝 Daily Questions, Couple Quizzes & Answers</a></li>
+    <li><a href="#questions">📝 Q&A, Couple Quizzes & Answers</a></li>
     <li><a href="#memories">📷 Our Memories</a></li>
     <li><a href="#settings">🛠 Settings & Features</a></li>
     <li><a href="#anniversary">📅 Anniversaries</a></li>
@@ -83,11 +83,11 @@ Notifications may not be enabled. Please go to your device settings and turn on 
 
 ### I'm not receiving questions. What should I do?
 
-Your partner may not have answered yet. The next question is sent once both of you have answered. Please check whether both of you have submitted your answers.
+Your partner may not have answered yet. The next question is sent at the scheduled delivery time once both of you have answered. Please check whether both of you have submitted your answers.
 
 ---
 
-## 📝 Daily Questions, Couple Quizzes & Answers {#questions}
+## 📝 Q&A, Couple Quizzes & Answers {#questions}
 
 ### How do I see the results?
 
@@ -95,7 +95,7 @@ Results are shown once both of you have answered. If you answer first, your part
 
 ### I answered by mistake. Can I redo it?
 
-Only daily question answers can be edited. Couple quiz answers cannot be changed. You can use the comment feature or talk it over in person.
+Only Q&A answers can be edited. Couple quiz answers cannot be changed. You can use the comment feature or talk it over in person.
 
 ### Will my partner be notified when I comment on an answer?
 
@@ -272,7 +272,7 @@ Subscription information is linked to the App Store/Google Play account used at 
 
 ### How do I unlock more furniture and items?
 
-New furniture is added as you and your partner answer the daily questions together. You can check how many questions away the next piece of furniture is in the "X questions until next furniture" counter on the home screen.
+New furniture is added as you and your partner answer the questions together. You can check how many questions away the next piece of furniture is in the "X questions until next furniture" counter on the home screen.
 
 ### The countdown to new furniture has disappeared. Why?
 
