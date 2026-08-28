@@ -69,7 +69,8 @@ Riamoらしい世界観をぎゅっと詰め込みつつ、より便利にお使
 各機能ページ共通の変更として、今まで常に画面したに表示されていた各機能へアクセスするためのボトムバーの表示がなくなり、左下に「＜ 戻る」ボタンが表示されるようになります。<BR>
 「やりたいことリスト」では、並び替えが画面の右下に移動し、並び替えの操作がしやすくなります🔃
 
-<img width="1000" height="300" alt="各機能ヘッダーフッター" src="https://github.com/user-attachments/assets/55f3090a-038a-4a4e-b83e-f863ec2b7b49" />
+<img width="700" height="700" alt="各機能ヘッダーフッター" src="https://github.com/user-attachments/assets/1e80ac17-91fe-4329-acd2-1728b6a2b2f8" />
+
 
 
 ---
