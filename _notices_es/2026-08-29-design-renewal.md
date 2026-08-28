@@ -9,7 +9,7 @@ published: false
 
 Gracias como siempre por usar Riamo.
 
-**Con la próxima actualización, el diseño de Riamo se renueva** 🎉
+**Con la próxima actualización, lanzaremos la renovación del diseño de Riamo** 🎉
 
 Vamos a llenarlo aún más del mundo de Riamo y, a la vez, hacerlo más cómodo de usar ✨
 
@@ -22,25 +22,25 @@ Antes del lanzamiento, os contamos cómo va a cambiar.
 
 Estos son los cambios en la pantalla de inicio.
 
-### 🧭 Los iconos del menú cambian
+### ① Los iconos del menú cambian 🧭
 
 ¡Los iconos del menú que hasta ahora estaban en la parte inferior van a cambiar!
 
 «Las preguntas del día» y «Los recuerdos del mes», que antes estaban dentro de Nuestro registro, **se abrirán con un solo toque** 👆
 
-### 📋 La zona de «cosas por hacer» será más compacta
+### ② La zona de «cosas por hacer» será más compacta 📋
 
-Hasta ahora se mostraban todos los recuerdos por registrar y las preguntas recibidas, pero tras la renovación **se mostrarán agrupados**.
+Hasta ahora se mostraban todos los recuerdos por registrar y las preguntas recibidas, pero tras la renovación **se mostrarán agrupados**.<BR>
+Tocad «○ más» y podréis ver todas vuestras «cosas por hacer».
 
-Así **veréis mucho mejor la habitación de vuestros animales** 🏡
-
+Así veréis mucho mejor la habitación de vuestros animales 🏡<BR>
 Y quizá más adelante podáis decorarla…? 👀 ¡Estad atentos!
 
-### 🔔 El Centro de notificaciones y el Buzón de opiniones pasan arriba a la derecha
+### ③ El Centro de notificaciones 🔔 y el Buzón de opiniones 📮 pasan arriba a la derecha
 
 El Centro de notificaciones y el Buzón de opiniones **estarán accesibles desde la parte superior derecha de la pantalla de inicio**.
 
-Cuando queráis saber qué ha pasado o enviarnos una petición o vuestras impresiones, los encontraréis ahí 📮
+Cuando queráis saber qué ha pasado o enviarnos una petición o vuestras impresiones, los encontraréis ahí 💌
 
 ---
 <br>  
@@ -54,11 +54,21 @@ Cuando registréis vuestro aniversario, aparecerá un **Carné de residente** en
 ---
 <br>  
 
+## 🎨 Las páginas de cada función también serán más fáciles de usar
+
+En cada página aparece una cabecera con el estilo de Riamo y, además, la lista de guardados y algunos botones cambian ligeramente de sitio.
+
+Como cambio común a todas las páginas, la barra inferior que hasta ahora estaba siempre en la parte baja de la pantalla desaparece, y en su lugar aparece un botón **«＜ Atrás»** abajo a la izquierda.<BR>
+En Nuestros planes por hacer, la opción de ordenar se mueve a la parte inferior derecha, para que sea más cómoda de usar 🔃
+
+---
+<br>  
+
 ## 💬 Podréis ver también las opciones en los resultados del Test de pareja
 
 En la pantalla de resultados del Test de pareja, **podréis consultar también las opciones**.
 
-«Respondí esto, pero ¿cuáles eran las otras opciones?», «¿Por qué elegí esta?» — **repasar los resultados y hablar de ellos será más fácil que nunca** 💭
+«Respondí esto, pero ¿cuáles eran las otras opciones?», «¿Por qué elegí esta?» — **repasar los resultados y hablar de ellos será más fácil que nunca** 🙌
 
 ---
 <br>  
