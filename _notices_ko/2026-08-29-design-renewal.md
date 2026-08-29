@@ -2,7 +2,7 @@
 layout: post
 title: "【예고】Riamo 디자인이 새롭게 바뀝니다 ✨"
 date: 2026-08-29
-published: false
+published: true
 ---
 
 안녕하세요! Riamo 운영팀입니다.

@@ -2,7 +2,7 @@
 layout: post
 title: "【予告】デザインリニューアルのお知らせ✨"
 date: 2026-08-29
-published: false
+published: true
 ---
 
 こんにちは！Riamo運営チームです。

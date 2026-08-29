@@ -2,7 +2,7 @@
 layout: post
 title: "【Coming Soon】Riamo's design is getting a refresh ✨"
 date: 2026-08-29
-published: false
+published: true
 ---
 
 Hi there! This is the Riamo team.

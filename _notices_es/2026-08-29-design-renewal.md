@@ -2,7 +2,7 @@
 layout: post
 title: "【Próximamente】El diseño de Riamo se renueva ✨"
 date: 2026-08-29
-published: false
+published: true
 ---
 
 ¡Hola! Somos el equipo de Riamo.
