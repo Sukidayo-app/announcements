@@ -139,7 +139,7 @@ lang: en
           <li><a href="#q-sub-both">Do both partners need a subscription?</a></li>
           <li><a href="#q-sub-cancel">How do I cancel my subscription?</a></li>
           <li><a href="#q-sub-cancel-timing">Will premium features stop immediately after cancelling?</a></li>
-          <li><a href="#q-sub-after-cancel">Will I lose access to paid features I used (like answers to paid questions or added "Things I Want to Do" categories) after canceling?</a></li>
+          <li><a href="#q-sub-after-cancel">Will I lose access to paid features I used (like Couple Quiz answers or added "Things I Want to Do" categories) after canceling?</a></li>
           <li><a href="#q-sub-device-change">If I change my device during the subscription period, will the subscription carry over?</a></li>
           <li><a href="#q-sub-not-working">I'm subscribed but premium features aren't working. Why?</a></li>
         </ul>
@@ -341,7 +341,7 @@ For example, in the case of a couple A and B:
 The following features are included:
 
 - Ad-free experience
-- More Couple Quiz themes to enjoy
+- Monthly tickets to unlock Couple Quiz themes
 - Wish List customization (add, edit, delete categories)
 - More photos available for the monthly "Our Memories"
 - More memories you can register for completed Wish List items
@@ -363,9 +363,9 @@ Cancellation must be done through Google Play or the App Store, not within the R
 
 No — even if you cancel mid-term, you can continue using premium features until the next renewal date. Example: For a subscription valid until 7/31, canceling on 7/29 allows use until the 31st.
 
-### Will I lose access to paid features I used (like answers to paid questions or added "Things I Want to Do" categories) after canceling? {#q-sub-after-cancel}
+### Will I lose access to paid features I used (like Couple Quiz answers or added "Things I Want to Do" categories) after canceling? {#q-sub-after-cancel}
 
-Paid couple diagnosis results you've already received will remain accessible after cancellation. However, categories added to your "Things I Want to Do" list during your subscription will no longer be viewable after cancellation. After cancellation, the to-do list items within the added categories will be hidden.
+Couple Quizzes you've already unlocked will remain accessible after cancellation, and any tickets you still hold will not expire when you cancel. However, categories added to your "Things I Want to Do" list during your subscription will no longer be viewable after cancellation. After cancellation, the to-do list items within the added categories will be hidden.
 
 ### If I change my device during the subscription period, will the subscription carry over? {#q-sub-device-change}
 

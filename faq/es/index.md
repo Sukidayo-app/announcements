@@ -139,7 +139,7 @@ lang: es
           <li><a href="#q-sub-both">¿Necesitamos los dos una suscripción?</a></li>
           <li><a href="#q-sub-cancel">¿Cómo cancelo mi suscripción?</a></li>
           <li><a href="#q-sub-cancel-timing">¿Las funciones premium se desactivan inmediatamente al cancelar?</a></li>
-          <li><a href="#q-sub-after-cancel">¿Perderé el acceso a las funciones de pago que estaba utilizando (como las respuestas a preguntas de pago o las categorías añadidas a «Cosas que quiero hacer») después de cancelar?</a></li>
+          <li><a href="#q-sub-after-cancel">¿Perderé el acceso a las funciones de pago que estaba utilizando (como las respuestas del Quiz de pareja o las categorías añadidas a «Cosas que quiero hacer») después de cancelar?</a></li>
           <li><a href="#q-sub-device-change">Si cambio de dispositivo durante el periodo de suscripción, ¿se transferirá la suscripción?</a></li>
           <li><a href="#q-sub-not-working">Tengo suscripción pero las funciones premium no funcionan.</a></li>
         </ul>
@@ -339,7 +339,7 @@ Por ejemplo, en el caso de una pareja A y B:
 Las funciones incluidas son las siguientes:
 
 - Experiencia sin anuncios
-- Más temas del Quiz de pareja disponibles
+- Tickets cada mes para desbloquear temas del Quiz de pareja
 - Personalización de la Lista de deseos
 - Más fotos disponibles en «Nuestros recuerdos» mensuales
 - Más recuerdos que puedes registrar al cumplir deseos de tu lista
@@ -359,9 +359,9 @@ Esto debe hacerse a través de Google Play o la App Store, no dentro de la aplic
 
 Aunque canceles a mitad de periodo, podrás seguir utilizando las funciones de pago hasta la siguiente fecha de renovación. Ejemplo: para una suscripción válida hasta el 31 de julio, si cancelas el 29 de julio, podrás seguir utilizándola hasta el día 31.
 
-### ¿Perderé el acceso a las funciones de pago que estaba utilizando (como las respuestas a preguntas de pago o las categorías añadidas a «Cosas que quiero hacer») después de cancelar? {#q-sub-after-cancel}
+### ¿Perderé el acceso a las funciones de pago que estaba utilizando (como las respuestas del Quiz de pareja o las categorías añadidas a «Cosas que quiero hacer») después de cancelar? {#q-sub-after-cancel}
 
-Los resultados de diagnósticos de pareja de pago que ya hayas recibido seguirán estando accesibles después de la cancelación. Sin embargo, las categorías añadidas a tu lista «Cosas que quiero hacer» durante el periodo de suscripción ya no se podrán ver tras la cancelación. Tras la cancelación, los elementos de la lista de deseos contenidos en las categorías añadidas quedarán ocultos.
+Los Quiz de pareja que ya hayas desbloqueado seguirán estando accesibles después de la cancelación, y los tickets que te queden no caducarán al cancelar. Sin embargo, las categorías añadidas a tu lista «Cosas que quiero hacer» durante el periodo de suscripción ya no se podrán ver tras la cancelación. Tras la cancelación, los elementos de la lista de deseos contenidos en las categorías añadidas quedarán ocultos.
 
 ### Si cambio de dispositivo durante el periodo de suscripción, ¿se transferirá la suscripción? {#q-sub-device-change}
 
