@@ -189,7 +189,7 @@ Here's how to get started:
 
 ### Can I change my name, gender, or animal's name later? {#q-change-profile}
 
-Yes — all can be changed from My Page (top-right menu icon) → Settings → Basic Settings. Note: the animal type and color cannot be changed.
+Yes — all can be changed from My Page (bottom bar) → gear icon (top right) → Basic Settings in the Settings section of the Menu. Note: the animal type and color cannot be changed.
 
 ### I'm not receiving notifications. How do I fix this? {#q-no-notifications}
 
@@ -241,11 +241,11 @@ You can edit the photos and the "memory note." Go to Our Records → Memories, s
 
 ### Can I change the question delivery time? {#q-delivery-time}
 
-Only the person who sent the invite can change this. It can be set in 1-hour increments and applies to both partners. Go to My Page (top-right menu icon) → Settings → Basic Settings → Question Delivery Time.
+Only the person who sent the invite can change this. It can be set in 1-hour increments and applies to both partners. Go to My Page (bottom bar) → gear icon (top right) → Basic Settings in the Settings section of the Menu → Question Delivery Time.
 
 ### How do I log out? {#q-logout}
 
-Go to My Page (top-right menu icon) → Other → Log Out. After the confirmation screen, the app will return to the startup screen.
+Go to My Page (bottom bar) → gear icon (top right) → Log Out in the Other section of the Menu. After the confirmation screen, the app will return to the startup screen.
 
 ### How do I transfer my data to a new device? {#q-transfer-data}
 
@@ -268,7 +268,7 @@ If you accidentally started with a new account, please log out or delete the acc
 
 Yes, you can change it by following the steps below.
 
-My Page (gear icon in the upper right) → Menu → Basic Settings → Partner Info → Cohabitation Status
+My Page (bottom bar) → gear icon (top right) → Basic Settings in the Settings section of the Menu → Partner Info → Cohabitation Status
 
 From the next scheduled delivery time after the change, you will receive questions matching your new cohabitation status.
 
@@ -308,7 +308,7 @@ The scheduled delivery time is based on the recipient's time zone. For example, 
 
 In Riamo, you can delete your account directly from within the app:
 
-My Page (top-right menu icon) → Settings → Account Management → Delete Account
+My Page (bottom bar) → gear icon (top right) → Manage Account in the Support section of the Menu → Delete Account
 
 Please note that once your account is deleted, all of your answer data will also be deleted and cannot be restored. Also, subscriptions are not automatically canceled. Please complete the cancellation process separately.
 
@@ -319,8 +319,8 @@ Please note that once your account is deleted, all of your answer data will also
 Riamo is designed to be used as a paired service, so we do not provide an option to "unpair" accounts. Instead, we guide users to delete their account.
 
 Related:
-- [What happens if my partner deletes their account?](#account)
-- [How do I delete my account?](#account)
+- [What happens if my partner deletes their account?](#q-partner-deleted)
+- [How do I delete my account?](#q-delete-account)
 
 ### What happens if my partner deletes their account? {#q-partner-deleted}
 
@@ -378,7 +378,7 @@ Subscription information is linked to the App Store/Google Play account used at 
 
 ### I'm subscribed but premium features aren't working. Why? {#q-sub-not-working}
 
-Subscription information is linked to the App Store/Google Play account used at purchase, not your Riamo login account. Please verify that the store account is the one subscribed to the service. If you are using the account that subscribed but still cannot access paid features, please contact support via My Page (top-right menu icon) → [Contact Us].
+Subscription information is linked to the App Store/Google Play account used at purchase, not your Riamo login account. Please verify that the store account is the one subscribed to the service. If you are using the account that subscribed but still cannot access paid features, please contact support via My Page → gear icon (top right) → [Contact Us] in the Support section of the Menu.
 
 ---
 

@@ -189,7 +189,7 @@ Así es como puedes empezar:
 
 ### ¿Puedo cambiar mi nombre, género o el nombre del animal más adelante? {#q-change-profile}
 
-Sí — desde Mi página (icono del menú arriba a la derecha) → Ajustes → Ajustes básicos. El tipo y color del animal no pueden cambiarse.
+Sí — desde Mi página (barra inferior) → icono de engranaje (arriba a la derecha) → Configuración básica en la sección Configuración del Menú. El tipo y color del animal no pueden cambiarse.
 
 ### No recibo notificaciones. ¿Qué hago? {#q-no-notifications}
 
@@ -241,11 +241,11 @@ Puedes editar las fotos y la «nota del recuerdo». Selecciona el recuerdo y pul
 
 ### ¿Puedo cambiar la hora de entrega de las preguntas? {#q-delivery-time}
 
-Solo la persona que envió la invitación puede cambiarlo. Se ajusta en incrementos de 1 hora. Mi página (icono del menú arriba a la derecha) → Ajustes → Ajustes básicos → Hora de entrega.
+Solo la persona que envió la invitación puede cambiarlo. Se ajusta en incrementos de 1 hora. Mi página (barra inferior) → icono de engranaje (arriba a la derecha) → Configuración básica en la sección Configuración del Menú → Hora de entrega.
 
 ### ¿Cómo cierro sesión? {#q-logout}
 
-Mi página (icono del menú arriba a la derecha) → Otros → Cerrar sesión. Una vez mostrada la pantalla de confirmación, volverás a la pantalla de inicio de la aplicación.
+Mi página (barra inferior) → icono de engranaje (arriba a la derecha) → Cerrar sesión en la sección Más del Menú. Una vez mostrada la pantalla de confirmación, volverás a la pantalla de inicio de la aplicación.
 
 ### ¿Cómo transfiero mis datos a un nuevo dispositivo? {#q-transfer-data}
 
@@ -266,7 +266,7 @@ Si accidentalmente empezaste con una cuenta nueva, cierra sesión o elimina la c
 
 Sí, puedes cambiarlo siguiendo los pasos a continuación.
 
-Mi página (icono de engranaje en la esquina superior derecha) → Menú → Configuración básica → Información de pareja → Situación de convivencia
+Mi página (barra inferior) → icono de engranaje (arriba a la derecha) → Configuración básica en la sección Configuración del Menú → Información de pareja → Situación de convivencia
 
 A partir del siguiente horario de entrega tras el cambio, recibirás preguntas adaptadas a tu nueva situación de convivencia.
 
@@ -306,7 +306,7 @@ La hora de entrega programada se basa en la zona horaria del destinatario. Por e
 
 En Riamo no utilizamos un sistema de "darse de baja". En su lugar, puedes eliminar tu cuenta directamente desde la aplicación:
 
-Mi página (icono del menú arriba a la derecha) → Ajustes → Gestión de cuenta → Eliminar cuenta
+Mi página (barra inferior) → icono de engranaje (arriba a la derecha) → Gestionar cuenta en la sección Ayuda del Menú → Eliminar cuenta
 
 Ten en cuenta que, al eliminar tu cuenta, todos tus datos de respuestas serán borrados y no será posible recuperarlos posteriormente. Además, las suscripciones no se cancelan automáticamente. Debes completar el proceso de cancelación por separado.
 
@@ -374,7 +374,7 @@ La información del contrato de suscripción está vinculada a la cuenta de App 
 
 ### Tengo suscripción pero las funciones premium no funcionan. {#q-sub-not-working}
 
-La información del contrato de suscripción está vinculada a la cuenta de App Store/Google Play utilizada en el momento de la compra, no a tu cuenta de inicio de sesión de Riamo. Comprueba que la cuenta de la tienda es la que está suscrita al servicio. Si estás utilizando la cuenta correcta y sigues sin poder acceder a las funciones de pago, ponte en contacto con el servicio de asistencia a través de Mi página (icono del menú arriba a la derecha) → [Contactar con nosotros].
+La información del contrato de suscripción está vinculada a la cuenta de App Store/Google Play utilizada en el momento de la compra, no a tu cuenta de inicio de sesión de Riamo. Comprueba que la cuenta de la tienda es la que está suscrita al servicio. Si estás utilizando la cuenta correcta y sigues sin poder acceder a las funciones de pago, ponte en contacto con el servicio de asistencia a través de Mi página → icono de engranaje (arriba a la derecha) → [Contacto] en la sección Ayuda del Menú.
 
 ---
 
