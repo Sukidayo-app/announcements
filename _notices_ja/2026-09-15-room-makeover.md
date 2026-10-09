@@ -42,6 +42,8 @@ published: false
 お部屋はふたりで共有です。どちらかが模様替えすると、パートナーのお部屋にも反映されます。<br>
 「こんなふうにしてみたよ！」と、ふたりで少しずつお部屋を作っていけますよ🏡
 
+<img width="360" height="808" alt="room_makeover" src="https://github.com/user-attachments/assets/254cff20-0715-47c9-96a7-ba7d819943d9" />
+
 ---
 <br>  
 
@@ -53,6 +55,9 @@ published: false
 ポイントが貯まる方法は、これからも増やしていく予定です！
 
 > Riamo Plus会員のおふたりは、リアモポイントが**2倍**貯まります✨
+
+<img width="380" height="550" alt="リアモポイントの入手方法" src="https://github.com/user-attachments/assets/bb63b96f-e269-428a-bd85-f393a8bb1acf" />
+
 
 ---
 <br>  
@@ -74,7 +79,8 @@ published: false
 気になる家具を見つけたら、「パートナーに相談する」から**パートナーに相談**できます。<br>
 パートナーは「いいよ！」などのメッセージでお返事できるので、ふたりで相談しながらお部屋づくりを楽しんでくださいね💌
 
-<!-- 画像：相談画面 -->
+<img width="400" height="856" alt="パートナーに相談" src="https://github.com/user-attachments/assets/1398912c-4fe5-452e-9cbf-8edb86b42512" />
+
 
 ---
 <br>  
@@ -85,6 +91,10 @@ published: false
 
 > これまでに届いた家具は、アップデート後もそのままお使いいただけます。あわせて、一部の家具は新しいデザインにリニューアルされます。
 
+<img width="550" height="700" alt="room_furniture_before_after" src="https://github.com/user-attachments/assets/dfd8e0da-e6e5-4265-a728-41d8492c3b68" />
+
+
+
 ---
 <br>  
 
@@ -92,10 +102,10 @@ published: false
 
 今後は「**ミッション**」も登場予定です🚩
 
-ミッションをクリアするとリアモポイントが貯まったり、**季節限定の家具**をGETできたりしますよ🍂🎄
+ミッションをクリアするとリアモポイントが貯まったり、**特別なプレゼント**をGETできたりしますよ🎁
 
-季節ごとに雰囲気が変わるお部屋づくりも、楽しみにしていてくださいね✨<br>
-登場のタイミングで、あらためてお知らせします。
+<img width="350" height="537" alt="初心者ミッション" src="https://github.com/user-attachments/assets/6bc2f448-bf67-408c-822a-3920054c0575" />
+
 
 ---
 <br>  
