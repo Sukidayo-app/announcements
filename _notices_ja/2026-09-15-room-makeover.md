@@ -56,7 +56,7 @@ published: false
 
 > Riamo Plus会員のおふたりは、リアモポイントが**2倍**貯まります✨
 
-<img width="380" height="550" alt="リアモポイントの入手方法" src="https://github.com/user-attachments/assets/bb63b96f-e269-428a-bd85-f393a8bb1acf" />
+<img width="280" height="350" alt="リアモポイントの入手方法" src="https://github.com/user-attachments/assets/bb63b96f-e269-428a-bd85-f393a8bb1acf" />
 
 
 ---
