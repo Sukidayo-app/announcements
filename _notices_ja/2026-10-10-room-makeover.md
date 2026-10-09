@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "【予告】ついにお部屋の模様替え機能が登場🎉"
-date: 2026-09-15
-published: false
+date: 2026-10-10
+published: true
 ---
 
 こんにちは！Riamo運営チームです。

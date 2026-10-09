@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "【Próximamente】Por fin podréis redecorar vuestra habitación 🎉"
-date: 2026-09-15
-published: false
+date: 2026-10-10
+published: true
 ---
 
 ¡Hola! Somos el equipo de Riamo.

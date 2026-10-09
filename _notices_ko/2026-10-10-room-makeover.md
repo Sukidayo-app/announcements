@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "【예고】드디어 방 꾸미기 기능이 등장합니다🎉"
-date: 2026-09-15
-published: false
+date: 2026-10-10
+published: true
 ---
 
 안녕하세요! Riamo 운영팀입니다.
