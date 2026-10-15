@@ -83,7 +83,7 @@ lang: en
     </li>
     <li>
       <details>
-        <summary>📷 Our Memories</summary>
+        <summary>📷 Album (Monthly Memories)</summary>
         <ul>
           <li><a href="#q-memory-when">When can I start adding this month's memory?</a></li>
           <li><a href="#q-memory-edit">Can I edit a memory I already added?</a></li>
@@ -137,9 +137,10 @@ lang: en
         <ul>
           <li><a href="#q-sub-features">What features are included in the subscription?</a></li>
           <li><a href="#q-sub-both">Do both partners need a subscription?</a></li>
+          <li><a href="#q-sub-contract">Where can I check my current plan and next renewal date?</a></li>
           <li><a href="#q-sub-cancel">How do I cancel my subscription?</a></li>
           <li><a href="#q-sub-cancel-timing">Will premium features stop immediately after cancelling?</a></li>
-          <li><a href="#q-sub-after-cancel">Will I lose access to paid features I used (like Couple Quiz answers or added "Things I Want to Do" categories) after canceling?</a></li>
+          <li><a href="#q-sub-after-cancel">Will I lose access to paid features I used (like Couple Quiz answers or added Wishlist categories) after canceling?</a></li>
           <li><a href="#q-sub-device-change">If I change my device during the subscription period, will the subscription carry over?</a></li>
           <li><a href="#q-sub-not-working">I'm subscribed but premium features aren't working. Why?</a></li>
         </ul>
@@ -147,10 +148,13 @@ lang: en
     </li>
     <li>
       <details>
-        <summary>🎁 Decorations &amp; Surprises</summary>
+        <summary>🏠 Room, Shop &amp; Riamo Points</summary>
         <ul>
-          <li><a href="#q-furniture-unlock">How do I unlock more furniture and items?</a></li>
-          <li><a href="#q-furniture-countdown">The countdown to new furniture has disappeared. Why?</a></li>
+          <li><a href="#q-point-earn">How do I earn Riamo Points?</a></li>
+          <li><a href="#q-furniture-unlock">How do I get more furniture and items?</a></li>
+          <li><a href="#q-room-shared">Does redecorating also change my partner's room?</a></li>
+          <li><a href="#q-furniture-refund">Can I cancel or return furniture I bought?</a></li>
+          <li><a href="#q-furniture-request">Will the furniture I requested be added?</a></li>
         </ul>
       </details>
     </li>
@@ -182,14 +186,14 @@ Here's how to get started:
 5. After the tutorial, questions will be delivered to both of you at a set time 💌
 
 **For the person who received the invite:**
-1. Tap "Start with invite code" and enter the code
+1. Tap "Start with Invitation Code" and enter the code
 2. Enter your profile and choose your animal
 3. Answer the first question
 4. After the tutorial, questions will be delivered to both of you at a set time 💌
 
 ### Can I change my name, gender, or animal's name later? {#q-change-profile}
 
-Yes — all can be changed from My Page (bottom bar) → gear icon (top right) → Basic Settings in the Settings section of the Menu. Note: the animal type and color cannot be changed.
+Yes — all can be changed from "My page" at the bottom of the home screen → gear icon (top right) → "Basic settings" in the Settings section of the Menu. Note: the animal type and color cannot be changed.
 
 ### I'm not receiving notifications. How do I fix this? {#q-no-notifications}
 
@@ -209,7 +213,7 @@ Results are shown once both of you have answered. If you answer first, your part
 
 ### I answered by mistake. Can I redo it? {#q-edit-answer}
 
-Only Q&A answers can be edited. Couple quiz answers cannot be changed. You can use the comment feature or talk it over in person.
+Only Q&A answers can be edited. Couple Quiz answers cannot be changed. You can use the comment feature or talk it over in person.
 
 ### Will my partner be notified when I comment on an answer? {#q-comment-notification}
 
@@ -225,15 +229,15 @@ This can happen temporarily due to network congestion. Try reopening the app aft
 
 ---
 
-## 📷 Our Memories {#memories}
+## 📷 Album (Monthly Memories) {#memories}
 
 ### When can I start adding this month's memory? {#q-memory-when}
 
-You can upload memories for the current month starting from the 1st of each month. Use the + button in Our Records → Memories tab to add them. A banner also appears on the home screen from the 25th at 12:00 until the 3rd of the following month at 23:59.
+You can upload memories for the current month starting from the 1st of each month. Go to "Album" at the bottom of the home screen and tap the + button on "Memories from [month]" to add them. If you haven't added one yet, a reminder will also appear on the home screen from the 25th at 12:00 until the 3rd of the following month at 23:59.
 
 ### Can I edit a memory I already added? {#q-memory-edit}
 
-You can edit the photos and the "memory note." Go to Our Records → Memories, select the memory, and tap the edit icon (pencil) in the top right. Comments cannot be edited.
+You can edit the photos and "Leave a little note." Go to "Album" at the bottom of the home screen → select the memory, and tap the edit icon (pencil) in the top right. Comments cannot be edited.
 
 ---
 
@@ -241,11 +245,11 @@ You can edit the photos and the "memory note." Go to Our Records → Memories, s
 
 ### Can I change the question delivery time? {#q-delivery-time}
 
-Only the person who sent the invite can change this. It can be set in 1-hour increments and applies to both partners. Go to My Page (bottom bar) → gear icon (top right) → Basic Settings in the Settings section of the Menu → Question Delivery Time.
+Only the person who sent the invite can change this. It can be set in 1-hour increments and applies to both partners. Go to "My page" at the bottom of the home screen → gear icon (top right) → "Basic settings" in the Settings section of the Menu → "Question delivery time" under "Couple Settings".
 
 ### How do I log out? {#q-logout}
 
-Go to My Page (bottom bar) → gear icon (top right) → Log Out in the Other section of the Menu. After the confirmation screen, the app will return to the startup screen.
+Go to "My page" at the bottom of the home screen → gear icon (top right) → "Log out" in the Other section of the Menu. After the confirmation screen, the app will return to the startup screen.
 
 ### How do I transfer my data to a new device? {#q-transfer-data}
 
@@ -268,7 +272,7 @@ If you accidentally started with a new account, please log out or delete the acc
 
 Yes, you can change it by following the steps below.
 
-My Page (bottom bar) → gear icon (top right) → Basic Settings in the Settings section of the Menu → Partner Info → Cohabitation Status
+"My page" at the bottom of the home screen → gear icon (top right) → "Basic settings" in the Settings section of the Menu → "Living arrangement" under "Couple Settings"
 
 From the next scheduled delivery time after the change, you will receive questions matching your new cohabitation status.
 
@@ -282,7 +286,7 @@ Sorry, future dates are not supported at this time.
 
 ### Some anniversaries can't be deleted or renamed. Why? {#q-fixed-anniversary}
 
-The following four anniversaries are created automatically as default entries and cannot be deleted or renamed: Dating Anniversary, Your Birthday, Your Partner's Birthday, and the Day You Started Riamo.
+The following four anniversaries are created automatically as default entries and cannot be deleted or renamed: Dating anniversary, your birthday, your partner's birthday, and "The day we started Riamo."
 
 ### I want to change the order of my anniversaries. {#q-anniversary-order}
 
@@ -308,7 +312,7 @@ The scheduled delivery time is based on the recipient's time zone. For example, 
 
 In Riamo, you can delete your account directly from within the app:
 
-My Page (bottom bar) → gear icon (top right) → Manage Account in the Support section of the Menu → Delete Account
+"My page" at the bottom of the home screen → gear icon (top right) → "Manage Account" in the Support section of the Menu → "Delete Account"
 
 Please note that once your account is deleted, all of your answer data will also be deleted and cannot be restored. Also, subscriptions are not automatically canceled. Please complete the cancellation process separately.
 
@@ -342,15 +346,20 @@ The following features are included:
 
 - Ad-free experience
 - Monthly tickets to unlock Couple Quiz themes
-- Wish List customization (add, edit, delete categories)
-- More photos available for the monthly "Our Memories"
-- More memories you can register for completed Wish List items
+- Our Wishlist customization (add, edit, delete categories)
+- More photos for your monthly memories
+- More memories you can register for completed Wishlist items
+- Earn double Riamo Points (mission rewards excluded)
 
-Riamo is currently available as a beta version, and we are continuing to review subscription features based on user feedback as we work toward the official release. If there are any features you would like to see, please feel free to share your feedback through the in-app feedback box.
+Riamo is currently available as a beta version, and we are continuing to review subscription features based on user feedback as we work toward the official release. If there are any features you would like to see, please feel free to share your feedback through the in-app Idea Box.
 
 ### Do both partners need a subscription? {#q-sub-both}
 
 No — if either one subscribes, both can enjoy premium features.
+
+### Where can I check my current plan and next renewal date? {#q-sub-contract}
+
+Go to "My page" at the bottom of the home screen and tap "View plan" on the Riamo Plus banner to check your plan, price, next renewal date, and more. If your partner is the one subscribed, the next renewal date will not be shown.
 
 ### How do I cancel my subscription? {#q-sub-cancel}
 
@@ -363,9 +372,9 @@ Cancellation must be done through Google Play or the App Store, not within the R
 
 No — even if you cancel mid-term, you can continue using premium features until the next renewal date. Example: For a subscription valid until 7/31, canceling on 7/29 allows use until the 31st.
 
-### Will I lose access to paid features I used (like Couple Quiz answers or added "Things I Want to Do" categories) after canceling? {#q-sub-after-cancel}
+### Will I lose access to paid features I used (like Couple Quiz answers or added Wishlist categories) after canceling? {#q-sub-after-cancel}
 
-Couple Quizzes you've already unlocked will remain accessible after cancellation, and any tickets you still hold will not expire when you cancel. However, categories added to your "Things I Want to Do" list during your subscription will no longer be viewable after cancellation. After cancellation, the to-do list items within the added categories will be hidden.
+Couple Quizzes you've already unlocked will remain accessible after cancellation, and any tickets you still hold will not expire when you cancel. However, categories added to Our Wishlist during your subscription will no longer be viewable after cancellation. After cancellation, the Wishlist items within the added categories will be hidden.
 
 ### If I change my device during the subscription period, will the subscription carry over? {#q-sub-device-change}
 
@@ -378,21 +387,38 @@ Subscription information is linked to the App Store/Google Play account used at 
 
 ### I'm subscribed but premium features aren't working. Why? {#q-sub-not-working}
 
-Subscription information is linked to the App Store/Google Play account used at purchase, not your Riamo login account. Please verify that the store account is the one subscribed to the service. If you are using the account that subscribed but still cannot access paid features, please contact support via My Page → gear icon (top right) → [Contact Us] in the Support section of the Menu.
+Subscription information is linked to the App Store/Google Play account used at purchase, not your Riamo login account. Please verify that the store account is the one subscribed to the service. If you are using the account that subscribed but still cannot access paid features, please contact support via My page → gear icon (top right) → [Contact Us] in the Support section of the Menu.
 
 ---
 
-## 🎁 Decorations & Surprises {#fun}
+## 🏠 Room, Shop & Riamo Points {#fun}
 
-### How do I unlock more furniture and items? {#q-furniture-unlock}
+### How do I earn Riamo Points? {#q-point-earn}
 
-New furniture is added as you and your partner answer the questions together. You can check how many questions away the next piece of furniture is in the "X questions until next furniture" counter on the home screen.
+You earn Riamo Points by doing the following:
 
-### The countdown to new furniture has disappeared. Why? {#q-furniture-countdown}
+- Both answer a Q&A: +10 pt
+- Both complete a couple quiz: +30 pt
+- Add the month's memory to the album: +15 pt (once per person)
+- Clear Beginner Missions
 
-Currently, furniture acquisition ends once you have answered a set number of questions. When you have obtained all available furniture, the countdown will no longer appear.
+Riamo Points are shared by the two of you. While subscribed to Riamo Plus, you earn double the points (mission rewards excluded).
 
-Please note that a redesign is planned for the future, which will include changes to furniture and item placement and how they are obtained.
+### How do I get more furniture and items? {#q-furniture-unlock}
+
+You can use the Riamo Points you've saved to buy any furniture, wallpaper, or flooring you like from the shop. Open the shop from the shop icon at the bottom right of the home screen. You may also receive furniture as a gift from Beginner Missions.
+
+### Does redecorating also change my partner's room? {#q-room-shared}
+
+Yes, your room is shared by the two of you. When either of you saves a new layout, it will be reflected in your partner's room as well. If you both redecorate at the same time, whichever layout is saved last will be applied.
+
+### Can I cancel or return furniture I bought? {#q-furniture-refund}
+
+Canceling, returning, or reselling purchases is not currently available.
+
+### Will the furniture I requested be added? {#q-furniture-request}
+
+We'll use your requests as a reference when creating new furniture. Please note that we can't reply to each request individually or promise that a requested item will be added.
 
 ---
 

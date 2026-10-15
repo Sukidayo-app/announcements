@@ -71,7 +71,7 @@ lang: es
     </li>
     <li>
       <details>
-        <summary>📝 Q&amp;A, Quiz de pareja y respuestas</summary>
+        <summary>📝 Preguntas, Test de pareja y respuestas</summary>
         <ul>
           <li><a href="#q-see-results">¿Cómo veo los resultados?</a></li>
           <li><a href="#q-edit-answer">Respondí por error. ¿Puedo volver a hacerlo?</a></li>
@@ -83,7 +83,7 @@ lang: es
     </li>
     <li>
       <details>
-        <summary>📷 Nuestros recuerdos</summary>
+        <summary>📷 Álbum (recuerdos del mes)</summary>
         <ul>
           <li><a href="#q-memory-when">¿Cuándo puedo empezar a añadir el recuerdo de este mes?</a></li>
           <li><a href="#q-memory-edit">¿Puedo editar un recuerdo que ya añadí?</a></li>
@@ -137,9 +137,10 @@ lang: es
         <ul>
           <li><a href="#q-sub-features">¿Qué funciones incluye la suscripción?</a></li>
           <li><a href="#q-sub-both">¿Necesitamos los dos una suscripción?</a></li>
+          <li><a href="#q-sub-contract">¿Dónde puedo consultar mi plan y la próxima fecha de renovación?</a></li>
           <li><a href="#q-sub-cancel">¿Cómo cancelo mi suscripción?</a></li>
           <li><a href="#q-sub-cancel-timing">¿Las funciones premium se desactivan inmediatamente al cancelar?</a></li>
-          <li><a href="#q-sub-after-cancel">¿Perderé el acceso a las funciones de pago que estaba utilizando (como las respuestas del Quiz de pareja o las categorías añadidas a «Cosas que quiero hacer») después de cancelar?</a></li>
+          <li><a href="#q-sub-after-cancel">¿Perderé el acceso a las funciones de pago que estaba utilizando (como las respuestas del Test de pareja o las categorías añadidas a «Nuestros planes por hacer») después de cancelar?</a></li>
           <li><a href="#q-sub-device-change">Si cambio de dispositivo durante el periodo de suscripción, ¿se transferirá la suscripción?</a></li>
           <li><a href="#q-sub-not-working">Tengo suscripción pero las funciones premium no funcionan.</a></li>
         </ul>
@@ -147,10 +148,13 @@ lang: es
     </li>
     <li>
       <details>
-        <summary>🎁 Decoraciones y sorpresas</summary>
+        <summary>🏠 Habitación, tienda y Puntos Riamo</summary>
         <ul>
+          <li><a href="#q-point-earn">¿Cómo consigo Puntos Riamo?</a></li>
           <li><a href="#q-furniture-unlock">¿Cómo desbloqueo más muebles y objetos?</a></li>
-          <li><a href="#q-furniture-countdown">La cuenta regresiva de muebles ha desaparecido. ¿Por qué?</a></li>
+          <li><a href="#q-room-shared">¿Los cambios de decoración se reflejan también en la habitación de mi pareja?</a></li>
+          <li><a href="#q-furniture-refund">¿Puedo cancelar o devolver un mueble que he comprado?</a></li>
+          <li><a href="#q-furniture-request">¿Se añadirán los muebles que he solicitado?</a></li>
         </ul>
       </details>
     </li>
@@ -175,21 +179,21 @@ lang: es
 Así es como puedes empezar:
 
 **La persona que envía la invitación:**
-1. Inicia sesión y pulsa «Empezar de cero»
+1. Inicia sesión y pulsa «Nuevo inicio»
 2. Introduce tu perfil y elige tu animal
 3. Responde la primera pregunta
 4. Invita a tu pareja
 5. Tras el tutorial, recibiréis preguntas a una hora fija 💌
 
 **La persona que recibe la invitación:**
-1. Pulsa «Empezar con código de invitación» e introduce el código
+1. Pulsa «Comenzar con un código de invitación» e introduce el código
 2. Introduce tu perfil y elige tu animal
 3. Responde la primera pregunta
 4. Tras el tutorial, recibiréis preguntas a una hora fija 💌
 
 ### ¿Puedo cambiar mi nombre, género o el nombre del animal más adelante? {#q-change-profile}
 
-Sí — desde Mi página (barra inferior) → icono de engranaje (arriba a la derecha) → Configuración básica en la sección Configuración del Menú. El tipo y color del animal no pueden cambiarse.
+Sí — desde «Mi página» (parte inferior de la pantalla de inicio) → icono de engranaje (arriba a la derecha) → Configuración básica en la sección Configuración del Menú. El tipo y color del animal no pueden cambiarse.
 
 ### No recibo notificaciones. ¿Qué hago? {#q-no-notifications}
 
@@ -201,7 +205,7 @@ Es posible que tu pareja aún no haya respondido. La siguiente pregunta se enví
 
 ---
 
-## 📝 Q&A, Quiz de pareja y respuestas {#preguntas}
+## 📝 Preguntas, Test de pareja y respuestas {#preguntas}
 
 ### ¿Cómo veo los resultados? {#q-see-results}
 
@@ -209,7 +213,7 @@ Los resultados se muestran cuando ambos habéis respondido. Si respondes primero
 
 ### Respondí por error. ¿Puedo volver a hacerlo? {#q-edit-answer}
 
-Solo las respuestas de Q&A pueden editarse. Las del Quiz de pareja no pueden cambiarse.
+Solo las respuestas de Preguntas pueden editarse. Las del Test de pareja no pueden cambiarse.
 
 ### ¿Mi pareja recibirá una notificación cuando comente una respuesta? {#q-comment-notification}
 
@@ -217,7 +221,7 @@ Sí, recibirá una notificación push y una insignia roja dentro de la app.
 
 ### Mi pareja recibió la última pregunta pero yo no. {#q-partner-only-question}
 
-Puede ser un error — contáctanos desde Menú → Contáctanos.
+Puede ser un error — contáctanos desde Menú → «Contacto».
 
 ### Mis respuestas y resultados anteriores han desaparecido. {#q-past-answers-missing}
 
@@ -225,15 +229,15 @@ Puede ocurrir temporalmente por congestión de red. Vuelve a abrir la app. Si pe
 
 ---
 
-## 📷 Nuestros recuerdos {#recuerdos}
+## 📷 Álbum (recuerdos del mes) {#recuerdos}
 
 ### ¿Cuándo puedo empezar a añadir el recuerdo de este mes? {#q-memory-when}
 
-Puedes subir los recuerdos del mes actual desde el día 1 de cada mes. Usa el botón + en Nuestros registros → pestaña Recuerdos para añadirlos. Además, del 25 a las 12:00 hasta el 3 del mes siguiente a las 23:59, también aparece un banner en la pantalla de inicio.
+Puedes subir los recuerdos del mes actual desde el día 1 de cada mes. Para añadirlos, ve a «Álbum» (parte inferior de la pantalla de inicio) y pulsa el botón + de «Recuerdos de [mes]». Además, del 25 a las 12:00 hasta el 3 del mes siguiente a las 23:59, si aún no lo has añadido, también aparecerá un aviso en la pantalla de inicio.
 
 ### ¿Puedo editar un recuerdo que ya añadí? {#q-memory-edit}
 
-Puedes editar las fotos y la «nota del recuerdo». Selecciona el recuerdo y pulsa el icono de edición (lápiz). Los comentarios no pueden editarse.
+Puedes editar las fotos y «Una nota». Ve a «Álbum» (parte inferior de la pantalla de inicio) → el recuerdo que quieras editar → pulsa el icono de edición (arriba a la derecha). Los comentarios no pueden editarse.
 
 ---
 
@@ -241,11 +245,11 @@ Puedes editar las fotos y la «nota del recuerdo». Selecciona el recuerdo y pul
 
 ### ¿Puedo cambiar la hora de entrega de las preguntas? {#q-delivery-time}
 
-Solo la persona que envió la invitación puede cambiarlo. Se ajusta en incrementos de 1 hora. Mi página (barra inferior) → icono de engranaje (arriba a la derecha) → Configuración básica en la sección Configuración del Menú → Hora de entrega.
+Solo la persona que envió la invitación puede cambiarlo. Se ajusta en incrementos de 1 hora. «Mi página» (parte inferior de la pantalla de inicio) → icono de engranaje (arriba a la derecha) → Configuración básica en la sección Configuración del Menú → «Hora de entrega de las preguntas» en Ajustes de pareja.
 
 ### ¿Cómo cierro sesión? {#q-logout}
 
-Mi página (barra inferior) → icono de engranaje (arriba a la derecha) → Cerrar sesión en la sección Más del Menú. Una vez mostrada la pantalla de confirmación, volverás a la pantalla de inicio de la aplicación.
+«Mi página» (parte inferior de la pantalla de inicio) → icono de engranaje (arriba a la derecha) → Cerrar sesión en la sección Más del Menú. Una vez mostrada la pantalla de confirmación, volverás a la pantalla de inicio de la aplicación.
 
 ### ¿Cómo transfiero mis datos a un nuevo dispositivo? {#q-transfer-data}
 
@@ -266,7 +270,7 @@ Si accidentalmente empezaste con una cuenta nueva, cierra sesión o elimina la c
 
 Sí, puedes cambiarlo siguiendo los pasos a continuación.
 
-Mi página (barra inferior) → icono de engranaje (arriba a la derecha) → Configuración básica en la sección Configuración del Menú → Información de pareja → Situación de convivencia
+«Mi página» (parte inferior de la pantalla de inicio) → icono de engranaje (arriba a la derecha) → Configuración básica en la sección Configuración del Menú → «Situación de convivencia» en Ajustes de pareja
 
 A partir del siguiente horario de entrega tras el cambio, recibirás preguntas adaptadas a tu nueva situación de convivencia.
 
@@ -280,7 +284,7 @@ Lo sentimos, las fechas futuras no están disponibles en este momento.
 
 ### Hay aniversarios que no puedo eliminar ni cambiar de nombre. ¿Por qué? {#q-fixed-anniversary}
 
-Los siguientes cuatro aniversarios se crean automáticamente como predeterminados y no pueden eliminarse ni renombrarse: Aniversario de pareja, Tu cumpleaños, Cumpleaños de tu pareja y el Día que empezaste a usar Riamo.
+Los siguientes cuatro aniversarios se crean automáticamente como predeterminados y no pueden eliminarse ni renombrarse: Aniversario de pareja, Tu cumpleaños, Cumpleaños de tu pareja y El día que empezamos Riamo.
 
 ### Quiero cambiar el orden de mis aniversarios. {#q-anniversary-order}
 
@@ -306,7 +310,7 @@ La hora de entrega programada se basa en la zona horaria del destinatario. Por e
 
 En Riamo no utilizamos un sistema de "darse de baja". En su lugar, puedes eliminar tu cuenta directamente desde la aplicación:
 
-Mi página (barra inferior) → icono de engranaje (arriba a la derecha) → Gestionar cuenta en la sección Ayuda del Menú → Eliminar cuenta
+«Mi página» (parte inferior de la pantalla de inicio) → icono de engranaje (arriba a la derecha) → Gestionar cuenta en la sección Ayuda del Menú → «Eliminar cuenta»
 
 Ten en cuenta que, al eliminar tu cuenta, todos tus datos de respuestas serán borrados y no será posible recuperarlos posteriormente. Además, las suscripciones no se cancelan automáticamente. Debes completar el proceso de cancelación por separado.
 
@@ -339,14 +343,19 @@ Por ejemplo, en el caso de una pareja A y B:
 Las funciones incluidas son las siguientes:
 
 - Experiencia sin anuncios
-- Tickets cada mes para desbloquear temas del Quiz de pareja
+- Tickets cada mes para desbloquear temas del Test de pareja
 - Personalización de la Lista de deseos
-- Más fotos disponibles en «Nuestros recuerdos» mensuales
+- Más fotos disponibles para los recuerdos del mes
 - Más recuerdos que puedes registrar al cumplir deseos de tu lista
+- Puntos Riamo ×2 (excepto las recompensas de misiones)
 
 ### ¿Necesitamos los dos una suscripción? {#q-sub-both}
 
 No — si cualquiera de los dos se suscribe, ambos disfrutáis de las funciones premium.
+
+### ¿Dónde puedo consultar mi plan y la próxima fecha de renovación? {#q-sub-contract}
+
+Desde «Mi página» (parte inferior de la pantalla de inicio) → «Ver plan» en el banner de Riamo Plus, puedes consultar tu plan, el precio y la próxima fecha de renovación, entre otros datos. Si la suscripción es de tu pareja, la próxima fecha de renovación no se muestra.
 
 ### ¿Cómo cancelo mi suscripción? {#q-sub-cancel}
 
@@ -359,13 +368,13 @@ Esto debe hacerse a través de Google Play o la App Store, no dentro de la aplic
 
 Aunque canceles a mitad de periodo, podrás seguir utilizando las funciones de pago hasta la siguiente fecha de renovación. Ejemplo: para una suscripción válida hasta el 31 de julio, si cancelas el 29 de julio, podrás seguir utilizándola hasta el día 31.
 
-### ¿Perderé el acceso a las funciones de pago que estaba utilizando (como las respuestas del Quiz de pareja o las categorías añadidas a «Cosas que quiero hacer») después de cancelar? {#q-sub-after-cancel}
+### ¿Perderé el acceso a las funciones de pago que estaba utilizando (como las respuestas del Test de pareja o las categorías añadidas a «Nuestros planes por hacer») después de cancelar? {#q-sub-after-cancel}
 
-Los Quiz de pareja que ya hayas desbloqueado seguirán estando accesibles después de la cancelación, y los tickets que te queden no caducarán al cancelar. Sin embargo, las categorías añadidas a tu lista «Cosas que quiero hacer» durante el periodo de suscripción ya no se podrán ver tras la cancelación. Tras la cancelación, los elementos de la lista de deseos contenidos en las categorías añadidas quedarán ocultos.
+Los Test de pareja que ya hayas desbloqueado seguirán estando accesibles después de la cancelación, y los tickets que te queden no caducarán al cancelar. Sin embargo, las categorías añadidas a tu lista «Nuestros planes por hacer» durante el periodo de suscripción ya no se podrán ver tras la cancelación. Tras la cancelación, los elementos de la lista de deseos contenidos en las categorías añadidas quedarán ocultos.
 
 ### Si cambio de dispositivo durante el periodo de suscripción, ¿se transferirá la suscripción? {#q-sub-device-change}
 
-La información del contrato de suscripción está vinculada a la cuenta de App Store/Google Play utilizada en el momento de la compra, no a tu cuenta de inicio de sesión de Riamo. Después de cambiar de dispositivo, inicia sesión en App Store/Google Play con la misma cuenta utilizada para la compra y, a continuación, selecciona [Restaurar compra] en la pantalla de compra de la suscripción.
+La información del contrato de suscripción está vinculada a la cuenta de App Store/Google Play utilizada en el momento de la compra, no a tu cuenta de inicio de sesión de Riamo. Después de cambiar de dispositivo, inicia sesión en App Store/Google Play con la misma cuenta utilizada para la compra y, a continuación, selecciona [Restaurar compras] en la pantalla de compra de la suscripción.
 
 ※ Las suscripciones no se pueden transferir entre diferentes sistemas operativos (Android → iOS / iOS → Android). En tales casos, cancela la suscripción en la tienda donde se compró originalmente y vuelve a comprarla en la tienda de tu nuevo sistema operativo.
 
@@ -374,21 +383,38 @@ La información del contrato de suscripción está vinculada a la cuenta de App 
 
 ### Tengo suscripción pero las funciones premium no funcionan. {#q-sub-not-working}
 
-La información del contrato de suscripción está vinculada a la cuenta de App Store/Google Play utilizada en el momento de la compra, no a tu cuenta de inicio de sesión de Riamo. Comprueba que la cuenta de la tienda es la que está suscrita al servicio. Si estás utilizando la cuenta correcta y sigues sin poder acceder a las funciones de pago, ponte en contacto con el servicio de asistencia a través de Mi página → icono de engranaje (arriba a la derecha) → [Contacto] en la sección Ayuda del Menú.
+La información del contrato de suscripción está vinculada a la cuenta de App Store/Google Play utilizada en el momento de la compra, no a tu cuenta de inicio de sesión de Riamo. Comprueba que la cuenta de la tienda es la que está suscrita al servicio. Si estás utilizando la cuenta correcta y sigues sin poder acceder a las funciones de pago, ponte en contacto con el servicio de asistencia a través de «Mi página» → icono de engranaje (arriba a la derecha) → «Contacto» en la sección Ayuda del Menú.
 
 ---
 
-## 🎁 Decoraciones y sorpresas {#sorpresas}
+## 🏠 Habitación, tienda y Puntos Riamo {#sorpresas}
+
+### ¿Cómo consigo Puntos Riamo? {#q-point-earn}
+
+Ganáis Puntos Riamo al hacer lo siguiente:
+
+- Responder juntos una pregunta: +10 pt
+- Completar juntos un test de pareja: +30 pt
+- Añadir el recuerdo del mes al álbum: +15 pt (una vez por persona)
+- Completar las Misiones de principiante
+
+Los Puntos Riamo son compartidos por los dos. Mientras estéis suscritos a Riamo Plus, ganaréis el doble de puntos (excepto las recompensas de misiones).
 
 ### ¿Cómo desbloqueo más muebles y objetos? {#q-furniture-unlock}
 
-Se añaden nuevos muebles a medida que respondéis las preguntas juntos. Podéis comprobar cuántas preguntas faltan para el siguiente mueble en el contador "○ preguntas para el siguiente mueble" que aparece en la pantalla de inicio.
+Con los Puntos Riamo que acumuléis, podéis comprar en la tienda los muebles, papeles tapiz y suelos que más os gusten. Para entrar en la tienda, pulsa el icono de tienda en la esquina inferior derecha de la pantalla de inicio. Además, a veces también recibiréis muebles como regalo de las Misiones de principiante.
 
-### La cuenta regresiva de muebles ha desaparecido. ¿Por qué? {#q-furniture-countdown}
+### ¿Los cambios de decoración se reflejan también en la habitación de mi pareja? {#q-room-shared}
 
-Actualmente, la obtención de muebles finaliza cuando habéis respondido un número determinado de preguntas. Una vez que habéis conseguido todos los muebles disponibles, la cuenta regresiva deja de aparecer.
+Sí, la habitación es compartida entre los dos. Cuando uno de vosotros guarda los cambios de decoración, también se reflejan en la habitación de la otra persona. Si los dos redecoráis al mismo tiempo, se aplicarán los cambios que se hayan guardado en último lugar.
 
-Ten en cuenta que está previsto un rediseño en el futuro, que incluirá cambios en la colocación de muebles y objetos, así como en la forma de obtenerlos.
+### ¿Puedo cancelar o devolver un mueble que he comprado? {#q-furniture-refund}
+
+Por el momento, no hay funciones para cancelar compras, hacer devoluciones ni revender muebles.
+
+### ¿Se añadirán los muebles que he solicitado? {#q-furniture-request}
+
+Tendremos en cuenta las solicitudes que recibimos como referencia para crear nuevos muebles en el futuro. Ten en cuenta que no podemos responder a cada solicitud de forma individual ni garantizar que se añadan.
 
 ---
 
@@ -408,6 +434,6 @@ Ten en cuenta que los anuncios y las funciones de pago nos ayudan a mantener un 
 
 ## 📮 ¿Sigues necesitando ayuda?
 
-Contáctanos desde Menú → Contáctanos.
+Contáctanos desde Menú → «Contacto».
 
 </div>
