@@ -2,7 +2,7 @@
 layout: post
 title: "Disculpas por el problema en la pantalla de misiones completadas"
 date: 2026-10-16
-published: false
+published: true
 ---
 
 Hola, somos el equipo de Riamo.
@@ -20,7 +20,7 @@ Sentimos mucho las molestias y la preocupación que os hemos causado.
 
 Normalmente, al completar una misión aparece una pantalla de aviso y, al pulsar el botón «Recibir», se obtienen los Puntos Riamo.
 
-Sin embargo, si se habían completado muchas misiones a la vez, los elementos no cabían en la pantalla y el botón «Recibir» no se veía o no se podía pulsar. Como resultado, no era posible cerrar la pantalla de aviso (ni usar la aplicación).
+Sin embargo, hemos detectado casos en los que, si se habían completado muchas misiones a la vez, los elementos no cabían en la pantalla y el botón «Recibir» no se veía o no se podía pulsar. Como resultado, no era posible cerrar la pantalla de aviso (ni usar la aplicación).
 
 ---
 <br>  
@@ -32,15 +32,17 @@ Como medida de emergencia, hemos dejado de mostrar la pantalla de misiones compl
 > Aunque la pantalla de aviso no aparezca y no hayáis podido pulsar el botón «Recibir», los Puntos Riamo por completar las misiones se han añadido correctamente. No os preocupéis.
 
 Si seguís sin poder avanzar, cerrad la aplicación por completo y volved a abrirla.
-
 Si aun así no se soluciona, os pedimos disculpas por las molestias, pero contactad con nosotros desde «Contacto» en la aplicación.
+Si no podéis acceder al formulario de contacto, os agradeceríamos mucho que nos contactara vuestra pareja.
+
+Al contactarnos a través del formulario, podemos comprobar el estado de vuestros datos como pareja.
 
 ---
 <br>  
 
 ## 📱 Sobre la versión corregida
 
-A fecha del 16 de octubre de 2026, la versión de la aplicación con la solución definitiva está en proceso de publicación en las tiendas. La publicaremos en cuanto termine la revisión. Cuando esté disponible, actualizad a la última versión.
+A fecha del 16 de octubre de 2026, la versión con la solución definitiva está en proceso de publicación en las tiendas. La publicaremos en cuanto termine el proceso.
 
 **iOS**
 [Actualizar en App Store](https://apps.apple.com/app/id6744003738)
