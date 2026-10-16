@@ -2,7 +2,7 @@
 layout: post
 title: "ミッション達成の通知画面の不具合についてのお詫び"
 date: 2026-10-16
-published: false
+published: true
 ---
 
 こんにちは、Riamo運営チームです。
