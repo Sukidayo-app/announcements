@@ -245,7 +245,9 @@ Puedes editar las fotos y «Una nota». Ve a «Álbum» (parte inferior de la pa
 
 ### ¿Puedo cambiar la hora de entrega de las preguntas? {#q-delivery-time}
 
-Solo la persona que envió la invitación puede cambiarlo. Se ajusta en incrementos de 1 hora. «Mi página» (parte inferior de la pantalla de inicio) → icono de engranaje (arriba a la derecha) → Configuración básica en la sección Configuración del Menú → «Hora de entrega de las preguntas» en Ajustes de pareja.
+Cualquiera de los dos puede cambiarlo. Se ajusta en incrementos de 1 hora y se comparte entre ambos. «Mi página» (parte inferior de la pantalla de inicio) → icono de engranaje (arriba a la derecha) → Configuración básica en la sección Configuración del Menú → «Hora de entrega de las preguntas» en Ajustes de pareja.
+
+La nueva pregunta llega a la hora de entrega configurada, una vez que ambos hayan respondido.
 
 ### ¿Cómo cierro sesión? {#q-logout}
 

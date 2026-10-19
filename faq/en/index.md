@@ -245,7 +245,9 @@ You can edit the photos and "Leave a little note." Go to "Album" at the bottom o
 
 ### Can I change the question delivery time? {#q-delivery-time}
 
-Only the person who sent the invite can change this. It can be set in 1-hour increments and applies to both partners. Go to "My page" at the bottom of the home screen → gear icon (top right) → "Basic settings" in the Settings section of the Menu → "Question delivery time" under "Couple Settings".
+Either partner can change this. It can be set in 1-hour increments and applies to both partners. Go to "My page" at the bottom of the home screen → gear icon (top right) → "Basic settings" in the Settings section of the Menu → "Question delivery time" under "Couple Settings".
+
+A new question arrives at the set delivery time once both of you have answered.
 
 ### How do I log out? {#q-logout}
 
