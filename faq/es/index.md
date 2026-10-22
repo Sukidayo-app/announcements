@@ -213,7 +213,9 @@ Los resultados se muestran cuando ambos habéis respondido. Si respondes primero
 
 ### Respondí por error. ¿Puedo volver a hacerlo? {#q-edit-answer}
 
-Solo las respuestas de Preguntas pueden editarse. Las del Test de pareja no pueden cambiarse.
+Las respuestas de Preguntas pueden editarse más tarde. Las respuestas del Test de pareja pueden editarse mientras tu pareja todavía no haya respondido. Una vez que ambos hayáis respondido, ya no se pueden cambiar, así que podéis usar los comentarios o hablarlo en persona.
+
+※ La edición de respuestas del Test de pareja está disponible en la última versión de la app.
 
 ### ¿Mi pareja recibirá una notificación cuando comente una respuesta? {#q-comment-notification}
 
@@ -372,7 +374,7 @@ Aunque canceles a mitad de periodo, podrás seguir utilizando las funciones de p
 
 ### ¿Perderé el acceso a las funciones de pago que estaba utilizando (como las respuestas del Test de pareja o las categorías añadidas a «Nuestros planes por hacer») después de cancelar? {#q-sub-after-cancel}
 
-Los Test de pareja que ya hayas desbloqueado seguirán estando accesibles después de la cancelación, y los tickets que te queden no caducarán al cancelar. Sin embargo, las categorías añadidas a tu lista «Nuestros planes por hacer» durante el periodo de suscripción ya no se podrán ver tras la cancelación. Tras la cancelación, los elementos de la lista de deseos contenidos en las categorías añadidas quedarán ocultos.
+Los Test de pareja que ya hayas desbloqueado seguirán estando accesibles después de la cancelación, y los tickets que te queden no caducarán al cancelar. Sin embargo, tras la cancelación ya no podrás filtrar tu lista «Nuestros planes por hacer» por las categorías añadidas durante el periodo de suscripción. Los elementos de esas categorías no se eliminan y podrás seguir viéndolos en «Todo».
 
 ### Si cambio de dispositivo durante el periodo de suscripción, ¿se transferirá la suscripción? {#q-sub-device-change}
 

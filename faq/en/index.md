@@ -213,7 +213,9 @@ Results are shown once both of you have answered. If you answer first, your part
 
 ### I answered by mistake. Can I redo it? {#q-edit-answer}
 
-Only Q&A answers can be edited. Couple Quiz answers cannot be changed. You can use the comment feature or talk it over in person.
+Q&A answers can be edited later. Couple Quiz answers can be edited as long as your partner hasn't answered yet. Once you've both answered, they can no longer be changed, so you can use the comment feature or talk it over in person.
+
+※ Editing Couple Quiz answers is available in the latest version of the app.
 
 ### Will my partner be notified when I comment on an answer? {#q-comment-notification}
 
@@ -376,7 +378,7 @@ No — even if you cancel mid-term, you can continue using premium features unti
 
 ### Will I lose access to paid features I used (like Couple Quiz answers or added Wishlist categories) after canceling? {#q-sub-after-cancel}
 
-Couple Quizzes you've already unlocked will remain accessible after cancellation, and any tickets you still hold will not expire when you cancel. However, categories added to Our Wishlist during your subscription will no longer be viewable after cancellation. After cancellation, the Wishlist items within the added categories will be hidden.
+Couple Quizzes you've already unlocked will remain accessible after cancellation, and any tickets you still hold will not expire when you cancel. However, categories added to Our Wishlist during your subscription can no longer be used to filter your list after cancellation. The Wishlist items in those categories will not be deleted and can still be viewed under "All."
 
 ### If I change my device during the subscription period, will the subscription carry over? {#q-sub-device-change}
 
