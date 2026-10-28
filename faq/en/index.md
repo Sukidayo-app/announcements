@@ -153,6 +153,7 @@ lang: en
           <li><a href="#q-point-earn">How do I earn Riamo Points?</a></li>
           <li><a href="#q-furniture-unlock">How do I get more furniture and items?</a></li>
           <li><a href="#q-room-shared">Does redecorating also change my partner's room?</a></li>
+          <li><a href="#q-room-pair-ride">I placed furniture for two, but only one pet gets on it.</a></li>
           <li><a href="#q-furniture-refund">Can I cancel or return furniture I bought?</a></li>
           <li><a href="#q-furniture-request">Will the furniture I requested be added?</a></li>
         </ul>
@@ -415,6 +416,12 @@ You can use the Riamo Points you've saved to buy any furniture, wallpaper, or fl
 ### Does redecorating also change my partner's room? {#q-room-shared}
 
 Yes, your room is shared by the two of you. When either of you saves a new layout, it will be reflected in your partner's room as well. If you both redecorate at the same time, whichever layout is saved last will be applied.
+
+### I placed furniture for two, but only one pet gets on it. {#q-room-pair-ride}
+
+If furniture for two, such as the Double Bed or a Loveseat, is placed right at the left or right edge of the room, two pets riding on it would stick out of the screen. In that case, only one pet gets on and sits in the middle of the furniture. If you'd like both pets to get on, try moving the furniture a little toward the center of the room when you redecorate.
+
+> Whether the pets get on furniture, and which piece they choose, changes each time you launch the app. If there are several pieces of furniture they can get on, they pick only one, so the two pets won't always be on it together.
 
 ### Can I cancel or return furniture I bought? {#q-furniture-refund}
 

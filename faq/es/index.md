@@ -153,6 +153,7 @@ lang: es
           <li><a href="#q-point-earn">¿Cómo consigo Puntos Riamo?</a></li>
           <li><a href="#q-furniture-unlock">¿Cómo desbloqueo más muebles y objetos?</a></li>
           <li><a href="#q-room-shared">¿Los cambios de decoración se reflejan también en la habitación de mi pareja?</a></li>
+          <li><a href="#q-room-pair-ride">He puesto un mueble para dos, pero solo se sube una mascota.</a></li>
           <li><a href="#q-furniture-refund">¿Puedo cancelar o devolver un mueble que he comprado?</a></li>
           <li><a href="#q-furniture-request">¿Se añadirán los muebles que he solicitado?</a></li>
         </ul>
@@ -411,6 +412,12 @@ Con los Puntos Riamo que acumuléis, podéis comprar en la tienda los muebles, p
 ### ¿Los cambios de decoración se reflejan también en la habitación de mi pareja? {#q-room-shared}
 
 Sí, la habitación es compartida entre los dos. Cuando uno de vosotros guarda los cambios de decoración, también se reflejan en la habitación de la otra persona. Si los dos redecoráis al mismo tiempo, se aplicarán los cambios que se hayan guardado en último lugar.
+
+### He puesto un mueble para dos, pero solo se sube una mascota. {#q-room-pair-ride}
+
+Si un mueble para dos, como la Cama doble o un Sofá para dos, está colocado justo en el borde izquierdo o derecho de la habitación, las dos mascotas se saldrían de la pantalla al subirse. En ese caso, solo se sube una mascota y se queda en el centro del mueble. Si quieres que se suban las dos, prueba a mover el mueble un poco hacia el centro de la habitación al redecorar.
+
+> Si las mascotas se suben a un mueble, y a cuál, cambia cada vez que abres la app. Si hay varios muebles a los que pueden subirse, eligen solo uno, así que no siempre estarán las dos juntas.
 
 ### ¿Puedo cancelar o devolver un mueble que he comprado? {#q-furniture-refund}
 
