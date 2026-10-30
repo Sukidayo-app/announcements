@@ -27,9 +27,9 @@ Solo tenéis que enviar vuestro cupón de pareja a un amigo.
 **Para los amigos que recibieron un cupón**
 Aunque ya se hayan emparejado, pueden introducirlo desde el menú en **"Recomendar a amigos" → "Introducir cupón de recomendación"** (dentro de los 30 días tras emparejarse, una vez por pareja).
 
-> ・Introducir el cupón no basta. Los tickets llegan cuando tu amigo se empareja con su pareja.
-> ・Vosotros podéis recibir tickets por hasta 5 parejas al mes. Vuestros amigos siempre los reciben.
-> ・No es válido para quienes ya usan Riamo ni para vuestro propio cupón.
+> ・Introducir el cupón no basta. Los tickets llegan cuando tu amigo se empareja con su pareja.<br>
+> ・Vosotros podéis recibir tickets por hasta 5 parejas al mes. Vuestros amigos siempre los reciben.<br>
+> ・No es válido para quienes ya usan Riamo ni para vuestro propio cupón.<br>
 
 <img width="100%" alt="Recomendar a un amigo" src="{{ site.baseurl }}/assets/notice/friend-referral/referral_es.png" />
 

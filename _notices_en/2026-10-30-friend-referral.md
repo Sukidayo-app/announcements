@@ -27,9 +27,9 @@ Just send your couple's Referral Code to a friend.
 **For friends who received a code**
 Even after pairing up, they can enter it anytime from the menu via **"Refer a friend" → "Enter Referral Code"** (within 30 days of pairing, once per couple).
 
-> ・Entering the code alone is not enough. Tickets arrive when your friend pairs up with their partner.
-> ・You can earn tickets for up to 5 couples per month. Your friends always get theirs.
-> ・People already using Riamo and your own Referral Code are not eligible.
+> ・Entering the code alone is not enough. Tickets arrive when your friend pairs up with their partner.<br>
+> ・You can earn tickets for up to 5 couples per month. Your friends always get theirs.<br>
+> ・People already using Riamo and your own Referral Code are not eligible.<br>
 
 <img width="100%" alt="Refer a friend" src="{{ site.baseurl }}/assets/notice/friend-referral/referral_en.png" />
 
