@@ -31,6 +31,8 @@ Aunque ya se hayan emparejado, pueden introducirlo desde el menú en **"Recomend
 > ・Vosotros podéis recibir tickets por hasta 5 parejas al mes. Vuestros amigos siempre los reciben.
 > ・No es válido para quienes ya usan Riamo ni para vuestro propio cupón.
 
+<img width="100%" alt="Recomendar a un amigo" src="{{ site.baseurl }}/assets/notice/friend-referral/referral_es.png" />
+
 ---
 <br>
 
@@ -39,6 +41,8 @@ Aunque ya se hayan emparejado, pueden introducirlo desde el menú en **"Recomend
 ¡Una función muy pedida! Toca el **botón 📷** en el campo de comentario para adjuntar y enviar fotos.
 Hasta 2 fotos por comentario, y también podéis enviar solo la foto.
 
+<img width="100%" alt="Adjuntar fotos a un comentario" src="{{ site.baseurl }}/assets/notice/friend-referral/comment_photo_es.png" />
+
 ---
 <br>
 
@@ -46,6 +50,8 @@ Hasta 2 fotos por comentario, y también podéis enviar solo la foto.
 
 Ahora la portada de la tarjeta de mensaje puede ser **una foto vuestra**, no solo una ilustración.
 Toca **"Usar una foto"** al crear la tarjeta y podrás ajustar la posición y el recorte.
+
+<img width="100%" alt="Elegir una foto para la portada de la tarjeta" src="{{ site.baseurl }}/assets/notice/friend-referral/card_photo_es.png" />
 
 ---
 <br>

@@ -31,6 +31,8 @@ published: true
 > ・あなたたちがもらえるのは毎月5組までです。お友達には毎回届きます。
 > ・すでにRiamoを使っている人や、自分たちのクーポンは対象外です。
 
+<img width="100%" alt="友達紹介" src="{{ site.baseurl }}/assets/notice/friend-referral/referral_ja.png" />
+
 ---
 <br>
 
@@ -39,6 +41,8 @@ published: true
 ご要望の多かった機能です！コメントの入力欄にある **📷ボタン** から、写真をそのまま送れるようになりました。
 1回のコメントにつき写真は2枚まで。写真だけのコメントも送れます。
 
+<img width="100%" alt="コメントに写真を添付" src="{{ site.baseurl }}/assets/notice/friend-referral/comment_photo_ja.png" />
+
 ---
 <br>
 
@@ -46,6 +50,8 @@ published: true
 
 メッセージカードの表紙を、イラストだけでなく **ふたりの写真** にできるようになりました。
 カード作成画面で **「写真にする」** を選ぶと、写真の位置や切り取り方も調整できます。
+
+<img width="100%" alt="メッセージカードの表紙に写真を選択" src="{{ site.baseurl }}/assets/notice/friend-referral/card_photo_ja.png" />
 
 ---
 <br>

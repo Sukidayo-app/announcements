@@ -31,6 +31,8 @@ published: true
 > ・두 사람이 받을 수 있는 건 매월 5팀까지예요. 친구에게는 매번 도착해요.
 > ・이미 Riamo를 사용 중인 사람과 두 사람의 쿠폰은 대상이 아니에요.
 
+<img width="100%" alt="친구 추천" src="{{ site.baseurl }}/assets/notice/friend-referral/referral_ko.png" />
+
 ---
 <br>
 
@@ -39,6 +41,8 @@ published: true
 요청이 많았던 기능이에요! 댓글 입력창의 **📷 버튼**으로 사진을 그대로 보낼 수 있게 되었어요.
 댓글 1개에 사진은 2장까지. 사진만의 댓글도 보낼 수 있어요.
 
+<img width="100%" alt="댓글에 사진 첨부" src="{{ site.baseurl }}/assets/notice/friend-referral/comment_photo_ko.png" />
+
 ---
 <br>
 
@@ -46,6 +50,8 @@ published: true
 
 메시지 카드 표지를 일러스트뿐 아니라 **두 사람의 사진**으로 할 수 있게 되었어요.
 카드 작성 화면에서 **「사진으로 바꾸기」** 를 선택하면 사진의 위치와 자르기도 조정할 수 있어요.
+
+<img width="100%" alt="메시지 카드 표지 사진 선택" src="{{ site.baseurl }}/assets/notice/friend-referral/card_photo_ko.png" />
 
 ---
 <br>

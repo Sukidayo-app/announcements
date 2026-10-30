@@ -31,6 +31,8 @@ Even after pairing up, they can enter it anytime from the menu via **"Refer a fr
 > ・You can earn tickets for up to 5 couples per month. Your friends always get theirs.
 > ・People already using Riamo and your own Referral Code are not eligible.
 
+<img width="100%" alt="Refer a friend" src="{{ site.baseurl }}/assets/notice/friend-referral/referral_en.png" />
+
 ---
 <br>
 
@@ -39,6 +41,8 @@ Even after pairing up, they can enter it anytime from the menu via **"Refer a fr
 A much-requested feature! Tap the **📷 button** in the comment field to attach and send photos.
 Up to 2 photos per comment, and you can send a photo on its own too.
 
+<img width="100%" alt="Attach photos to a comment" src="{{ site.baseurl }}/assets/notice/friend-referral/comment_photo_en.png" />
+
 ---
 <br>
 
@@ -46,6 +50,8 @@ Up to 2 photos per comment, and you can send a photo on its own too.
 
 Message card covers can now use **a photo of the two of you**, not just illustrations.
 Tap **"Use a photo"** when creating a card, and you can adjust the position and cropping.
+
+<img width="100%" alt="Choose a photo for a message card cover" src="{{ site.baseurl }}/assets/notice/friend-referral/card_photo_en.png" />
 
 ---
 <br>
