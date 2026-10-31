@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "친구 추천으로 진단 티켓 선물 🎁"
+title: "[신기능] 친구 추천으로 진단 티켓 선물 🎁"
 date: 2026-10-30
 published: true
 ---

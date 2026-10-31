@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Get a quiz ticket by referring a friend 🎁"
+title: "[New] Get a quiz ticket by referring a friend 🎁"
 date: 2026-10-30
 published: true
 ---
