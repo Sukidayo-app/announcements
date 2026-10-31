@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "[Nuevo] Recomienda a un amigo y llévate un ticket de test 🎁"
-date: 2026-10-30
+date: 2026-10-31
 published: true
 ---
 

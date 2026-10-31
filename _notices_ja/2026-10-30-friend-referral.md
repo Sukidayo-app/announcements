@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "【新機能】友達紹介で診断チケットプレゼント🎁"
-date: 2026-10-30
+date: 2026-10-31
 published: true
 ---
 
