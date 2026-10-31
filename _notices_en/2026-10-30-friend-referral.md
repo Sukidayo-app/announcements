@@ -9,7 +9,7 @@ Hello from the Riamo team!
 
 Thank you for using Riamo as always.
 
-In this update, we've added a new **"Refer a friend"** feature 🎉
+With this update, **you can now get rewards by referring friends!** 🎉
 When you refer a friend couple, **both the friend couple and the two of you get 1 couple quiz ticket each!**
 
 ---

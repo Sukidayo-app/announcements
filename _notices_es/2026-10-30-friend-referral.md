@@ -9,7 +9,7 @@ published: true
 
 Gracias por usar Riamo como siempre.
 
-En esta actualización hemos añadido la nueva función **"Recomendar a amigos"** 🎉
+Con esta actualización, **¡ahora podéis conseguir recompensas recomendando a amigos!** 🎉
 Si recomendáis una pareja amiga, **¡la pareja amiga y vosotros recibís 1 ticket de test en pareja cada uno!**
 
 ---
