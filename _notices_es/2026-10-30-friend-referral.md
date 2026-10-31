@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[Nuevo] Recomienda a un amigo y los dos recibís un ticket de test 🎁"
+title: "Recomienda a un amigo y llévate un ticket de test 🎁"
 date: 2026-10-30
 published: true
 ---
