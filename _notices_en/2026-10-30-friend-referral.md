@@ -49,7 +49,7 @@ Up to 2 photos per comment, and you can send a photo on its own too.
 ## 💌 Choose a photo for your message card cover
 
 Message card covers can now use **a photo of the two of you**, not just illustrations.
-Tap **"Use a photo"** when creating a card, and you can adjust the position and cropping.
+Tap **"Use a photo"** when creating a card, and you can set a photo as the cover.
 
 <img width="100%" alt="Choose a photo for a message card cover" src="{{ site.baseurl }}/assets/notice/friend-referral/card_photo_en.png" />
 

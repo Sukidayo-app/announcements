@@ -49,7 +49,7 @@ Hasta 2 fotos por comentario, y también podéis enviar solo la foto.
 ## 💌 Elige una foto para la portada de la tarjeta de mensaje
 
 Ahora la portada de la tarjeta de mensaje puede ser **una foto vuestra**, no solo una ilustración.
-Toca **"Usar una foto"** al crear la tarjeta y podrás ajustar la posición y el recorte.
+Toca **"Usar una foto"** al crear la tarjeta y podrás poner una foto en la portada.
 
 <img width="100%" alt="Elegir una foto para la portada de la tarjeta" src="{{ site.baseurl }}/assets/notice/friend-referral/card_photo_es.png" />
 
