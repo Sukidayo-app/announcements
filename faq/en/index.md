@@ -148,10 +148,22 @@ lang: en
     </li>
     <li>
       <details>
+        <summary>🎟 Referral Codes</summary>
+        <ul>
+          <li><a href="#q-referral-where">Where can I enter a Referral Code?</a></li>
+          <li><a href="#q-referral-not-received">I entered a Referral Code but didn't get a ticket.</a></li>
+          <li><a href="#q-referral-limit">Can we get tickets every time we refer a friend?</a></li>
+          <li><a href="#q-referral-own-code">Where can we find our own Referral Code?</a></li>
+        </ul>
+      </details>
+    </li>
+    <li>
+      <details>
         <summary>🏠 Room, Shop &amp; Riamo Points</summary>
         <ul>
           <li><a href="#q-point-earn">How do I earn Riamo Points?</a></li>
           <li><a href="#q-furniture-unlock">How do I get more furniture and items?</a></li>
+          <li><a href="#q-furniture-multiple">Can I buy more than one of the same furniture?</a></li>
           <li><a href="#q-room-shared">Does redecorating also change my partner's room?</a></li>
           <li><a href="#q-room-pair-ride">I placed furniture for two, but only one pet gets on it.</a></li>
           <li><a href="#q-furniture-refund">Can I cancel or return furniture I bought?</a></li>
@@ -242,6 +254,8 @@ You can upload memories for the current month starting from the 1st of each mont
 
 You can edit the photos and "Leave a little note." Go to "Album" at the bottom of the home screen → select the memory, and tap the edit icon (pencil) in the top right. Comments cannot be edited.
 
+Photos you added yourself can also be deleted by long-pressing the photo and selecting "Delete this photo" from the menu. Photos added by your partner cannot be deleted.
+
 ---
 
 ## 🛠 Settings & Features {#settings}
@@ -303,7 +317,7 @@ Anniversaries are automatically sorted by the nearest upcoming date and cannot b
 
 ### Can I edit or delete a message card that has already been sent? {#q-card-edit}
 
-Sent message cards cannot be edited or deleted. Scheduled cards can be edited or deleted before they are delivered.
+Sent message cards cannot be edited or deleted. Scheduled cards can be edited or deleted before they are delivered (including changing the cover photo).
 
 ### My partner and I live far apart. What time zone is used for the message card delivery time? {#q-card-timezone}
 
@@ -396,6 +410,31 @@ Subscription information is linked to the App Store/Google Play account used at 
 
 ---
 
+## 🎟 Referral Codes {#referral}
+
+### Where can I enter a Referral Code? {#q-referral-where}
+
+You can enter it on the "Do you have a Referral Code?" screen when you first start the app. If you skipped it, you can still enter it later from "Enter Referral Code" in the Menu within 30 days of pairing.
+
+### I entered a Referral Code but didn't get a ticket. {#q-referral-not-received}
+
+Please check the following:
+
+- Tickets are given when you pair with your partner. Entering the code alone does not give you a ticket
+- Codes can only be entered within 30 days of pairing
+- The reward can be received only once per couple. If your partner has already entered a code, it will show as received
+- You cannot use your own couple's code
+
+### Can we get tickets every time we refer a friend? {#q-referral-limit}
+
+The referring couple can receive tickets for up to 5 referrals per month. The referred friend couple always receives a ticket.
+
+### Where can we find our own Referral Code? {#q-referral-own-code}
+
+You can find it from "Refer a friend" in the Menu. You can also copy the referral message or code and share it with friends from there.
+
+---
+
 ## 🏠 Room, Shop & Riamo Points {#fun}
 
 ### How do I earn Riamo Points? {#q-point-earn}
@@ -413,6 +452,10 @@ Riamo Points are shared by the two of you. While subscribed to Riamo Plus, you e
 
 You can use the Riamo Points you've saved to buy any furniture, wallpaper, or flooring you like from the shop. Open the shop from the shop icon at the bottom right of the home screen. You may also receive furniture as a gift from Beginner Missions.
 
+### Can I buy more than one of the same furniture? {#q-furniture-multiple}
+
+Furniture without color variations (such as garlands and houseplants) can be bought more than once. Furniture with color variations can be bought only once.
+
 ### Does redecorating also change my partner's room? {#q-room-shared}
 
 Yes, your room is shared by the two of you. When either of you saves a new layout, it will be reflected in your partner's room as well. If you both redecorate at the same time, whichever layout is saved last will be applied.
@@ -425,7 +468,7 @@ If furniture for two, such as the Double Bed or a Loveseat, is placed right at t
 
 ### Can I cancel or return furniture I bought? {#q-furniture-refund}
 
-Canceling, returning, or reselling purchases is not currently available.
+Canceling, returning, or reselling purchases is not currently available. Please note that even if you accidentally buy extra copies of furniture that can be bought more than once, the purchase cannot be canceled.
 
 ### Will the furniture I requested be added? {#q-furniture-request}
 

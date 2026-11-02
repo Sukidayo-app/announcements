@@ -148,10 +148,22 @@ lang: es
     </li>
     <li>
       <details>
+        <summary>🎟 Cupones de recomendación</summary>
+        <ul>
+          <li><a href="#q-referral-where">¿Dónde puedo introducir un cupón de recomendación?</a></li>
+          <li><a href="#q-referral-not-received">Introduje un cupón, pero no recibí el ticket.</a></li>
+          <li><a href="#q-referral-limit">¿Recibimos un ticket cada vez que recomendamos a alguien?</a></li>
+          <li><a href="#q-referral-own-code">¿Dónde podemos ver nuestro cupón de recomendación?</a></li>
+        </ul>
+      </details>
+    </li>
+    <li>
+      <details>
         <summary>🏠 Habitación, tienda y Puntos Riamo</summary>
         <ul>
           <li><a href="#q-point-earn">¿Cómo consigo Puntos Riamo?</a></li>
           <li><a href="#q-furniture-unlock">¿Cómo desbloqueo más muebles y objetos?</a></li>
+          <li><a href="#q-furniture-multiple">¿Puedo comprar varias unidades del mismo mueble?</a></li>
           <li><a href="#q-room-shared">¿Los cambios de decoración se reflejan también en la habitación de mi pareja?</a></li>
           <li><a href="#q-room-pair-ride">He puesto un mueble para dos, pero solo se sube una mascota.</a></li>
           <li><a href="#q-furniture-refund">¿Puedo cancelar o devolver un mueble que he comprado?</a></li>
@@ -242,6 +254,8 @@ Puedes subir los recuerdos del mes actual desde el día 1 de cada mes. Para aña
 
 Puedes editar las fotos y «Una nota». Ve a «Álbum» (parte inferior de la pantalla de inicio) → el recuerdo que quieras editar → pulsa el icono de edición (arriba a la derecha). Los comentarios no pueden editarse.
 
+Las fotos que hayas añadido tú también pueden eliminarse manteniendo pulsada la foto y eligiendo «Eliminar esta foto» en el menú. Las fotos añadidas por tu pareja no pueden eliminarse.
+
 ---
 
 ## 🛠 Ajustes y funciones {#ajustes}
@@ -301,7 +315,7 @@ Los aniversarios se ordenan automáticamente por la fecha más próxima y no pue
 
 ### ¿Puedo editar o eliminar una tarjeta de mensaje que ya se envió? {#q-card-edit}
 
-Las tarjetas de mensaje enviadas no pueden editarse ni eliminarse. Las tarjetas programadas pueden editarse o eliminarse antes de su entrega.
+Las tarjetas de mensaje enviadas no pueden editarse ni eliminarse. Las tarjetas programadas pueden editarse o eliminarse antes de su entrega (incluido el cambio de la foto de portada).
 
 ### Mi pareja y yo vivimos lejos. ¿Qué zona horaria se usa para la hora de entrega de las tarjetas? {#q-card-timezone}
 
@@ -392,6 +406,31 @@ La información del contrato de suscripción está vinculada a la cuenta de App 
 
 ---
 
+## 🎟 Cupones de recomendación {#recomendacion}
+
+### ¿Dónde puedo introducir un cupón de recomendación? {#q-referral-where}
+
+Puedes introducirlo en la pantalla «¿Tienes un cupón de recomendación?» al empezar a usar la app. Si no lo introdujiste, también puedes hacerlo más tarde desde «Introducir cupón de recomendación» en el Menú, dentro de los 30 días posteriores a emparejaros.
+
+### Introduje un cupón, pero no recibí el ticket. {#q-referral-not-received}
+
+Comprueba lo siguiente:
+
+- El ticket se entrega cuando os emparejáis con vuestra pareja. Solo introducir el cupón no basta para recibirlo
+- El cupón solo puede introducirse dentro de los 30 días posteriores a emparejaros
+- La recompensa solo puede recibirse una vez por pareja. Si tu pareja ya lo introdujo, aparecerá como recibida
+- No podéis usar vuestro propio cupón
+
+### ¿Recibimos un ticket cada vez que recomendamos a alguien? {#q-referral-limit}
+
+La pareja que recomienda puede recibir tickets por hasta 5 parejas al mes. La pareja de amigos recomendada siempre recibe su ticket.
+
+### ¿Dónde podemos ver nuestro cupón de recomendación? {#q-referral-own-code}
+
+Podéis verlo desde «Recomendar a un amigo» en el Menú. Desde ahí también podéis copiar el mensaje de recomendación o el cupón y compartirlo con vuestros amigos.
+
+---
+
 ## 🏠 Habitación, tienda y Puntos Riamo {#sorpresas}
 
 ### ¿Cómo consigo Puntos Riamo? {#q-point-earn}
@@ -409,6 +448,10 @@ Los Puntos Riamo son compartidos por los dos. Mientras estéis suscritos a Riamo
 
 Con los Puntos Riamo que acumuléis, podéis comprar en la tienda los muebles, papeles tapiz y suelos que más os gusten. Para entrar en la tienda, pulsa el icono de tienda en la esquina inferior derecha de la pantalla de inicio. Además, a veces también recibiréis muebles como regalo de las Misiones de principiante.
 
+### ¿Puedo comprar varias unidades del mismo mueble? {#q-furniture-multiple}
+
+Los muebles sin variaciones de color (como guirnaldas o plantas de interior) pueden comprarse más de una vez. Los muebles con variaciones de color solo pueden comprarse una vez.
+
 ### ¿Los cambios de decoración se reflejan también en la habitación de mi pareja? {#q-room-shared}
 
 Sí, la habitación es compartida entre los dos. Cuando uno de vosotros guarda los cambios de decoración, también se reflejan en la habitación de la otra persona. Si los dos redecoráis al mismo tiempo, se aplicarán los cambios que se hayan guardado en último lugar.
@@ -421,7 +464,7 @@ Si un mueble para dos, como la Cama doble o un Sofá para dos, está colocado ju
 
 ### ¿Puedo cancelar o devolver un mueble que he comprado? {#q-furniture-refund}
 
-Por el momento, no hay funciones para cancelar compras, hacer devoluciones ni revender muebles.
+Por el momento, no hay funciones para cancelar compras, hacer devoluciones ni revender muebles. Ten en cuenta que, aunque compres por error más unidades de un mueble que puede comprarse varias veces, la compra no se puede cancelar.
 
 ### ¿Se añadirán los muebles que he solicitado? {#q-furniture-request}
 
